@@ -57,16 +57,16 @@
 
 | ID | Módulo | Konzeptuell | Praktisch | Verbindungen | Status |
 |----|--------|:---:|:---:|:---:|:------:|
-| 03-01 | Nominaler vs. verbaler Stil | ⬜ | ⬜ | ⬜ | LOCKED |
-| 03-02 | Register | ⬜ | ⬜ | ⬜ | LOCKED |
-| 03-03 | Idiomatik und Phraseologie | ⬜ | ⬜ | ⬜ | LOCKED |
-| 03-04 | Pragmatik | ⬜ | ⬜ | ⬜ | LOCKED |
-| 03-05 | Modalpartikeln | ⬜ | ⬜ | ⬜ | LOCKED |
-| 03-06 | Stilfiguren und Rhetorik | ⬜ | ⬜ | ⬜ | LOCKED |
-| 03-07 | Wissenschaftliches Schreiben | ⬜ | ⬜ | ⬜ | LOCKED |
-| 03-08 | Journalistischer Stil | ⬜ | ⬜ | ⬜ | LOCKED |
-| 03-09 | Lexik III — geisteswissenschaftlicher Wortschatz | ⬜ | ⬜ | ⬜ | LOCKED |
-| **CAPSTONE-3** | Erkenntnisprojekt v2 (5000 Wörter, primärquellen) | - | ⬜ | - | LOCKED |
+| 03-01 | Nominaler vs. verbaler Stil | ⬜ | ⬜ | ⬜ | LOCKED (prereq: 02-06) |
+| 03-02 | Register — Hochsprache, Umgangssprache, Fachsprache, Plurizentrik | ⬜ | ⬜ | ⬜ | LOCKED (prereq: 02-09) |
+| 03-03 | Idiomatik und Phraseologie | ⬜ | ⬜ | ⬜ | LOCKED (prereq: 02-09) |
+| 03-04 | Pragmatik — Sprechakte, Implikatur, Höflichkeit, Deixis | ⬜ | ⬜ | ⬜ | LOCKED (prereq: 02-07) |
+| 03-05 | Modalpartikeln (sistematische Vertiefung) | ⬜ | ⬜ | ⬜ | LOCKED (prereq: 02-07) |
+| 03-06 | Stilfiguren und Rhetorik | ⬜ | ⬜ | ⬜ | LOCKED (prereq: 03-01) |
+| 03-07 | Wissenschaftliches Schreiben | ⬜ | ⬜ | ⬜ | LOCKED (prereq: 03-01) |
+| 03-08 | Journalistischer Stil | ⬜ | ⬜ | ⬜ | LOCKED (prereq: 03-02) |
+| 03-09 | Lexik III — geisteswissenschaftlicher Wortschatz | ⬜ | ⬜ | ⬜ | LOCKED (prereq: 02-09) |
+| **CAPSTONE-3** | Erkenntnisprojekt v2 (5000 Wörter, primärquellen) | - | ⬜ | - | LOCKED (todos os 9) |
 
 ---
 
