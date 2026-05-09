@@ -1,6 +1,8 @@
 # FATHOM-Deutsch — INDEX
 
 > Mapa global dos 5 estágios. Cada linha aponta pro módulo. Pré-requisitos (`prereqs`) ditam ordem; dentro de cada estágio, módulos podem ser feitos em paralelo onde os prereqs permitirem.
+>
+> **Documentos meta complementares**: [CAPSTONE-EVOLUTION](CAPSTONE-EVOLUTION.md), [REFERENCES-ELITE](REFERENCES-ELITE.md), [READING-LIST](READING-LIST.md), [GLOSSAR](GLOSSAR.md), [SELF-ASSESSMENT](SELF-ASSESSMENT.md), [RUBRIC](RUBRIC.md), [ANKI-FRAMEWORK](ANKI-FRAMEWORK.md), [FEHLERPROTOKOLL-TEMPLATE](FEHLERPROTOKOLL-TEMPLATE.md), [MODULE-TEMPLATE](MODULE-TEMPLATE.md), [LEARNING-PATHWAYS](LEARNING-PATHWAYS.md) (6 trilhas alternativas), [BEGRIFF-INDEX](BEGRIFF-INDEX.md) (7 Begriffe scaffolded), [RELEASE-NOTES](RELEASE-NOTES.md), [CHANGELOG](CHANGELOG.md), [DECISION-LOG](DECISION-LOG.md), [SPRINT-NEXT](SPRINT-NEXT.md).
 
 ---
 
