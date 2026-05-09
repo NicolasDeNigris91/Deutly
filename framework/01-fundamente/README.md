@@ -25,7 +25,8 @@ A intuição PT é seu principal inimigo aqui. Em PT a ordem SVO é rígida e a 
 | [01-07](01-07-negation-modalpartikeln.md) | Negation und Modalpartikeln Grundlagen | 01-01, 01-03 | Brecht, *Mutter Courage und ihre Kinder* (1939) |
 | [01-08](01-08-phonetik.md) | Phonetik & Phonologie | — (paralelo) | Tagesschau + Goethe, *Erlkönig* (1782) |
 | [01-09](01-09-grundwortschatz.md) | Grundwortschatz (~2000 Lemmata) | 01-04 | DWDS-Kernkorpus 18-21 |
-| [**CAPSTONE-1**](CAPSTONE-fundamente.md) | **Erkenntnisprojekt v0** — Glossar fonético-estrutural do *Begriff* | todos os 9 | (texto canônico do *Begriff*) |
+| [01-10](01-10-konversation.md) | Konversation Stage 1 — Replik-Praxis und Tandem-Vorbereitung | 01-01, 01-03, 01-07, 01-08 | Tandem-Praxis + Anhang K (Alltagskommunikation) |
+| [**CAPSTONE-1**](CAPSTONE-fundamente.md) | **Erkenntnisprojekt v0** — Glossar fonético-estrutural do *Begriff* | todos os 10 | (texto canônico do *Begriff*) |
 
 ---
 
@@ -43,6 +44,8 @@ A intuição PT é seu principal inimigo aqui. Em PT a ordem SVO é rígida e a 
                                └─► 01-03 (Verbalsystem) ──► 01-07 (Negation + MP)
 
 01-08 (Phonetik) ── em paralelo a tudo, do dia 1
+01-10 (Konversation) ──── prereqs 01-01 + 01-03 + 01-07 + 01-08;
+                          começa em paralelo a 01-04 ou depois
                                                                     │
                                                                     ▼
                                                             CAPSTONE-1

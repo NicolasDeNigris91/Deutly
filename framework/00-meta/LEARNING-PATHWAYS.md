@@ -351,6 +351,200 @@ Reduzido:            05-03 (Übersetzungstheorie — apenas se relevante para te
 
 ---
 
+## 7.5 Trilha G — Auswandern (PT-falante imigrando para DE/AT/CH)
+
+### Perfil
+
+PT-falante (BR/EU) que **vai morar em DE/AT/CH** dentro de 6-24 meses. Objetivo: **fluência conversacional cotidiana + integração civil + Berufsausübung** — acima de fluência acadêmica, embora com base sólida.
+
+### Diferença essencial das outras trilhas
+
+Trilhas A-F priorizam **registro acadêmico-erudite** (Adorno, Habermas, Aufsatz, Vortrag). Trilha G prioriza **registro cotidiano + behördisch + profissional**:
+
+```
+Trilhas A-F:        ler Adorno é prioridade.
+Trilha G:           sobreviver no Späti + Bürgeramt + Krankenhaus é prioridade.
+
+Trilhas A-F:        Modul 03-07 (Wissenschaftliches Schreiben) crítico.
+Trilha G:           Modul 01-10 (Konversation) + Anhang K (Alltagskommunikation) críticos.
+
+Trilhas A-F:        Capstone-5 = publicação acadêmica em revista.
+Trilha G:           Capstone-5 = integração documentada em DE/AT/CH-Stadt 
+                    (Anmeldung + Krankenversicherung + Arbeitsvertrag + 
+                     Vortrag profissional ao chefe).
+```
+
+### Modificações vs. canônica
+
+#### Stage 1: completo + 01-10 prio máxima
+
+```
+Prioridade alta:    01-10 (Konversation Stage 1) — central para sobrevivência
+                    01-08 (Phonetik) — Auslautverhärtung + Knacklaut + /r/
+                    01-07 (Negation + Modalpartikeln) — para conversação básica
+                    01-09 (Grundwortschatz) — léxico cotidiano expandido
+Prioridade alta:    Anhang K (Alltagskommunikation) consultado durante todo Stage 1
+                    Tandem-Praxis 2-3×/semana desde mês 1
+                    Anki-Starter-Deck-Stage-1 acelerado (~500 cards em 2-3 meses)
+```
+
+#### Stage 2: foco em uso prático
+
+```
+Prioridade alta:    02-01 (Subordination) — V2 vs. VL real-time
+                    02-04 (Passiv) — burocrático
+                    02-06 (FVG) — burocrático/jurídico
+                    02-07 (Modalverben) — pragmática
+                    02-09 (Lexik II) — operationaler Wortschatz
+Prioridade média:   02-02, 02-03 (Konj. I/II — útil mas menos urgente)
+                    02-05 (Inf-Sätze)
+                    02-08 (Topik-Fokus)
+```
+
+#### Stage 3: foco em registro cotidiano + behördisch
+
+```
+Prioridade alta:    03-02 (Register — Hochsprache vs. Umgangssprache)
+                    03-03 (Idiomatik) — Phraseologismen alltag
+                    03-04 (Pragmatik — Höflichkeit + Sprechakte)
+                    03-05 (Modalpartikeln deep)
+                    03-10 (Hörverstehen colloquial) — central!
+Prioridade média:   03-01 (Nominal vs. verbal) — para Behördenschreiben
+                    03-08 (Journalistischer Stil) — para acompanhar Tagespresse
+Prioridade reduzida: 03-06 (Stilfiguren) — academic foco; opcional
+                    03-07 (Wissenschaftliches Schreiben) — opcional
+                    03-09 (Lexik III geisteswiss.) — opcional
+Adicional:          Anhang L (Dialekte) consultado para a região-Ziel 
+                    (Berlinerisch / Bayrisch / Wienerisch / Schweizerdeutsch)
+```
+
+#### Stage 4: redução substancial
+
+```
+Prioridade alta:    04-09 (Kontrastive PT-DE) — sistematizar interferências
+                    04-03 (Variationslinguistik) — Plurizentrik para cidade-Ziel
+Prioridade reduzida: 04-01, 04-02, 04-04, 04-05, 04-06, 04-07, 04-08, 04-10
+                    (todos opcionais; foco prático tem prioridade)
+```
+
+#### Stage 5: foco em integração
+
+```
+Prioridade alta:    05-04 (Eigene Stimme) — desenvolver Stimme profissional
+                    05-05 (Public Output — Vortrag profissional ao chefe)
+                    05-07 (Goethe C1 ou TestDaF TDN4 — visa-relevante!)
+Prioridade média:   05-01 (Politische Sprache) — civis-Integration
+                    05-06 (Mentoring) — opcional
+Reduzido:            05-02 (Wissenschaftssprache)
+                    05-03 (Übersetzungstheorie)
+                    Capstone-5 modificado: integração documentada, 
+                    não publicação acadêmica.
+```
+
+### Capstone-5 alvo (modificado)
+
+Capstone-5 da Trilha G é **integração documentada**:
+
+```
+✓ Anmeldung in DE-Stadt (Bürgeramt) abgeschlossen.
+✓ Krankenversicherung gewählt + angemeldet.
+✓ Arbeitsvertrag (oder Studienzulassung) in DE/AT/CH.
+✓ Mietvertrag + Wohnung.
+✓ Goethe C1 oder TestDaF TDN4 bestanden.
+✓ Vortrag profissional ao chefe / Universität (~30 min, in DE).
+✓ Erste Reflexion in Tagebuch in DE: "Wie war das erste Jahr in DE?"
+✓ Mindestens 3 deutsche Freundschaften aufgebaut (Tandem ist nicht das gleiche).
+```
+
+### Pré-Auswanderung-Checkliste
+
+#### 12 Monate vor Auswanderung
+
+```
+□ Stage 1-2 weitgehend abgeschlossen.
+□ Anki-Deck Stage 1 saturated (~500 cards aktivierte).
+□ Tandem-Partner 2× pro Woche (Modus B aktiviert).
+□ Anhang K (Alltagskommunikation) studiert.
+□ Goethe B1 oder B2 angepeilt.
+□ Stadt-Ziel definiert (Berlin? München? Wien? Zürich?).
+□ Anhang L Dialekt-Sektion für die Stadt studiert.
+```
+
+#### 6 Monate vor Auswanderung
+
+```
+□ Stage 3 (Modulen 03-02, 03-04, 03-05, 03-10) abgeschlossen.
+□ Goethe B2 angepeilt (oder TestDaF TDN3).
+□ Bürokratie-Vorbereitung:
+  - Aufenthaltstitel-Bewerbung (für Nicht-EU-Bürger) eingereicht.
+  - Krankenversicherungs-Optionen recherchiert.
+  - Wohnungssuche (idealerweise mit DE-Adressen-Netzwerk).
+  - Arbeitsvertrag oder Studienzulassung erhalten.
+  - Steuer-ID + Anerkennung von Berufsabschlüssen geprüft.
+□ Hörverstehen colloquial: 5-10 Filme/Serien-Stunden pro Woche.
+```
+
+#### 3 Monate vor Auswanderung
+
+```
+□ Tandem-Praxis intensiviert (3-4×/Woche).
+□ Telefon-Praxis: 3-5 simulierte Telefongespräche pro Woche.
+□ Bürokratie-Skripten memorisiert (Anmeldung, Krankenversicherung).
+□ Eigenes Auswandern-Paket (Dokumente, Kontakte, finanzielle Reserven).
+□ Erste Wohnung gefunden (oder Übergangsunterkunft).
+```
+
+#### Erste 3 Monate in DE/AT/CH
+
+```
+□ Anmeldung beim Bürgeramt (innerhalb 14 Tagen).
+□ Krankenversicherung anmelden.
+□ Bankkonto eröffnen.
+□ Arbeitsvertrag / Studienanmeldung formal abgeschlossen.
+□ Stammtisch / Sprachschule / Verein in der Stadt finden.
+□ Tagebuch in DE: tägliche Einträge — Realität dokumentieren.
+□ Modus A (humano-Mentor / Privat-Lehrer) optional aber empfohlen.
+```
+
+### Tempo estimado
+
+**~1.8-3.5 mil horas** em **3-5 anos** (~5-10h/Woche durante 2-3 Jahre Vorbereitung + Stage 3-5 dans-Land Erweiterung).
+
+### Riscos da Trilha G
+
+```
+- Lücke in Stage 4-5 erudite-Lesefähigkeit: aluno integriert profissional,
+  aber kann Adorno schwerlich lesen. Mitigação: Stage 4-5 erudite-Modul 
+  ergänzen nach Integration (~2-3 Jahre nach Auswandern, wenn Stabilität 
+  erreicht).
+- Phonetik-Fossilisierung: ohne intensive Tandem + Phonetik-Praxis pre-
+  Auswandern, fixiert sich PT-Akzent in der DE-Umgebung.
+- Bürokratie-Schock: viele PT-falantes unterschätzen den DE-Behörden-Aufwand
+  (Bürokratendeutsch + administrative Formalitäten).
+- Isolationsgefahr in DE-Stadt: ohne soziales Netz wird Tandem nicht 
+  Freundschaft. Aktiv soziale Integrations-Schritte gehen.
+```
+
+### Cidades-Ziel — typische DE-PT-Migrationsmuster
+
+```
+Berlin:        billiger als München; multikulturell; Berlinerisch dominant;
+               viele PT-Brasileiro-Communities (~20.000 Brasileiros 2024).
+München:       teurer; bayrisch dominant; korporative Industrie 
+               (Siemens, BMW); kleinere PT-Community.
+Hamburg:       Hafen + Logistik; norddeutsch; mittelgroße PT-Community.
+Frankfurt:     Bankenwelt + EZB; konservativer Akzent; größte 
+               brasilianische Community in DE.
+Wien:          Wienerisch komplex; akademische Stadt; mittelgroße 
+               PT-Community; AT-Bürokratie ähnlich DE.
+Zürich:        teuerste Stadt der Auswahl; Schwyzerdütsch komplex; 
+               Banken/Pharma/Tech; geringere PT-Community.
+Lissabon-Berlin-Pendel:  einige PT-Profis pendeln zwischen Berlin + Lissabon
+                          (Software-Branche).
+```
+
+---
+
 ## 8. Como escolher a trilha
 
 ### Auto-pergunta inicial
@@ -361,6 +555,7 @@ Reduzido:            05-03 (Übersetzungstheorie — apenas se relevante para te
    - Profissional não-acadêmico: Trilha E.
    - Tradução publicada: Trilha D.
    - PhD-DE rápido: Trilha F.
+   - Auswandern (morar em DE/AT/CH): Trilha G.
    - Generalista: Trilha A canônica.
 
 2. Quanto tempo posso dedicar / semana?
@@ -425,7 +620,7 @@ Se 3+ red flags: **DECISION-LOG entry** + reavaliar trilha. Mudança de trilha �
 
 ---
 
-## 11. Comparação tabular das 6 trilhas
+## 11. Comparação tabular das 7 trilhas
 
 | Trilha | Tempo total | Stage 1-2 | Stage 3 | Stage 4 | Stage 5 | Capstone-5 |
 |---|---|---|---|---|---|---|
@@ -435,6 +630,7 @@ Se 3+ red flags: **DECISION-LOG entry** + reavaliar trilha. Mudança de trilha �
 | **D — Tradução** | 2.5-4.5 mil h | completo | parcial (Stil-foco) | parcial (4-9 prio) | parcial (5-3 prio) | tradução publicada |
 | **E — Berufs** | 1.5-3 mil h | completo | parcial (uso prático) | reduzido | parcial (TDN5 / C1) | projeto profissional |
 | **F — PhD acel.** | 2-3 mil h (intensiv) | completo | parcial (Aufsatz-foco) | parcial (Hermeneutik) | parcial (TestDaF + 5-5) | publicação parcial + TDN5 |
+| **G — Auswandern** | 1.8-3.5 mil h | completo + 01-10 prio máxima | parcial (3-2/-4/-5/-10 prio) | reduzido (4-9, 4-3) | parcial (5-4/-5/-7 prio) | integração documentada em DE/AT/CH |
 
 ---
 

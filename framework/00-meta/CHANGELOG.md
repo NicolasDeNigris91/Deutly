@@ -4,6 +4,61 @@
 
 ---
 
+## v1.5 — 2026-05-09 — Konversations-Lücke geschlossen: 2 Anhänge + 2 Module + Trilha G
+
+### Adicionado
+
+#### Anhänge novos (2)
+
+- **ANHANG K — Alltagskommunikation** (`framework/00-meta/anhaenge/`): 5 Bereiche (Telefon, Service, Small Talk, Behörden, Notfälle) com Skripten + Beispiel-Dialogen + Stilstufen-Markierung. Inclui Trinkgeld-Konvention DE, Steuerklassen-Übersicht, Notrufnummern (110/112/116-117), kanonische Phrasen für Anmeldung/Krankenversicherung/Aufenthaltstitel.
+- **ANHANG L — Dialekte + Soziolekte**: 4 Hauptdialekte (Berlinerisch, Bayrisch, Wienerisch, Schwyzerdütsch) + Plattdeutsch + 3 Soziolekte (Jugendsprache, Kiezdeutsch, Beamtendeutsch). Cada um mit lautlichen + lexikalischen Eigenheiten + Klassischen Phrasen + Beispiel-Dialogen + Hörbeispielen-URLs + Diagnostik für Lerner.
+
+#### Module novos (2 — Stage 1 + Stage 3 erweitern auf 10 Module)
+
+- **Modul 01-10 — Konversation Stage 1** (`framework/01-fundamente/`): einziges Stage-1-Modul, das **non-substituierbar** durch Markdown allein ist; verlangt Tandem-Praxis (Modus B). Inclui Output-Hypothesis (Swain 1985), 3 Modi der L2-Konversations-Praxis, Replik-Frasen (Bausteine) + Repliken-Skripte (Sequenzen), Modalpartikel-Reaktivierung (5 unverzichtbare Modalpartikeln Stage 1: doch/ja/mal/denn/eigentlich), Pausen-Wörter-Reaktivierung (also/naja/tja vs. PT então/tipo), Tempo-Erwartung Stage 1-5, Diagnostik für Stage-1-Konversations-Niveau, Tandem-Diagnostik-Aufgabe in 3 Sitzungen.
+- **Modul 03-10 — Hörverstehen colloquial** (`framework/03-stil/`): schließt die Lücke zwischen Tagesschau-artificial Standard + colloquialer Realität. Hörverstehen-Pyramide (5 Stufen, A1-C2), 4 colloquiale Distinktionen (Tempo 180-220 W/min, Klitisierung, Modalpartikel-Saturation, Hesitations-Diskursmarker), 4 methodische Phasen (untertitelt → halbblind → blind → Shadowing), 6 kanonische Filme/Serien (Tatort, Babylon Berlin, Dark, Goodbye Lenin, Lola rennt, Bad Banks), Aufgabe = Tatort-Folge in 3 Phasen analysieren (~300 min total).
+
+#### Trilha G novo
+
+- **Trilha G — Auswandern** (em [LEARNING-PATHWAYS.md](LEARNING-PATHWAYS.md) §7.5): para PT-falante imigrando para DE/AT/CH dentro de 6-24 meses. Diferença essencial das outras trilhas: prioriza registro cotidiano + behördisch + profissional sobre erudite-acadêmico. Stage 1 com 01-10 Konversation prio máxima; Stage 3 com 03-10 Hörverstehen + 03-02/-04/-05 prio; Stage 4 reduzido (apenas 04-09 + 04-03); Stage 5 com 05-04/-05/-07 prio. Capstone-5 modificado: integração documentada (Anmeldung + Krankenversicherung + Arbeitsvertrag + Goethe C1/TestDaF TDN4 + Vortrag profissional) em DE/AT/CH-Stadt. Inclui Pré-Auswanderung-Checkliste (12/6/3 Monate vor + erste 3 Monate nach), Cidades-Ziel-Übersicht (Berlin/München/Hamburg/Frankfurt/Wien/Zürich), Riscos da Trilha (Stage 4-5 erudite-Lücke, Phonetik-Fossilisierung, Bürokratie-Schock, Isolationsgefahr).
+
+### Cross-references novas
+
+- 01-10 → ANHANG K + ANHANG D + AUDIO-VIDEO-CANON.
+- 03-10 → ANHANG L + AUDIO-VIDEO-CANON + 01-08/01-10/03-02/03-04.
+- INDEX.md atualizado: Stage 1 = 10 modulos; Stage 3 = 10 modulos; Total = 46 modulos.
+- Stage 1 + Stage 3 READMEs atualizados.
+- anhaenge/README atualizado com K + L (12 Anhänge total agora).
+- Trilha G integrada em LEARNING-PATHWAYS §7.5 + Comparação tabular.
+
+### Estatísticas v1.5
+
+```
+Arquivos novos:                                 4
+  Anhänge:                                       2 (K, L)
+  Module:                                        2 (01-10, 03-10)
+  
+Arquivos modificados:                          ~6
+  LEARNING-PATHWAYS.md (Trilha G adicionada)
+  INDEX.md (Stage 1 + Stage 3 + total counts)
+  Stage READMEs (1 + 3) com novos modulos no DAG
+  anhaenge/README atualizado (12 Anhänge)
+  Meta-docs (SPRINT-NEXT, CHANGELOG, RELEASE-NOTES)
+
+Conteúdo:
+  Total modulos cumulativo:                     46 (era 44)
+  Anhänge cumulativo:                           12 (era 10)
+  Trilhas:                                       7 (era 6)
+  Conversational Skripten (Anhang K):            ~150
+  Dialekt-Phrasen + Hörbeispiele:                ~80
+```
+
+### Honestidade pedagógica
+
+v1.5 adiciona explicitamente o que faltava para **fluência conversacional cotidiana** (não apenas fluência acadêmica). Reconhece que CAPSTONE-3 exemplar demonstra Wissenschaftsdeutsch hoch — mas que aluno completando v1.0-v1.4 ainda não conseguiria pedir um Bier num Berliner Späti sem treinamento adicional específico. v1.5 fecha esta lacuna estrutural.
+
+---
+
 ## v1.4 — 2026-05-09 — Aprofundamento operacional: 3 templates novos + self-test + Anki + CAPSTONE-3 exemplar + Stage 6 outline + Roadmap
 
 ### Adicionado

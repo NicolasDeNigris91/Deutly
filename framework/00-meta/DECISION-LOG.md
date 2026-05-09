@@ -508,6 +508,72 @@ Active.
 
 ---
 
+## DL-2026-05-09-016 — Konversations-Modulen 01-10 + 03-10 als Stage-1- und Stage-3-Erweiterung statt eigene Stage
+
+### Contexto
+
+Em v1.5, ao implementar Konversations-Lücke (cf. Diskussion mit User über fluência cotidiana vs. acadêmica), surgiu Frage: Konversation als **eigene Stage** (Stage 1.5 oder Stage 6 Track separat) oder als **Module** in bestehenden Stages (01-10 + 03-10)?
+
+### Alternativas consideradas
+
+1. **Eigene Konversations-Stage** zwischen Stage 1 + Stage 2 (z.B. "Stage 1.5 — Konversation"): Pros: klare Strukturmarkierung der Lücke. Contras: bricht Stage-Konvention (~9-10 Module pro Stage, gewachsene Konsistenz); Lerner müsste ganze Stage abschließen vor Stage 2.
+2. **Module 01-10 + 03-10** in bestehenden Stages (escolhido): Pros: integriert in Stage-Logik; Lerner kann 01-10 parallel zu 01-04+ machen; 03-10 parallel zu 03-04+ machen; nicht-bloquierend für Stage-Progression. Contras: Stage 1 + Stage 3 erweitern auf 10 Module (war 9).
+3. **Module em Stage 6 Track-D**: Pros: post-Meisterschaft. Contras: viel zu spät; Lerner braucht Konversation **ab Mês 1**, nicht ab Stage 6.
+
+### Decisão tomada
+
+Opção 2: Module 01-10 + 03-10 em Stages 1 e 3.
+
+### Justificativa
+
+- **Pedagogische Notwendigkeit**: PT-falante adulto braucht Konversations-Praxis ab Stage 1 (Tandem-Praxis 2× pro Woche). Eigene Stage würde dies verzögern.
+- **Stage-Konsistenz**: 9-10 Module pro Stage ist akzeptabel; ~46 Module total bleibt überschaubar.
+- **Cross-Stage-Beziehung**: 01-10 (oral basics) → 03-10 (oral fortgeschritten + Hörverstehen colloquial) ist natürliche Progression innerhalb existierender Stage-Struktur.
+- **Trilha-Spezifik**: Trilha G (Auswandern) priorisiert beide Module; andere Trilhas können sie als Optional behandeln. Diese Flexibilität ist möglich nur, wenn sie Module in Stages sind.
+
+### Trade-offs aceitos
+
+- Stage 1 + Stage 3 jetzt 10 Module statt 9 — Asymmetrie zu Stage 2 (9), Stage 5 (7). Aceitável; Stage 4 hat schon 10. Inkonsistente Modul-Anzahl pro Stage ist schon Realität.
+- INDEX.md muss "Stage 1: 9 Module" → "Stage 1: 10 Module" ändern, ähnlich Stage 3.
+
+### Status
+
+Active.
+
+---
+
+## DL-2026-05-09-017 — Trilha G (Auswandern) als 7. Trilha em LEARNING-PATHWAYS
+
+### Contexto
+
+Em v1.5, Konversations-Lücke geschlossen → entstand Frage: für PT-falante imigrando, brauchen wir spezifische Trilha? Existierende Trilhas A-F priorisieren erudite-Output; keine ist auf Auswandern fokussiert.
+
+### Alternativas consideradas
+
+1. **Existing Trilha E (Berufsdeutsch) erweitern**: Pros: keine neue Trilha. Contras: Berufsdeutsch ≠ Auswandern (Berufs-Lerner kann remote aus Brasilien arbeiten; Auswanderer braucht Behörden-DE + soziale Integration).
+2. **Trilha G (Auswandern) als 7. Trilha** (escolhido): Pros: spezifischer auf imigrações-Kontext zugeschnitten; explizite Pré-Auswanderung-Checkliste; Ridda-Risiken (Bürokratie-Schock, Isolation, Phonetik-Fossilisierung). Contras: 7 Trilhas ist viel; Lerner wird vor Trilha-Wahl überfordert.
+3. **Trilha G im Anhang/Sub-Trilhas-System**: Pros: keine neue Trilha. Contras: weniger Sichtbarkeit; spezifische Lerner-Gruppe (Auswanderer) verdient eigene Trilha.
+
+### Decisão tomada
+
+Opção 2.
+
+### Justificativa
+
+- **Spezifischer Lerner-Bedarf**: Auswanderer-Spezifika (Bürokratie + soziale Integration + Phonetik unter Druck) sind nicht durch Trilha E abgedeckt.
+- **Sichtbarkeit**: PT-falante mit Auswanderungs-Plan findet "Trilha G — Auswandern" sofort; "modifizierte Trilha E mit Auswanderer-Anhang" hingegen nicht.
+- **Kohärenz mit Capstone-5-Modifikation**: Trilha G hat eigene Capstone-Definition (integração documentada vs. publicação acadêmica) — verlangt eigene Trilha-Identität.
+
+### Trade-offs aceitos
+
+- 7 Trilhas (vs. 6) erhöht Wahl-Komplexität in §8 (Como escolher) — mitigiert via Auto-Frage explízite "Auswandern? → Trilha G".
+
+### Status
+
+Active.
+
+---
+
 ## DL-template para entradas futuras
 
 ```markdown

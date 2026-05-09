@@ -4,6 +4,131 @@
 
 ---
 
+## v1.5 — Konversations-Lücke geschlossen (2026-05-09)
+
+### Eixos da release
+
+Eleva v1.4 (aprofundamento operacional + strategic positioning) para v1.5 (**Konversations-Lücke geschlossen**: 2 novos Anhänge + 2 novos Modulos + 1 nova Trilha que fecham especificamente a lacuna entre fluência acadêmica (que v1.0-v1.4 entrega) e fluência conversacional cotidiana (que v1.5 abre).
+
+### Motivação
+
+Em v1.4 o framework era world-class para PT-falante adulto reaching C2+ academic-philosophical fluency. Mas honestamente: aluno completando v1.0-v1.4 conseguiria ler Adorno + escrever Aufsatz wissenschaftlich + dar Vortrag — sem necessariamente conseguir pedir um Bier num Berliner Späti, entender Tatort sem legenda, navegar Bürgeramt-Anmeldung, ou ter conversação espontânea com um Bayer. v1.5 fecha esta **lacuna estrutural** explizit.
+
+### Conteúdo novo
+
+#### ANHANG K — Alltagskommunikation
+
+5 Bereiche der täglichen Konversation:
+
+- **Telefon**: Eröffnung (Standard-DE-Konvention: Anrufer + Angerufener melden sich beide mit Nachname), Verbinden + Warten, Termin vereinbaren, Verständigungsprobleme, Verabschiedung. Inclui beispiel-Dialog vollständig (Arzttermin per Telefon).
+- **Service-Interaktion**: Restaurant (Bestellung + Bezahlung + Trinkgeld), Einkaufen (Beratung, Anprobe, Bezahlung), Arzt (Anmeldung, Symptome beschreiben, Diagnose verstehen), Apotheke, Friseur, Bank.
+- **Small Talk**: Begrüßung, Wetter (DE-Klassiker), Wochenende, Sport, Familie, Beruf, Kultur — mit Hinweis auf zu vermeidende Themen (Politik, Religion, Gehalt, Krankheiten).
+- **Behörden**: Anmeldung Bürgeramt (com documentos necessários), Aufenthaltstitel (für Nicht-EU-Bürger), Krankenversicherung, Steuern (mit Steuerklassen-Übersicht), Ausländerbehörde — typische Phrasen.
+- **Notfälle**: Notrufnummern (110/112/116-117/116-116/115), Polizei-Anruf-Skript, Krankenhaus/Rettungsdienst-Skript, Verloren/Diebstahl, Auto/Verkehr, Versicherung melden.
+- Plus Routineformeln gehoben/neutral/informal — Vergleich systematisch.
+
+#### ANHANG L — Dialekte + Soziolekte
+
+4 Hauptdialekte + Plattdeutsch + 3 Soziolekte:
+
+- **Berlinerisch**: ick/wat/det/jut + Späti/Schrippe + "Berliner Schnauze" + Beispiel-Dialog + 🎧 Tatort Berlin / Babylon Berlin.
+- **Bayrisch**: Servus/Grüß Gott/Pfiat di + Maß/Brezn + fei/gell + Beispiel-Dialog Wirtshaus + 🎧 Tatort München / Eberhofer-Krimis.
+- **Wienerisch**: Wiener Schmäh + oida/leiwand/deppat + Beisl/Marille/Erdäpfel + Beispiel-Dialog Wiener Beisl + 🎧 Tatort Wien / Falco / Helmut Qualtinger.
+- **Schwyzerdütsch**: Diglossie-Erläuterung (Schwyzerdütsch oral vs. Schweizer Hochdeutsch geschrieben) + grüezi/merci/Velo/Tram/Zmorge + Beispiel-Dialog Zürcher Bäckerei + 🎧 SRF-Mediathek / Mani Matter.
+- **Plattdeutsch**: Status (eigene Sprache!) + Moin + charakteristische Merkmale.
+- **Jugendsprache**: krass/bombe/geil/chillen/gönn dir/diggi/cringe + Phrasen.
+- **Kiezdeutsch**: vereinfachte Grammatik + Türkisch/Arabisch-Lehnwörter (lan/walla/yalla) + Code-Switching + Wiese 2012 als wissenschaftliche Quelle.
+- **Beamtendeutsch**: Hyper-nominaler Stil + FVG-saturiert + Beispiel mit Standard-DE-Vergleich.
+
+Plus Diagnostik-Pipeline für Lerner (wie identifiziere ich, ob jemand Berlinerisch / Bayrisch / etc. spricht?) + klare Empfehlung: passives Hörverstehen anstreben, aktive Produktion vermeiden.
+
+#### Modul 01-10 — Konversation Stage 1
+
+Modul, das **non-substituierbar durch Markdown** ist — verlangt Tandem-Praxis (Modus B). Theoretisches Curriculum:
+
+- 3 Modi der L2-Konversations-Praxis (A: Mentor / B: Peer / C: Self-Mentor) com expliziter Empfehlung mind. 2× pro Woche Modus B.
+- Output-Hypothesis (Swain 1985) als theoretische Grundlage.
+- Replik-Frasen (Antwort + Verständnis-Bausteine) vs. Repliken-Skripte (vorformulierte Sequenzen).
+- Modalpartikel-Reaktivierung — die 5 unverzichtbaren: doch / ja / mal / denn / eigentlich.
+- Pausen-Wörter-Reaktivierung als Alternative zu PT-Filler (então → also; tipo → sozusagen).
+- Tempo-Erwartung Stage 1-5 (50-70% Native-Tempo Stage 1; aufsteigend bis Stage 4-5).
+- Diagnostik für Stage-1-Konversations-Niveau (8 Punkte).
+- Aufgabe = 3 Tandem-Sitzungen á 60 min (Restaurant-Skript + Small Talk + Telefon-Simulation) + Aufnahmen + Fehlerprotokoll-Tabelle.
+
+#### Modul 03-10 — Hörverstehen colloquial
+
+- Hörverstehen-Pyramide (Stufen 1-6 = A1 → C2).
+- 4 colloquiale Distinktionen vs. Tagesschau: Tempo (180-220 W/min vs. 140-160), Klitisierung (ich hab' / kannste / isses), Modalpartikel-Saturation (5-15 pro Minute vs. 0-1), Hesitations-Diskursmarker.
+- 4 methodische Phasen: untertitelt (Stage 3 Anfang) → halbblind (Stage 3 Mitte) → blind (Stage 3 Ende) → Shadowing als Brücke.
+- 6 kanonische Filme/Serien: Tatort (regionale Färbung), Babylon Berlin (1920er Berlinerisch + Plot-Dichte), Dark (Standard-Hochdeutsch + slow tempo + philosophischer Sub-Text), Goodbye Lenin! (DDR-Lexik), Lola rennt (Berlinerisch Tempo), Bad Banks (Bankenwelt + Frankfurter Akzent). Plus Empfehlungen (How To Sell Drugs Online (Fast), Fack ju Göhte) und Vermeidungs-Liste (Hollywood-Synchros, Reality-TV).
+- Talkshows + Podcasts + Vlogs + Lieder/Hip-Hop + Hörbücher kanon.
+- Aufgabe = Tatort-Folge in 3 Phasen analysieren (~300 min total).
+
+#### Trilha G — Auswandern (LEARNING-PATHWAYS §7.5)
+
+Para PT-falante imigrando para DE/AT/CH:
+
+- **Diferença essencial**: prioriza cotidiano + behördisch + profissional sobre erudite-acadêmico (inverso de A-F).
+- Stage 1 com 01-10 prio máxima + Anhang K + Tandem-Praxis ab Mês 1.
+- Stage 3 com 03-02/-04/-05/-10 prio + Anhang L (regional-spezifisch).
+- Stage 4 reduzido (apenas 04-09 + 04-03 prio).
+- Stage 5 com 05-04/-05/-07 prio.
+- Capstone-5 modificado: integração documentada (Anmeldung + Krankenversicherung + Arbeitsvertrag + Mietvertrag + Goethe C1 oder TestDaF TDN4 + Vortrag profissional + 3 deutsche Freundschaften).
+- Pré-Auswanderung-Checkliste (12/6/3 Monate vor + erste 3 Monate nach Ankunft).
+- Cidades-Ziel-Übersicht: Berlin (multikulturell + 20.000 Brasileiros), München (teurer + bayrisch), Hamburg (Hafen), Frankfurt (Banken + größte BR-Community), Wien (akademisch), Zürich (teuerste).
+- Riscos: Stage 4-5 erudite-Lücke, Phonetik-Fossilisierung, Bürokratie-Schock, Isolationsgefahr.
+- Tempo estimado: 1.8-3.5 mil horas em 3-5 anos.
+
+### Estatísticas cumulativas v1.0 → v1.5
+
+| Domínio | Quantidade |
+|---|---|
+| Stages | 5 |
+| **Módulos pedagógicos** | **46** (era 44; +01-10 + 03-10) |
+| **Anhänge gramatical-linguistic** | **12** (A-L; era 10) |
+| Begriffe filosófico-filológicos | 111 |
+| Phraseologismen | ~450 |
+| Conversational Skripten | ~150 (novo Anhang K) |
+| Dialekt-Phrasen + Hörbeispiele | ~80 (novo Anhang L) |
+| FVG canônicas | >250 |
+| Stilfiguren com exemplos | ~60 |
+| Wortbildungs-Patterns | ~50 |
+| Audio/Video-Quellen | ~30 com URLs |
+| Templates output | 8 |
+| Worked examples | 3 (CAPSTONE-1+2+3 sobre Aufklärung) |
+| Self-test Übungen | ~30 (Stage 1) |
+| Anki cards starter | ~500 (Stage 1) |
+| **Trilhas** | **7** (A-G; era 6) |
+| Stage 6 Tracks Blueprint | 4 (A, B, C, D) |
+| PT-DE Kontrastive fenômenos | ~30 |
+| Mermaid-Diagramme | 12 |
+| Cross-references válidos | 60+ |
+
+### Honestidade pedagógica + status
+
+v1.5 reconhece explicitamente o que v1.0-v1.4 não fazia: **fluência cotidiana é distinta de fluência acadêmica**, e o framework agora trata as duas como objetivos paralelos, não substitutos.
+
+Aluno completando v1.5:
+- **Lê Adorno**: ✓ (Stage 4)
+- **Escreve Aufsatz wissenschaftlich**: ✓ (Stage 3 / CAPSTONE-3 exemplar)
+- **Dá Vortrag**: ✓ (Stage 5)
+- **Pede Bier num Berliner Späti**: ✓ (Stage 1 / 01-10 + Anhang K)
+- **Entende Tatort ohne Untertitel**: ✓ (Stage 3 / 03-10 + Anhang L)
+- **Navegar Bürgeramt-Anmeldung**: ✓ (Anhang K)
+- **Hat conversação espontânea**: ✓ se Tandem-Praxis (Modus B) sustentada (01-10 explizit fordert)
+- **Auswanderung in DE/AT/CH**: ✓ via Trilha G
+
+### Próximas releases
+
+- **v1.6 (~2027-06)**: Anki Stages 2-5 + Self-test Stages 2-5 + Tradução DE parcial.
+- **v2.0 (~2028-12)**: Comunidade + CAPSTONE-4/5 exemplares + Stage 6 vollständig.
+
+### Status v1.5
+
+**Konversations-Lücke geschlossen.** Framework agora cobre **explízite** beide fluência-Achsen — academic + cotidiana. Próximo eixo: **deployment + iteração com usuários reais** (cf. ROADMAP.md), não mais content-Erweiterung.
+
+---
+
 ## v1.4 — Aprofundamento operacional + Stage 6 Blueprint (2026-05-09)
 
 ### Eixos da release

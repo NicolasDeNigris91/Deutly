@@ -4,7 +4,7 @@
 >
 > **Documentos meta complementares**: [CAPSTONE-EVOLUTION](CAPSTONE-EVOLUTION.md), [REFERENCES-ELITE](REFERENCES-ELITE.md), [READING-LIST](READING-LIST.md), [GLOSSAR](GLOSSAR.md) (linguistisch), **[BEGRIFFS-GLOSSAR](BEGRIFFS-GLOSSAR.md)** (filósofo-filológico, 111 entries cross-Stage), [SELF-ASSESSMENT](SELF-ASSESSMENT.md), [RUBRIC](RUBRIC.md), [ANKI-FRAMEWORK](ANKI-FRAMEWORK.md), **[ANKI-STARTER-DECK-STAGE-1](ANKI-STARTER-DECK-STAGE-1.md)** (~500 cards), **[SELF-TEST-BANK-STAGE-1](SELF-TEST-BANK-STAGE-1.md)** (~30 Übungen com Lösungen), [FEHLERPROTOKOLL-TEMPLATE](FEHLERPROTOKOLL-TEMPLATE.md), [MODULE-TEMPLATE](MODULE-TEMPLATE.md), [LEARNING-PATHWAYS](LEARNING-PATHWAYS.md) (6 trilhas alternativas), [BEGRIFF-INDEX](BEGRIFF-INDEX.md) (7 Begriffe scaffolded), [DAG](DAG.md) (Mermaid visual + caminhos críticos), **[AUDIO-VIDEO-CANON](AUDIO-VIDEO-CANON.md)** (Vorträge Kanon mit Timestamps für Shadowing), **[STAGE-6-OUTLINE](STAGE-6-OUTLINE.md)** (Spezialisierungs-Tracks Blueprint), [RELEASE-NOTES](RELEASE-NOTES.md), [CHANGELOG](CHANGELOG.md), [DECISION-LOG](DECISION-LOG.md), [SPRINT-NEXT](SPRINT-NEXT.md), [ROADMAP](../../ROADMAP.md).
 >
-> **Anexos canônicos** ([anhaenge/](anhaenge/) — cf. [README do diretório](anhaenge/README.md)): [A — Ablautreihen](anhaenge/ANHANG-A-ABLAUTREIHEN.md) (~166 verbos starke) · [B — Modalverben](anhaenge/ANHANG-B-MODALVERBEN.md) (modi+tempora) · [C — Präpositionen](anhaenge/ANHANG-C-PRAEPOSITIONEN.md) · [D — Konnektoren](anhaenge/ANHANG-D-KONNEKTOREN.md) · [E — Adjektivdeklination](anhaenge/ANHANG-E-ADJEKTIVDEKLINATION.md) · [F — PT-DE Kontrastive](anhaenge/ANHANG-F-PT-DE-KONTRASTIVE.md) · [G — FVG Canônica](anhaenge/ANHANG-G-FVG-CANONICA.md) (>250 FVG) · [H — Stilfiguren-Beispiele](anhaenge/ANHANG-H-STILFIGUREN-BEISPIELE.md) · [I — Wortbildung](anhaenge/ANHANG-I-WORTBILDUNG.md) · [J — Phraseologismen](anhaenge/ANHANG-J-PHRASEOLOGISMEN.md) (~450).
+> **Anexos canônicos** ([anhaenge/](anhaenge/) — cf. [README do diretório](anhaenge/README.md)): [A — Ablautreihen](anhaenge/ANHANG-A-ABLAUTREIHEN.md) (~166 verbos starke) · [B — Modalverben](anhaenge/ANHANG-B-MODALVERBEN.md) (modi+tempora) · [C — Präpositionen](anhaenge/ANHANG-C-PRAEPOSITIONEN.md) · [D — Konnektoren](anhaenge/ANHANG-D-KONNEKTOREN.md) · [E — Adjektivdeklination](anhaenge/ANHANG-E-ADJEKTIVDEKLINATION.md) · [F — PT-DE Kontrastive](anhaenge/ANHANG-F-PT-DE-KONTRASTIVE.md) · [G — FVG Canônica](anhaenge/ANHANG-G-FVG-CANONICA.md) (>250 FVG) · [H — Stilfiguren-Beispiele](anhaenge/ANHANG-H-STILFIGUREN-BEISPIELE.md) · [I — Wortbildung](anhaenge/ANHANG-I-WORTBILDUNG.md) · [J — Phraseologismen](anhaenge/ANHANG-J-PHRASEOLOGISMEN.md) (~450) · **[K — Alltagskommunikation](anhaenge/ANHANG-K-ALLTAGSKOMMUNIKATION.md)** (Telefon/Service/Small Talk/Behörden/Notfälle) · **[L — Dialekte + Soziolekte](anhaenge/ANHANG-L-DIALEKTE.md)** (Berlinerisch/Bayrisch/Wienerisch/Schwyzerdütsch + Jugendsprache + Kiezdeutsch).
 >
 > **Templates de output** ([templates/](templates/) — cf. [README](templates/README.md)): [Tagebuch](templates/TAGEBUCH-TEMPLATE.md) · [Aufsatz 1500 W](templates/AUFSATZ-1500W-TEMPLATE.md) · [Aufsatz 5000 W](templates/AUFSATZ-5000W-TEMPLATE.md) · [Vortrag](templates/VORTRAG-TEMPLATE.md) · [Begriffsanalyse korpusbasiert](templates/BEGRIFFSANALYSE-TEMPLATE.md) · [Glosse](templates/GLOSSE-TEMPLATE.md) · [Übersetzungsanalyse](templates/UEBERSETZUNGSANALYSE-TEMPLATE.md) · [Veröffentlichung-Submission](templates/VEROEFFENTLICHUNG-TEMPLATE.md).
 >
@@ -27,6 +27,7 @@
 | 01-07 | Negation und Modalpartikeln Grundlagen | 01-01, 01-03 | Posiciona `nicht` corretamente; usa `doch`, `ja`, `mal` em registro adequado. |
 | 01-08 | Phonetik & Phonologie — IPA, Vokalsystem, Auslautverhärtung | — (paralelo) | Pronúncia clara; Auslautverhärtung internalizada; Knacklaut. |
 | 01-09 | Grundwortschatz — strukturelle Grundvokabeln (~2000 Lemmata) | 01-04 | Léxico nuclear ativo, em frasal cards. |
+| 01-10 | Konversation Stage 1 — Replik-Praxis und Tandem-Vorbereitung | 01-01, 01-03, 01-07, 01-08 | Konversação básica reativa + Modalpartikel-Reaktivierung + Tandem-Praxis. |
 | **CAPSTONE-1** | **Erkenntnisprojekt v0**: Glossar + phonetische Transkription do *Begriff* escolhido | todos | ~30 entries lexicográficas + transcrição IPA + 1 frase de Beleg por entrada. |
 
 ---
@@ -65,6 +66,7 @@
 | 03-07 | Wissenschaftliches Schreiben — der akademische Stil | 03-01 | Estrutura Aufsatz acadêmico em formato canônico (These → Argument → Beleg → Schluss). |
 | 03-08 | Journalistischer Stil — Feuilleton, Leitartikel, Glosse | 03-02 | Diagnostica gênero jornalístico; produz Glosse. |
 | 03-09 | Lexik III — geisteswissenschaftlicher Wortschatz | 02-09 | Léxico filosófico/jurídico/teológico ativo. |
+| 03-10 | Hörverstehen colloquial — Filme, Serien, authentische Konversation | 01-08, 01-10, 03-02, 03-04 | Hörverstehen B2-Niveau colloquial — Tatort, Babylon Berlin, Dark + Modalpartikel-Saturation + Klitisierungen. |
 | **CAPSTONE-3** | **Erkenntnisprojekt v2**: wissenschaftlicher Aufsatz (5000 Wörter) com Primärquellen | todos | Aufsatz acadêmico defensável + Literaturverzeichnis. |
 
 ---
@@ -182,4 +184,4 @@ Detalhes da progressão em [CAPSTONE-EVOLUTION.md](CAPSTONE-EVOLUTION.md).
 
 ---
 
-**Total**: 5 estágios, 44 módulos, 5 capstones encadeados.
+**Total**: 5 estágios, **46 módulos** (Stage 1: 10, Stage 2: 9, Stage 3: 10, Stage 4: 10, Stage 5: 7), 5 capstones encadeados.

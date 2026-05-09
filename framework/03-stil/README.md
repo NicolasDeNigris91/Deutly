@@ -25,7 +25,8 @@ Aqui você emerge como **falante adulto educado**: leitor de FAZ-Feuilleton, ouv
 | [03-07](03-07-wissenschaftliches-schreiben.md) | Wissenschaftliches Schreiben — der akademische Stil | 03-01 | Luhmann, *Soziale Systeme*, capítulo 1 |
 | [03-08](03-08-journalistischer-stil.md) | Journalistischer Stil — Feuilleton, Leitartikel, Glosse, Kommentar | 03-02 | Coletânea: FAZ-Feuilleton + SZ-Leitartikel + TAZ-Glosse + NZZ-Kommentar |
 | [03-09](03-09-lexik-3.md) | Lexik III — geisteswissenschaftlicher Wortschatz | 02-09 | Kant, *Kritik der reinen Vernunft*, Vorrede 2.A. |
-| [**CAPSTONE-3**](CAPSTONE-stil.md) | **Erkenntnisprojekt v2** — wissenschaftlicher Aufsatz (5000 Wörter) com Primärquellen | todos os 9 | Aufsatz acadêmico sobre o *Begriff* |
+| [03-10](03-10-hoerverstehen.md) | Hörverstehen colloquial — Filme, Serien, authentische Konversation | 01-08, 01-10, 03-02, 03-04 | Tatort + Babylon Berlin + Dark + ANHANG L (Dialekte) |
+| [**CAPSTONE-3**](CAPSTONE-stil.md) | **Erkenntnisprojekt v2** — wissenschaftlicher Aufsatz (5000 Wörter) com Primärquellen | todos os 10 | Aufsatz acadêmico sobre o *Begriff* |
 
 ---
 
@@ -45,6 +46,8 @@ Aqui você emerge como **falante adulto educado**: leitor de FAZ-Feuilleton, ouv
 
 02-09 ─► 03-03 (Idiomatik)
 02-09 ─► 03-09 (Lexik III — geisteswiss.)
+
+01-08 + 01-10 + 03-02 + 03-04 ─► 03-10 (Hörverstehen colloquial)
 
 Tudo ──────────────────────────────────► CAPSTONE-3
                                          (Aufsatz 5000 W)

@@ -18,6 +18,8 @@
 | **H** | [ANHANG H — Stilfiguren-Beispiele](ANHANG-H-STILFIGUREN-BEISPIELE.md) | 20+ Stilfiguren com 3-5 exemplos canon Adorno/Heidegger/Mann/Bernhard | [03-06 Stilfiguren](../../03-stil/03-06-stilfiguren.md) | SN-004 |
 | **I** | [ANHANG I — Wortbildung](ANHANG-I-WORTBILDUNG.md) | 3 Verfahren (Komposition + Derivation + Konversion) + Suffix-Katalog produktiv | [01-06 Wortbildung](../../01-fundamente/01-06-wortbildung.md) | (v1.3) |
 | **J** | [ANHANG J — Phraseologismen](ANHANG-J-PHRASEOLOGISMEN.md) | ~450 Phraseologismen (Redewendungen, Sprichwörter, Geflügelte Worte, Kollokationen) | [03-03 Idiomatik](../../03-stil/03-03-idiomatik.md) | (v1.3) |
+| **K** | [ANHANG K — Alltagskommunikation](ANHANG-K-ALLTAGSKOMMUNIKATION.md) | Telefon + Service (Restaurant/Geschäft/Arzt) + Small Talk + Behörden + Notfälle | [01-10 Konversation](../../01-fundamente/01-10-konversation.md) | (v1.5) |
+| **L** | [ANHANG L — Dialekte + Soziolekte](ANHANG-L-DIALEKTE.md) | Berlinerisch + Bayrisch + Wienerisch + Schwyzerdütsch + Jugendsprache + Kiezdeutsch | [04-03 Variationslinguistik](../../04-system/04-03-variationslinguistik.md) | (v1.5) |
 
 ---
 

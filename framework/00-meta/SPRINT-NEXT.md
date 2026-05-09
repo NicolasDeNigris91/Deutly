@@ -342,24 +342,23 @@ Cada track ~5-7 módulos + Capstone-6.
 ```
 v1.0 — 2026-05-08 — Initial Public Release                  [feito]
 v1.1 — 2026-05-09 — Anexos A,B + DAG visual + 5 templates   [feito]
-v1.2 — 2026-05-09 — Anexos C,D,E,F + FVG (G) + Stilfig.(H)  [feito]
-                    + governance + CAPSTONE-1 exemplar
-v1.3 — 2026-05-09 — BEGRIFFS-GLOSSAR (111 entries) +        [feito]
-                    Anexo I + Anexo J + AUDIO-VIDEO-CANON
+v1.2 — 2026-05-09 — Anexos C-H + governance + CAPSTONE-1     [feito]
+v1.3 — 2026-05-09 — BEGRIFFS-GLOSSAR + I,J + AUDIO-CANON     [feito]
                     + CAPSTONE-2 exemplar
-v1.4 — 2026-05-09 — 3 templates novos (Glosse, Übers.Anal., [feito]
-                    Veröff.) + Self-test bank Stage 1
-                    + Anki starter deck Stage 1 (~500 cards)
-                    + CAPSTONE-3 exemplar (Aufsatz wiss.5000W)
-                    + STAGE-6-OUTLINE Blueprint + ROADMAP.md
-v1.5 — ~2027-06  — Anki decks Stages 2-5 + Self-test banks  [planejado]
-                    Stages 2-5 + Tradução DE parcial 
-                    (10-15 modulos) + Peer-review (3-5 
-                    Linguisten)
-v2.0 — ~2028-12  — Comunidade ativa + CAPSTONE-4/5          [planejado]
-                    exemplares + Stage 6 vollständig (4 
-                    Tracks)
-v2.5 — ~2029-12  — Feedback-Loop + Tradução DE 100%         [planejado]
+v1.4 — 2026-05-09 — 3 templates + Self-test + Anki Stage 1   [feito]
+                    + CAPSTONE-3 exemplar + STAGE-6-OUTLINE
+                    + ROADMAP.md
+v1.5 — 2026-05-09 — KONVERSATIONS-LÜCKE GESCHLOSSEN:         [feito]
+                    Anexo K (Alltag) + Anexo L (Dialekte)
+                    + Modul 01-10 (Konversation Stage 1)
+                    + Modul 03-10 (Hörverstehen colloquial)
+                    + Trilha G (Auswandern em LEARNING-PATHWAYS)
+v1.6 — ~2027-06  — Anki decks Stages 2-5 + Self-test banks  [planejado]
+                    Stages 2-5 + Tradução DE parcial
+                    + Peer-review (3-5 Linguisten)
+v2.0 — ~2028-12  — Comunidade + CAPSTONE-4/5 exemplares     [planejado]
+                    + Stage 6 vollständig (4 Tracks)
+v2.5 — ~2029-12  — Feedback-Loop + Tradução DE 100%          [planejado]
                     + AnkiWeb-Deck published
 v3.0 — ~2030-12  — Multilingual (DE/EN/ES/FR) + Akademie-   [planejado]
                     Kooperationen + Stage 7 conceito
