@@ -74,17 +74,17 @@
 
 | ID | Módulo | Konzeptuell | Praktisch | Verbindungen | Status |
 |----|--------|:---:|:---:|:---:|:------:|
-| 04-01 | Historische Linguistik | ⬜ | ⬜ | ⬜ | LOCKED |
-| 04-02 | Etymologie und Wortgeschichte | ⬜ | ⬜ | ⬜ | LOCKED |
-| 04-03 | Variationslinguistik | ⬜ | ⬜ | ⬜ | LOCKED |
-| 04-04 | Generative Syntax | ⬜ | ⬜ | ⬜ | LOCKED |
-| 04-05 | Formale Semantik | ⬜ | ⬜ | ⬜ | LOCKED |
-| 04-06 | Diskursanalyse | ⬜ | ⬜ | ⬜ | LOCKED |
-| 04-07 | Textlinguistik | ⬜ | ⬜ | ⬜ | LOCKED |
-| 04-08 | Korpuslinguistik (DWDS, COSMAS II) | ⬜ | ⬜ | ⬜ | LOCKED |
-| 04-09 | Kontrastive Linguistik PT–DE | ⬜ | ⬜ | ⬜ | LOCKED |
-| 04-10 | Hermeneutik klassischer Texte | ⬜ | ⬜ | ⬜ | LOCKED |
-| **CAPSTONE-4** | Erkenntnisprojekt v3 (korpusbasiert) | - | ⬜ | - | LOCKED |
+| 04-01 | Historische Linguistik — Idg., Ahd., Mhd., Frnhd., Nhd. | ⬜ | ⬜ | ⬜ | LOCKED (prereqs: 01-06, 03-09) |
+| 04-02 | Etymologie und Wortgeschichte | ⬜ | ⬜ | ⬜ | LOCKED (prereq: 04-01) |
+| 04-03 | Variationslinguistik — Dialekte, Soziolekte, Plurizentrik | ⬜ | ⬜ | ⬜ | LOCKED (prereq: 03-02) |
+| 04-04 | Generative Syntax — X-bar, GB, Minimalismus | ⬜ | ⬜ | ⬜ | LOCKED (prereqs: 01-01, 02-08) |
+| 04-05 | Formale Semantik — Wahrheitsbedingungen, Quantorenlogik | ⬜ | ⬜ | ⬜ | LOCKED (prereq: 03-09) |
+| 04-06 | Diskursanalyse — Foucault, KDA | ⬜ | ⬜ | ⬜ | LOCKED (prereq: 03-08) |
+| 04-07 | Textlinguistik — Kohäsion, Kohärenz, Textsorten | ⬜ | ⬜ | ⬜ | LOCKED (prereq: 03-07) |
+| 04-08 | Korpuslinguistik (DWDS, COSMAS II) | ⬜ | ⬜ | ⬜ | LOCKED (prereq: 04-02) |
+| 04-09 | Kontrastive Linguistik PT–DE | ⬜ | ⬜ | ⬜ | LOCKED (prereq: 04-04) |
+| 04-10 | Hermeneutik klassischer Texte — Kant, Hegel, Heidegger | ⬜ | ⬜ | ⬜ | LOCKED (prereqs: 03-09, 04-04) |
+| **CAPSTONE-4** | Erkenntnisprojekt v3 (korpusbasiert) | - | ⬜ | - | LOCKED (todos os 10) |
 
 ---
 
