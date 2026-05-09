@@ -18,11 +18,11 @@ Aluno em Stage 1 frequentemente **não sabe** o que CAPSTONE-1 produz concretame
 |---|---|---|---|
 | **CAPSTONE-1** | [CAPSTONE-1-AUFKLAERUNG-EXEMPLAR](CAPSTONE-1-AUFKLAERUNG-EXEMPLAR.md) | *Aufklärung* | Done (v1.2) |
 | **CAPSTONE-2** | [CAPSTONE-2-AUFKLAERUNG-EXEMPLAR](CAPSTONE-2-AUFKLAERUNG-EXEMPLAR.md) | *Aufklärung* | Done (v1.3) |
-| CAPSTONE-3 | (planejado v2.0) | TBD | Backlog |
-| CAPSTONE-4 | (planejado v2.0) | TBD | Backlog |
-| CAPSTONE-5 | (planejado v2.0+) | TBD | Backlog |
+| **CAPSTONE-3** | [CAPSTONE-3-AUFKLAERUNG-EXEMPLAR](CAPSTONE-3-AUFKLAERUNG-EXEMPLAR.md) | *Aufklärung* | Done (v1.4) |
+| CAPSTONE-4 | (planejado v2.0) — korpusbasierte Begriffsanalyse ~30pp | TBD | Backlog |
+| CAPSTONE-5 | (planejado v2.0+) — Veröffentlichung in DE/AT/CH-Zeitschrift | TBD | Backlog |
 
-(Capstones-3/-4/-5 são massivos de produzir — 5000W, ~30pp + Veröffentlichung. Cadência lenta esperada — cada um ~30-100h de elaboração + iteração.)
+(Capstones-4/-5 são massivos: ~30pp + Veröffentlichung. Cadência lenta esperada — cada um ~50-150h de elaboração + iteração + peer-review.)
 
 ---
 

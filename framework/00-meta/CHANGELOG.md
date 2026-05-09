@@ -4,6 +4,68 @@
 
 ---
 
+## v1.4 — 2026-05-09 — Aprofundamento operacional: 3 templates novos + self-test + Anki + CAPSTONE-3 exemplar + Stage 6 outline + Roadmap
+
+### Adicionado
+
+#### Templates novos (3)
+
+- **GLOSSE-TEMPLATE.md** — feuilletonistische Glosse (~350-500W) com 5-Bewegung-Struktur (Eröffnung, Beobachtung, Aufschwung, Wendung, Pointe). Incluye Beispiel-Glosse + Stilexpektativas.
+- **UEBERSETZUNGSANALYSE-TEMPLATE.md** — kontrastive PT↔DE-Übersetzungsanalyse (~3500-4500W) com 8 Sektionen (Abstract, Quelltext+Übersetzung, methodische Vorbemerkung, translatologische Theorie, sprachliche Analyse, Übersetzungsentscheidungen, Vergleich mit existierenden Übersetzungen, Reflexion). Schleiermacher-Achse + Benjamin/Berman/Steiner integriert.
+- **VEROEFFENTLICHUNG-TEMPLATE.md** — Manuskript-Submission an DE-Zeitschrift mit 4-Dokumente-Paket (Manuskript + Exposé + Lebenslauf akademisch + Anschreiben). Liste de Zeitschriften canon (akademisch + kulturell). Submission-Workflow + realistic Akzeptanzraten.
+
+#### Operational tooling
+
+- **SELF-TEST-BANK-STAGE-1.md** — ~30 Übungen com Lösungen para os 9 módulos do Stage 1 + Cross-Module-Übungen + Stage-1-Abschluss-Selbstdiagnose.
+- **ANKI-STARTER-DECK-STAGE-1.md** — ~500 frasal cards organizados pelos 9 módulos. Inclui Anki-Import-Format (TSV/CSV), Konfigurations-Empfehlungen, Tag-Hierarchie. Resolve **SN-009 partial**.
+
+#### Worked example novo
+
+- **CAPSTONE-3-AUFKLAERUNG-EXEMPLAR.md** — Aufsatz wissenschaftlich ~5000W sobre *Aufklärung* (continuação da progressão Glossar v0 → Aufsatz v1 → Aufsatz wissenschaftlich v2). 7 Sektionen (Abstract → Einleitung → Forschungsstand 3-Linien → Methodologie Koselleck → Hauptteil 3-aspectual → Diskussion + Synthese → Schluss). 7 Primärquellen + 9 Sekundärquellen. Konj.I (12+) + Konj.II (6+) + FVG (12+) + Passiv (8+) + Modalverben epistemisch + Konnektoren acadêmicos (18+) integrados ohne Stilbruch. Korrekturschleife dokumentada v1→v3. Bewertung ~91%.
+
+#### Stage 6 + Roadmap (v2.0+ Blueprint)
+
+- **STAGE-6-OUTLINE.md** — Spezialisierungs-Tracks Blueprint para post-CAPSTONE-5: Track A (Übersetzung), Track B (Forschung Promotion), Track C (Fachsprache 3 Sub-Tracks), Track D (Mentoring + DaF). 4 Tracks × 5-7 Module + Capstone-6 spezifisch. Berufliche Anschlussmöglichkeiten + Selection-Criterion. **Resolve SN-016 partial.**
+- **ROADMAP.md** (root) — Long-term vision document v1.4→v3.0+. Status quo + 6 versões previstas + strategische Prinzipien + open questions + Beitragender-Information.
+
+### Cross-references novas
+
+- INDEX.md → SELF-TEST-BANK + ANKI-STARTER-DECK + STAGE-6-OUTLINE + ROADMAP + 3 templates novos + CAPSTONE-3 exemplar.
+- templates/README atualizado com 3 templates adicionais (GLOSSE, UEBERSETZUNGSANALYSE, VEROEFFENTLICHUNG).
+- examples/README atualizado com CAPSTONE-3 exemplar.
+
+### Resolvido (SN-Items)
+
+| SN | Prio | Tipo | Título | Status |
+|---|---|---|---|---|
+| SN-009 | P2 | expansão | Anki decks pré-construídos | Partial (Stage 1 done; Stages 2-5 v1.5) |
+| SN-014 | P3 | expansão | Capstones exemplares | Partial (CAPSTONE-1+2+3 done; -4/-5 v2.0+) |
+| SN-016 | P3 | expansão | Stage 6 specialization | Partial (Outline done; full implementation v2.0+) |
+
+### Estatísticas v1.4
+
+```
+Arquivos novos:                                  7
+  Templates:                                      3 (GLOSSE, UEBERSETZUNGSANALYSE, VEROEFFENTLICHUNG)
+  Operational:                                    2 (SELF-TEST-BANK + ANKI-STARTER-DECK)
+  Worked example:                                 1 (CAPSTONE-3)
+  Strategic:                                      1 (STAGE-6-OUTLINE)
+  Roadmap:                                        1 (ROADMAP.md em root)
+
+Arquivos modificados:                           ~5
+  Catalog updates:                               2 (templates/README, examples/README)
+  Meta-docs:                                     3 (INDEX, SPRINT-NEXT, CHANGELOG)
+
+Conteúdo:
+  Templates output cumulativo:                   8 (era 5)
+  Worked examples cumulativo:                    3 (CAPSTONE-1+2+3 sobre Aufklärung)
+  Self-test Übungen:                              ~30 (Stage 1)
+  Anki cards starter:                             ~500 (Stage 1)
+  Stage 6 Tracks Blueprint:                       4 (A, B, C, D)
+```
+
+---
+
 ## v1.3 — 2026-05-09 — Maestria total profunda: BEGRIFFS-GLOSSAR + Wortbildung + Phraseologismen + AUDIO-CANON + CAPSTONE-2 exemplar
 
 ### Adicionado

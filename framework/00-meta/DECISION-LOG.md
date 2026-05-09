@@ -476,6 +476,38 @@ Active.
 
 ---
 
+## DL-2026-05-09-015 — ROADMAP.md im Repo-Root, nicht in `00-meta/`
+
+### Contexto
+
+Em v1.4, ao implementar Long-term-Vision-Document, surgiu decisão de Lokação: ROADMAP.md em `framework/00-meta/` (junto com SPRINT-NEXT, CHANGELOG, DECISION-LOG, RELEASE-NOTES) ou em Repo-Root?
+
+### Alternativas consideradas
+
+1. **`framework/00-meta/ROADMAP.md`**: konsistent mit den anderen meta-Dokumenten. Pros: konsolidierte Lokação. Contras: ROADMAP é meta-meta-Dokument (Vision sobre alle anderen meta-Docs); semantisch über ihnen.
+2. **Repo-Root** (escolhido): ROADMAP.md neben README.md, README-EN.md, MENTOR.md, STUDY-PROTOCOL.md, PROGRESS.md, LICENSE, CODE_OF_CONDUCT.md. Pros: First-Class-Visibility; konventionell für Open-Source-Projekte. Contras: assimétrico mit den anderen Sprint/Decision-Docs.
+3. **`docs/ROADMAP.md`** (novo subdiretório): Pros: clean separation. Contras: re-organização; quebra Existente Konventionen.
+
+### Decisão tomada
+
+Opção 2.
+
+### Justificativa
+
+- **Open-Source-Konvention**: ROADMAP.md em Root é Standard für Projekte auf GitHub (Visibility, Discoverability).
+- **Strategic-vs-Tactical-Distinction**: ROADMAP é strategisch (Vision); SPRINT-NEXT é tatisch (Backlog). Trennung in Root vs. meta/ macht das sichtbar.
+- **First-Class-Citizen**: junto com README + LICENSE + CODE_OF_CONDUCT — Dokumente, die Außenstehende erst sehen.
+
+### Trade-offs aceitos
+
+- **Asymmetria mit Sprint/Decision/Changelog/Release-Notes** (alle in 00-meta/). Mitigation via cross-references.
+
+### Status
+
+Active.
+
+---
+
 ## DL-template para entradas futuras
 
 ```markdown

@@ -26,6 +26,14 @@
 |---|---|---|
 | [VORTRAG-TEMPLATE](VORTRAG-TEMPLATE.md) | [05-05 Public Output](../../05-meisterschaft/05-05-public-output.md) | Vortrag 30 min em Hochdeutsch erudit (~3900 W skript com Pausenmarkierung) |
 
+### Output journalistisch / spezialisiert (Stage 3-5)
+
+| Template | Modul | Aplicação |
+|---|---|---|
+| [GLOSSE-TEMPLATE](GLOSSE-TEMPLATE.md) | [03-08 Journalistischer Stil](../../03-stil/03-08-journalistischer-stil.md) | Glosse feuilletonistisch (~350-500W; 5-Bewegung-Struktur com Pointe) |
+| [UEBERSETZUNGSANALYSE-TEMPLATE](UEBERSETZUNGSANALYSE-TEMPLATE.md) | [05-03 Übersetzungstheorie](../../05-meisterschaft/05-03-uebersetzungstheorie.md) | Kontrastive PT↔DE-Übersetzungsanalyse (~3500-4500W + Übersetzung) |
+| [VEROEFFENTLICHUNG-TEMPLATE](VEROEFFENTLICHUNG-TEMPLATE.md) | [CAPSTONE-5](../../05-meisterschaft/CAPSTONE-meisterschaft.md) | Manuskript-Submission an DE-Zeitschrift (4 Dokumente: Manuskript + Exposé + CV + Anschreiben) |
+
 ---
 
 ## Strukturlogik der Templates
@@ -68,13 +76,10 @@ Jedes Template enthält:
 
 ## Backlog futuro
 
-Templates previstos para v1.3+:
+Templates previstos para v1.5+:
 
-- **GLOSSAR-V0-TEMPLATE** — para Capstone-1 (Stage 1 Erkenntnisprojekt v0). Atualmente CAPSTONE-fundamente.md descreve estrutura; template separado reduziria fricção.
-- **ÜBERSETZUNGSANALYSE-TEMPLATE** — para Trilha D (Tradução PT↔DE) e Modul 05-03.
-- **VEROEFFENTLICHUNGS-TEMPLATE** — para CAPSTONE-5 (Manuskript + Exposé + Lebenslauf).
-- **GLOSSE-TEMPLATE** — para Modul 03-08 (estilo jornalístico Glosse).
-- **PODCAST-EPISODEN-TEMPLATE** — para Modul 05-05 (formato Podcast).
+- **GLOSSAR-V0-TEMPLATE** — para Capstone-1 standalone Form (atual CAPSTONE-fundamente.md descreve estrutura inline; possible v1.5).
+- **PODCAST-EPISODEN-TEMPLATE** — para Modul 05-05 (formato Podcast spezifisch — separat von Vortrag).
 
 ---
 

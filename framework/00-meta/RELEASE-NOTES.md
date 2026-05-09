@@ -4,6 +4,103 @@
 
 ---
 
+## v1.4 — Aprofundamento operacional + Stage 6 Blueprint (2026-05-09)
+
+### Eixos da release
+
+Eleva v1.3 (maestria total profunda) para v1.4 (**aprofundamento operacional**: tooling pedagógico para uso sustentado + Capstone-3 exemplar como conclusão da progressão v0→v1→v2 sobre Aufklärung + Stage 6 Blueprint para post-Meisterschaft + Roadmap explícito).
+
+### Conteúdo novo
+
+#### 3 Templates novos
+
+- **GLOSSE-TEMPLATE** — feuilletonistische Glosse com 5-Bewegung-Struktur. Beispiel-Glosse "Der einzigartige Imperativ" demonstra die Form.
+- **UEBERSETZUNGSANALYSE-TEMPLATE** — kontrastive PT↔DE-Übersetzungsanalyse com Schleiermacher-Achse, Benjamin/Berman-Theorie, Übersetzungsentscheidungen detalhada, Vergleich com existierenden Übersetzungen.
+- **VEROEFFENTLICHUNG-TEMPLATE** — Submission-Paket DE-Zeitschrift (Manuskript + Exposé + CV + Anschreiben) com Liste de canon-Zeitschriften (akademisch + kulturell) + Workflow + realistic Akzeptanzraten.
+
+#### Self-test bank Stage 1
+
+- **SELF-TEST-BANK-STAGE-1** — ~30 Übungen com Lösungen para 01-01 a 01-09. Schwierigkeitsgrad ★/★★/★★★. Cross-Module-Übungen complexas. Stage-1-Abschluss-Selbstdiagnose.
+
+#### Anki starter deck Stage 1
+
+- **ANKI-STARTER-DECK-STAGE-1** — ~500 frasal cards canônicos organizados por módulo (01-01: 50 cards Topologie + Verbalklammer; 01-02: 60 cards Kasus + Verbregierung; 01-03: 75 cards Stammformen + Hilfsverb + trennbar; etc.). Inclui Anki-Import-Format TSV/CSV e Konfiguração-Empfehlungen.
+
+#### CAPSTONE-3 exemplar
+
+- **CAPSTONE-3-AUFKLAERUNG-EXEMPLAR** — Aufsatz wissenschaftlich ~5000W como **conclusão natural** da progressão v0→v1→v2 sobre Aufklärung:
+  - **CAPSTONE-1**: Glossar v0 (30 lexikographische Einträge).
+  - **CAPSTONE-2**: Aufsatz argumentativ v1 (1500W, einzelne These).
+  - **CAPSTONE-3**: Aufsatz wissenschaftlich v2 (5000W, mit Forschungsstand + Methodologie + Diskussion + Bewährung).
+  
+  Tese: *"Aufklärung als regulative Idee struktureller Mündigkeit — drei Bedingungen unter denen die Adorno-Habermas-Spannung auflösbar ist."* 7 Primärquellen (Kant, Horkheimer/Adorno, Adorno, Habermas) + 9 Sekundärquellen (Brandt, Honneth, McCarthy, Wellmer, Geier, Schneiders, Koselleck, Brunner/Conze/Koselleck, Habermas-Sekundär). Methodisch: Begriffsgeschichte (Koselleck). Stilistische Saturierung: Konj.I (12+), Konj.II (6+), FVG (12+), Passiv (8+), Modalverben epistemisch (5+), Konnektoren acadêmicos (18+). Bewertung ~91%.
+
+#### Stage 6 outline
+
+- **STAGE-6-OUTLINE** — Blueprint para Spezialisierungs-Tracks post-Meisterschaft:
+  - **Track A**: Übersetzungswissenschaft + Praxis PT↔DE (6 Module + CAPSTONE-6-A: publizierte Buchübersetzung).
+  - **Track B**: Germanistische Forschung + Promotion-Vorbereitung (7 Module + CAPSTONE-6-B: Promotion-Beginn).
+  - **Track C**: Fachsprache spezialisiert (3 Sub-Tracks: Recht / Medizin / Technik) (4 Module pro Sub-Track + Capstone-6-C).
+  - **Track D**: Mentoring + DaF-Lehre (6 Module + CAPSTONE-6-D: eigene DaF-Praxis).
+  
+  Berufliche Anschlussmöglichkeiten + Selection-Criterion. Implementation-Roadmap v2.0 → v2.3.
+
+#### Roadmap
+
+- **ROADMAP.md** (root) — Long-term Vision von v1.4 bis v3.0+:
+  - v1.5 (~2027-06): Anki decks Stages 2-5 + Self-test banks Stages 2-5 + Tradução DE parcial + Peer-review.
+  - v2.0 (~2028-12): Comunidade + CAPSTONE-4/5 exemplares + Stage 6 vollständig.
+  - v2.5 (~2029-12): Feedback-Loop + Tradução DE 100% + AnkiWeb-Deck published.
+  - v3.0 (~2030-12): Multilingual + Akademie-Kooperationen + Stage 7 conceito.
+  
+  Strategische Prinzipien (Inhalt > Form, Markdown + Git Foundation, CC BY-NC 4.0, Quellenkritik, Lernerorientierung, Mentor + Peer + Self-Mentor, Long-term Sustainability) explizit. Wontfix-Liste klar.
+
+### Estatísticas cumulativas v1.0 → v1.4
+
+| Domänen | Quantität |
+|---|---|
+| Anhänge gramatical-linguistic | 10 (A-J) |
+| Begriffe filosófico-filológicos | 111 |
+| Phraseologismen | ~450 |
+| FVG canônicas | >250 |
+| Stilfiguren com exemplos | ~60 |
+| Wortbildungs-Patterns | ~50 |
+| Audio/Video-Quellen | ~30 com URLs |
+| **Templates output** | **8** (era 5) |
+| **Worked examples** | **3** (CAPSTONE-1+2+3 sobre Aufklärung) |
+| **Self-test Übungen** | **~30** (Stage 1; Stages 2-5 v1.5) |
+| **Anki cards starter** | **~500** (Stage 1; Stages 2-5 v1.5) |
+| **Stage 6 Tracks Blueprint** | **4** (A, B, C, D) |
+| Mermaid-Diagramme | 12 |
+| PT-DE Kontrastive fenômenos | ~30 |
+| Cross-references válidos | 55+ |
+
+### Resolvido (SN-Items)
+
+| SN | Prio | Tipo | Título | Status |
+|---|---|---|---|---|
+| SN-009 | P2 | expansão | Anki decks pré-construídos | Partial (Stage 1 done) |
+| SN-014 | P3 | expansão | Capstones exemplares | Partial (CAPSTONE-1+2+3 done) |
+| SN-016 | P3 | expansão | Stage 6 specialization | Partial (Outline done) |
+
+### Próximas releases
+
+- **v1.5 (~2027-06)**: Anki Stages 2-5 + Self-test Stages 2-5 + Tradução DE parcial.
+- **v2.0 (~2028-12)**: Comunidade + CAPSTONE-4/5 + Stage 6 vollständig.
+
+### Status v1.4
+
+**Aprofundamento operacional atingido.** Framework é agora:
+
+1. **Pedagogicamente complete** + 3 worked examples sequenciais sobre Aufklärung (v0→v1→v2).
+2. **Operacionalmente fluido** com 8 templates + Self-test bank + Anki starter deck para Stage 1.
+3. **Strategically positioned** com Stage 6 Blueprint para post-Meisterschaft + Roadmap explícito.
+4. **Long-term sustainable** com Roadmap v1.4→v3.0+ documentado + strategische Prinzipien explízite.
+
+Framework está agora em uma **stabile evolução-Pfad**: v1.5+v2.0 expandem cobertura horizontal (alle Stages), v2.0+v2.5 expandem cobertura vertikal (Stage 6 + Comunidade), v3.0+ expandem internacionalmente.
+
+---
+
 ## v1.3 — Maestria total profunda (2026-05-09)
 
 ### Eixos da release
