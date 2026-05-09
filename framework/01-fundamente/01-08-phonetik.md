@@ -305,7 +305,7 @@ Se 2+ falhas: shadowing diário 15 min com Tagesschau + Goethe-Deklamation (recu
 
 Você passa o Konzeptuelles Tor se, **sem consultar**:
 
-1. Transcrever foneticamente em IPA 8 palavras autênticas (e.g., *Liebe, Mädchen, Buch, sehr, Vater, beobachten, gewußt, Universität*).
+1. Transcrever foneticamente em IPA 8 palavras autênticas (e.g., *Liebe, Mädchen, Buch, sehr, Vater, beobachten, gewusst, Universität*).
 2. Aplicar **Auslautverhärtung** em 5 pares (Stamm-Stamm+sufixo: *Tag/Tage, lieb/Liebe, ...*).
 3. Identificar **Knacklaut** em 3 expressões (palavra com vogal-Anlaut, palavra composta com fronteira morfológica, fronteira de palavra).
 4. Diferenciar [ç] e [x] em 6 palavras dadas, justificando pela vogal anterior.

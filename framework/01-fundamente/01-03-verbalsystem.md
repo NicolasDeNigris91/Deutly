@@ -40,7 +40,7 @@ quiz:
       - "Porque é dialetal."
       - "Porque é Modalverb."
     correct: 0
-    explanation: "Verben gemischter Konjugation combinam Ablaut (característico das starken) com o Dental-Suffix '-te' das schwachen no Präteritum. Lista canônica: bringen-brachte, denken-dachte, kennen-kannte, nennen-nannte, rennen-rannte, brennen-brannte, senden-sandte, wenden-wandte, wissen-wußte. Modalverben também: müssen-mußte, können-konnte, dürfen-durfte, wollen-wollte, sollen-sollte, mögen-mochte."
+    explanation: "Verben gemischter Konjugation combinam Ablaut (característico das starken) com o Dental-Suffix '-te' das schwachen no Präteritum. Lista canônica: bringen-brachte, denken-dachte, kennen-kannte, nennen-nannte, rennen-rannte, brennen-brannte, senden-sandte, wenden-wandte, wissen-wusste. Modalverben também: müssen-musste, können-konnte, dürfen-durfte, wollen-wollte, sollen-sollte, mögen-mochte."
   - q: "Em 'durchqueren' vs 'durchstreichen', ambos com prefixo 'durch-', um é trennbar e outro untrennbar. Como diagnosticar?"
     options:
       - "É arbitrário."
@@ -134,14 +134,14 @@ rennen — rannte — gerannt
 brennen — brannte — gebrannt
 senden — sandte — gesandt    (também schwach: sendete — gesendet, em sentido "transmitir")
 wenden — wandte — gewandt    (também schwach: wendete — gewendet, em sentido "virar")
-wissen — wußte — gewußt
+wissen — wusste — gewusst
 ```
 
 **Modalverben pertencem à mesma klasse** morfologicamente (Vokalwechsel + Dental-Suffix):
 
 ```
 können — konnte — gekonnt
-müssen — mußte — gemußt
+müssen — musste — gemusst
 dürfen — durfte — gedurft
 wollen — wollte — gewollt
 sollen — sollte — gesollt
@@ -439,7 +439,7 @@ sich (Dat.) etwas einbilden    (imaginar erroneamente)
 
 Präteritum (gemischt: Vokalwechsel + Dental):
 ```
-konnte, mußte, durfte, wollte, sollte, mochte
+konnte, musste, durfte, wollte, sollte, mochte
 ```
 
 ---

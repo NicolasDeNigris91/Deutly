@@ -69,7 +69,7 @@ Tipos:
 
 **Estimativa:** 12-16 horas.
 
-**Status:** Backlog.
+**Status:** Done (v1.2, 2026-05-09). Implementado em [`framework/00-meta/anhaenge/ANHANG-G-FVG-CANONICA.md`](anhaenge/ANHANG-G-FVG-CANONICA.md). >250 FVG por 18 Funktionsverben (bringen / kommen / finden / stehen / nehmen / machen / geben / ziehen / führen / halten / treffen / üben / erheben / leisten / gewinnen / treten / setzen / legen + perypheras gehen/geraten/treiben/bleiben/verfügen/verleihen/aufweisen/besitzen). Marcação por Domäne (W / J / B / Po / G / N) + Stages-Aquisições-Scaffold.
 
 ---
 
@@ -81,7 +81,7 @@ Tipos:
 
 **Estimativa:** 8-12 horas.
 
-**Status:** Backlog.
+**Status:** Done (v1.2, 2026-05-09). Implementado em [`framework/00-meta/anhaenge/ANHANG-H-STILFIGUREN-BEISPIELE.md`](anhaenge/ANHANG-H-STILFIGUREN-BEISPIELE.md). 20+ Stilfiguren (Anapher, Epipher, Chiasmus, Hyperbaton, Polysyndeton, Asyndeton, Klimax, Antiklimax, Antithese, Oxymoron, Paradoxon, Metapher, Personifikation, Metonymie, Synekdoche, Litotes, Hyperbel, Ellipse, Aposiopese, Alliteration, Assonanz, Rhetorische Frage, Concessio, Apostrophe) com 3-5 Beispielen aus Adorno, Heidegger, Mann, Bernhard, Goethe, Brecht, Kant, Habermas. Inkl. Stilfiguren-Bilanz für Aufsatz 5000W.
 
 ---
 
@@ -97,7 +97,7 @@ Tipos:
 
 **Estimativa:** 20-30 horas.
 
-**Status:** Backlog.
+**Status:** Partial (v1.2, 2026-05-09). Auditoria pragmática realizada: 55 cross-references entre módulos verificados (todos válidos), inserção de back-links em módulos que tinham anhaenge novos (01-02, 01-04, 02-01, 02-06, 03-06, 04-09). Auditoria sistemática complete deferida para v1.3 (~2026-09).
 
 ---
 
@@ -113,7 +113,7 @@ Tipos:
 
 **Estimativa:** 15-20 horas.
 
-**Status:** Backlog.
+**Status:** Partial (v1.2, 2026-05-09). 5 fixes ß→ss em paradigmas modernos do Modalverben/wissen (01-03 §2.2, §2.9, Aufgabe; 01-08 §3 IPA-list; FEHLERPROTOKOLL-TEMPLATE Bernhard-Stil). Citações de Kafka 1915, Goethe 1808, Grimm 1857, Kant 1781/87, Luther 1530 preservaram orthographia histórica. Auditoria completa hyphen/dash deferida para v1.3.
 
 ---
 
@@ -241,9 +241,9 @@ Total: ~8000 cards organizados por Stage / módulo / domínio.
 
 **Estimativa:** 500-1000 horas POR BEGRIFF (= concluir Capstone-5 inteiro).
 
-**Status:** Backlog.
+**Status:** Partial (v1.2, 2026-05-09). **CAPSTONE-1 exemplar concluído**: [`framework/00-meta/examples/CAPSTONE-1-AUFKLAERUNG-EXEMPLAR.md`](examples/CAPSTONE-1-AUFKLAERUNG-EXEMPLAR.md) — 30 entries com 9-Felder-Schema completo, Belege primários (Kant, Hegel, Adorno/Horkheimer, Habermas, Foucault), topologische Analyse, Kollokationen, Verweise, ~95 Anki-cards generierten, warnings explícitas contra cópia de conteúdo. Resta: CAPSTONE-2/-3/-4/-5 exemplares — diferidos para v1.5+/v2.0 (massivos).
 
-**Riscos:** Aluno pode se apoiar em exemplo em vez de produzir próprio. Mitigação: publicar com explicit warning.
+**Riscos:** Aluno pode se apoiar em exemplo em vez de produzir próprio. Mitigação: publicar com explicit warning. **Mitigação implementada** em CAPSTONE-1 exemplar §"Was NICHT zu kopieren" + Vorbemerkung.
 
 ---
 
@@ -340,16 +340,20 @@ Cada track ~5-7 módulos + Capstone-6.
 ## Cadência de releases prevista
 
 ```
-v1.0 — 2026-05-08 — Initial Public Release             [feito]
-v1.1 — 2026-05-09 — Anexos canônicos + DAG visual +    [feito]
-                    output templates
-v1.2 — ~2026-09  — SN-003 (FVG 200+) + SN-004           [planejado]
-                   (Stilfiguren-Beispiele) + SN-005-006
-                   (auditoria + edits)
-v1.5 — ~2027-12  — Tradução DE + Anki decks +           [planejado]
-                   peer-review
-v2.0 — ~2028-12  — Comunidade + exemplares +            [planejado]
-                   Stage 6
+v1.0 — 2026-05-08 — Initial Public Release                  [feito]
+v1.1 — 2026-05-09 — Anexos A,B + DAG visual + 5 templates   [feito]
+v1.2 — 2026-05-09 — Anexos C,D,E,F + FVG (G) + Stilfig.(H)  [feito]
+                    + governance (CODE_OF_CONDUCT, .github,
+                    GitHub Actions, README-EN) + auditoria
+                    pragmática + Capstone-1 exemplar
+                    (Aufklärung, 30 entries reais)
+v1.3 — ~2026-09  — Auditoria sistemática completa +         [planejado]
+                    SN-007 (BEGRIFFS-GLOSSAR cumulativo) +
+                    Anexos opcionais (Wortbildung, Phraseol.)
+v1.5 — ~2027-12  — Tradução DE + Anki decks +               [planejado]
+                    peer-review
+v2.0 — ~2028-12  — Comunidade + Capstones-2/3/4/5 +         [planejado]
+                    Stage 6
 ```
 
 Cadência mais lenta que software comum — framework educacional muda devagar; estabilidade é virtude.

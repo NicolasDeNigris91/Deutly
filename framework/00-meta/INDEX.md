@@ -4,9 +4,11 @@
 >
 > **Documentos meta complementares**: [CAPSTONE-EVOLUTION](CAPSTONE-EVOLUTION.md), [REFERENCES-ELITE](REFERENCES-ELITE.md), [READING-LIST](READING-LIST.md), [GLOSSAR](GLOSSAR.md), [SELF-ASSESSMENT](SELF-ASSESSMENT.md), [RUBRIC](RUBRIC.md), [ANKI-FRAMEWORK](ANKI-FRAMEWORK.md), [FEHLERPROTOKOLL-TEMPLATE](FEHLERPROTOKOLL-TEMPLATE.md), [MODULE-TEMPLATE](MODULE-TEMPLATE.md), [LEARNING-PATHWAYS](LEARNING-PATHWAYS.md) (6 trilhas alternativas), [BEGRIFF-INDEX](BEGRIFF-INDEX.md) (7 Begriffe scaffolded), [DAG](DAG.md) (Mermaid visual + caminhos críticos), [RELEASE-NOTES](RELEASE-NOTES.md), [CHANGELOG](CHANGELOG.md), [DECISION-LOG](DECISION-LOG.md), [SPRINT-NEXT](SPRINT-NEXT.md).
 >
-> **Anexos canônicos** ([anhaenge/](anhaenge/)): [ANHANG A — Ablautreihen](anhaenge/ANHANG-A-ABLAUTREIHEN.md) (~166 starke Verben), [ANHANG B — Modalverben](anhaenge/ANHANG-B-MODALVERBEN.md) (todos modos + tempos).
+> **Anexos canônicos** ([anhaenge/](anhaenge/) — cf. [README do diretório](anhaenge/README.md)): [A — Ablautreihen](anhaenge/ANHANG-A-ABLAUTREIHEN.md) (~166 verbos starke) · [B — Modalverben](anhaenge/ANHANG-B-MODALVERBEN.md) (modi+tempora) · [C — Präpositionen](anhaenge/ANHANG-C-PRAEPOSITIONEN.md) · [D — Konnektoren](anhaenge/ANHANG-D-KONNEKTOREN.md) · [E — Adjektivdeklination](anhaenge/ANHANG-E-ADJEKTIVDEKLINATION.md) · [F — PT-DE Kontrastive](anhaenge/ANHANG-F-PT-DE-KONTRASTIVE.md) · [G — FVG Canônica](anhaenge/ANHANG-G-FVG-CANONICA.md) (>250 FVG) · [H — Stilfiguren-Beispiele](anhaenge/ANHANG-H-STILFIGUREN-BEISPIELE.md).
 >
-> **Templates de output** ([templates/](templates/)): [Tagebuch](templates/TAGEBUCH-TEMPLATE.md), [Aufsatz 1500 W](templates/AUFSATZ-1500W-TEMPLATE.md), [Aufsatz 5000 W](templates/AUFSATZ-5000W-TEMPLATE.md), [Vortrag](templates/VORTRAG-TEMPLATE.md), [Begriffsanalyse korpusbasiert](templates/BEGRIFFSANALYSE-TEMPLATE.md).
+> **Templates de output** ([templates/](templates/) — cf. [README](templates/README.md)): [Tagebuch](templates/TAGEBUCH-TEMPLATE.md) · [Aufsatz 1500 W](templates/AUFSATZ-1500W-TEMPLATE.md) · [Aufsatz 5000 W](templates/AUFSATZ-5000W-TEMPLATE.md) · [Vortrag](templates/VORTRAG-TEMPLATE.md) · [Begriffsanalyse korpusbasiert](templates/BEGRIFFSANALYSE-TEMPLATE.md).
+>
+> **Worked examples** ([examples/](examples/) — cf. [README](examples/README.md)): [CAPSTONE-1 — Aufklärung Exemplar](examples/CAPSTONE-1-AUFKLAERUNG-EXEMPLAR.md) (30 entries reais com 9-Felder-Schema).
 
 ---
 

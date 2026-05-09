@@ -71,6 +71,8 @@ Sem este módulo, **CAPSTONE-4** (kontrastive Notiz PT-DE) inviável; tradução
 
 ## 2. Harte Theorie
 
+> 📚 **~30 fenômenos contrastivos PT-DE sistematizados** com Fossilisations-Risk-Matrix em [ANHANG F — PT-DE Kontrastive](../00-meta/anhaenge/ANHANG-F-PT-DE-KONTRASTIVE.md). Esta seção apresenta a teoria; o Anhang é referência sistemática para PT-falantes cross-Stage.
+
 ### 2.1 Tipologia comparativa — V2 vs. SVO
 
 #### DE — língua [+V2]

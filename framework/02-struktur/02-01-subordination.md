@@ -74,6 +74,8 @@ Sem este módulo:
 
 ## 2. Harte Theorie
 
+> 📚 **Listas exhaustivas** dos 3 klassen sintáticas de Konnektoren (Konjunktoren / Subjunktoren / Konjunktionaladverbien) com função + Beleg em [ANHANG D — Konnektoren](../00-meta/anhaenge/ANHANG-D-KONNEKTOREN.md). Esta seção apresenta as klassen sintáticas; o Anhang é referência consultável.
+
 ### 2.1 Konjunktor vs. Subjunktor — distinção fundamental
 
 #### Konjunktoren (coordenativos) — não licenciam VL

@@ -75,6 +75,8 @@ Este módulo organiza o sistema. Memorização lexical (Genus de cada substantiv
 
 ## 2. Harte Theorie
 
+> 📚 **Tabelas exhaustivas** dos 3 Padrões da Adjektivdeklination (schwach/stark/gemischt) × 4 Kasus × 4 Genus/Numerus em [ANHANG E — Adjektivdeklination](../00-meta/anhaenge/ANHANG-E-ADJEKTIVDEKLINATION.md). Esta seção apresenta a Logik; o Anhang é referência consultável.
+
 ### 2.1 Genus — três valores, alocação semi-previsível
 
 DE distingue 3 Genera: **Maskulin** (m.), **Feminin** (f.), **Neutrum** (n.). O Genus é propriedade lexical do substantivo, marcada no Det.

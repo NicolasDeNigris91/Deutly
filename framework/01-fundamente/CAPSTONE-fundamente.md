@@ -12,6 +12,8 @@ status: locked
 
 > Primeiro stage do produto encadeado do FATHOM-Deutsch. Este Capstone integra os 9 módulos do Stage 1 num único deliverable: o **Glossar fonético-estrutural** do *Begriff* escolhido.
 
+> 📋 **Worked example completo** com 30 entries reais (Begriff = *Aufklärung*) demonstrando o 9-Felder-Schema + topologische Analyse + Kollokationen + Verweise: [CAPSTONE-1-AUFKLAERUNG-EXEMPLAR](../00-meta/examples/CAPSTONE-1-AUFKLAERUNG-EXEMPLAR.md). Use o exemplar para calibrar **forma** — não para copiar **conteúdo**.
+
 ---
 
 ## 1. Pré-condição: escolha do *Begriff*

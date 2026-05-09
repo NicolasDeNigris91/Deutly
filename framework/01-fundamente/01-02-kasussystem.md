@@ -75,6 +75,8 @@ Este módulo organiza o sistema. A regência específica é Anki — mas o **sis
 
 ## 2. Harte Theorie
 
+> 📚 **Lista exhaustiva** das Präpositionen (Akk/Dat/Wechsel/Gen) com Bedeutung + idiomatik + falsche Freunde PT-DE em [ANHANG C — Präpositionen](../00-meta/anhaenge/ANHANG-C-PRAEPOSITIONEN.md). Esta seção apresenta o sistema; o Anhang é referência consultável.
+
 ### 2.1 Os 4 Kasus, função primária
 
 | Kasus | Funções primárias | Pergunta-Test |

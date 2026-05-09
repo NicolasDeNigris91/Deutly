@@ -73,6 +73,8 @@ Sem este módulo:
 
 ## 2. Harte Theorie
 
+> 📚 **20+ Stilfiguren com 3-5 exemplos canônicos cada** (Adorno, Heidegger, Mann, Bernhard, Goethe, Brecht, Kant) em [ANHANG H — Stilfiguren-Beispiele](../00-meta/anhaenge/ANHANG-H-STILFIGUREN-BEISPIELE.md). Esta seção apresenta as figuras; o Anhang é referência consultável + Beispielsammlung.
+
 ### 2.1 Stilfiguren — taxonomia clássica
 
 Tradição retórica (Cícero, Quintilian) classifica em:

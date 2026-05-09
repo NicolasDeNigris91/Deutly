@@ -167,7 +167,7 @@ neutro, mas **falta Stimme** — nativo culto leria como tradução literal de P
 
    Bernhard-Stil (saturado-neurótico):
    "Die Politik ist halt einfach, dachte ich, von Grund auf verfehlt, immer 
-   schon verfehlt gewesen, und zwar so verfehlt, daß man kaum noch zu sagen 
+   schon verfehlt gewesen, und zwar so verfehlt, dass man kaum noch zu sagen 
    wagt, wie verfehlt sie eigentlich ist."
 
 **Comentário:** Cada Stilstrategie codifica **diferent diagnóstico filosófico-

@@ -53,6 +53,8 @@ quiz:
 
 # 02-06, Funktionsverbgefüge — nominaler Stil
 
+> 📚 **>250 FVG canônicas** organizadas por Funktionsverb (bringen, kommen, finden, stehen, nehmen, machen, geben, ziehen, führen, halten, treffen, üben, erheben, leisten, ...) + Domänenmarkierung (Wissenschaft / Jurisprudenz / Bürokratie / Politik / Gehoben) em [ANHANG G — FVG Canônica](../00-meta/anhaenge/ANHANG-G-FVG-CANONICA.md). Esta seção apresenta a klasse + Diagnostik; o Anhang é referência exhaustiva.
+
 ## 1. Sprachliches Problem
 
 Funktionsverbgefüge (FVG) são uma classe **idiosincrática** de construções alemãs onde **um verbo semanticamente leve combina com um nomalisador-Substantiv** para formar uma unidade semântica fixa. *zur Sprache bringen, Anwendung finden, in Frage kommen, Bezug nehmen auf, in Anspruch nehmen* — não são "frases verbais" comuns mas **idiomatic-semilexicalisierten Konstruktionen** com Verbalvalenz fixa.

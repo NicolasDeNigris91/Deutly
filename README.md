@@ -1,6 +1,18 @@
 # FATHOM-Deutsch
 
 > Notas de aquisição de linguagem alemã, organizadas por estágio. Mesmo rigor analítico do Fathom, aplicado à *Sprache*.
+>
+> 🇬🇧 [English version: README-EN.md](README-EN.md) · 📊 [DAG visual](framework/00-meta/DAG.md) · 📚 [Anhänge](framework/00-meta/anhaenge/) · 📋 [Templates](framework/00-meta/templates/)
+
+---
+
+## Quickstart
+
+Se você quer só **começar** sem ler todo o manifesto: leia [STUDY-PROTOCOL.md](STUDY-PROTOCOL.md) (técnicas obrigatórias), depois [MENTOR.md](MENTOR.md) (protocolo do mentor), depois aplique [SELF-ASSESSMENT.md](framework/00-meta/SELF-ASSESSMENT.md) (calibração), escolha trilha em [LEARNING-PATHWAYS.md](framework/00-meta/LEARNING-PATHWAYS.md) e Begriff em [BEGRIFF-INDEX.md](framework/00-meta/BEGRIFF-INDEX.md), e abra [01-01 Syntaktische Analyse](framework/01-fundamente/01-01-syntaktische-analyse.md).
+
+Se você é **PT-falante**: comece também por [ANHANG F — PT-DE Kontrastive](framework/00-meta/anhaenge/ANHANG-F-PT-DE-KONTRASTIVE.md) — sistematização das ~30 divergências estruturais que fossilizam.
+
+Se você quer **ver a progressão visual** antes de comprometer-se: veja o [DAG](framework/00-meta/DAG.md) — Mermaid com Stage-DAGs e caminhos críticos cross-Stage.
 
 ---
 
@@ -17,16 +29,49 @@ Trilha longa de estudo do alemão, do **Topologisches Feldermodell** à **Hermen
 ```
 Deutly/
 ├── README.md                           # este arquivo
+├── README-EN.md                        # English version (international reach)
 ├── MENTOR.md                           # protocolo do mentor + Loop de Refinamento
 ├── PROGRESS.md                         # dashboard de progresso (atualizado a cada Tor)
 ├── STUDY-PROTOCOL.md                   # técnicas cognitivas obrigatórias para L2
+├── CONTRIBUTING.md                     # diretrizes para contribuição
+├── CODE_OF_CONDUCT.md                  # convenção de conduta da comunidade
+├── LICENSE                             # CC BY-NC 4.0
+├── .github/                            # ISSUE/PR templates + GitHub Actions
 └── framework/
-    ├── 00-meta/
+    ├── 00-meta/                        # documentos meta + referências
     │   ├── INDEX.md                    # mapa global de TODOS os módulos
+    │   ├── DAG.md                      # ★ visual cross-Stage Mermaid
     │   ├── CAPSTONE-EVOLUTION.md       # Erkenntnisprojekt v0 → v4
     │   ├── REFERENCES-ELITE.md         # gramáticas, corpora, journals, autores
     │   ├── READING-LIST.md             # textos primários por estágio
-    │   └── GLOSSAR.md                  # terminologia linguística (DE original)
+    │   ├── GLOSSAR.md                  # terminologia linguística (DE original)
+    │   ├── BEGRIFF-INDEX.md            # 7 Begriffe canônicos com scaffolds
+    │   ├── LEARNING-PATHWAYS.md        # 6 trilhas alternativas
+    │   ├── RUBRIC.md                   # critérios pass/fail dos 3 Tore
+    │   ├── ANKI-FRAMEWORK.md           # operacionalização do Anki
+    │   ├── FEHLERPROTOKOLL-TEMPLATE.md # template registro erros
+    │   ├── MODULE-TEMPLATE.md          # template para novos módulos
+    │   ├── SELF-ASSESSMENT.md          # calibração inicial
+    │   ├── DECISION-LOG.md             # log decisões estruturais
+    │   ├── CHANGELOG.md                # histórico de versões
+    │   ├── RELEASE-NOTES.md            # estado por release
+    │   ├── SPRINT-NEXT.md              # backlog
+    │   ├── anhaenge/                   # ★ anexos referenciais consultáveis
+    │   │   ├── ANHANG-A-ABLAUTREIHEN.md       # ~166 verbos starke
+    │   │   ├── ANHANG-B-MODALVERBEN.md         # 6 Modalverb. × 8 Tempora
+    │   │   ├── ANHANG-C-PRAEPOSITIONEN.md      # Akk/Dat/Wechsel/Gen
+    │   │   ├── ANHANG-D-KONNEKTOREN.md         # Konj/Subj/Adverb 3-fach
+    │   │   ├── ANHANG-E-ADJEKTIVDEKLINATION.md # 3 padrões exhaustivos
+    │   │   ├── ANHANG-F-PT-DE-KONTRASTIVE.md   # ~30 fenômenos PT↔DE
+    │   │   ├── ANHANG-G-FVG-CANONICA.md        # >250 Funktionsverbgefüge
+    │   │   └── ANHANG-H-STILFIGUREN-BEISPIELE.md # 20+ Stilfiguren
+    │   ├── templates/                   # ★ scaffolds para output do aluno
+    │   │   ├── TAGEBUCH-TEMPLATE.md
+    │   │   ├── AUFSATZ-1500W-TEMPLATE.md       # CAPSTONE-2
+    │   │   ├── AUFSATZ-5000W-TEMPLATE.md       # CAPSTONE-3
+    │   │   ├── BEGRIFFSANALYSE-TEMPLATE.md     # CAPSTONE-4
+    │   │   └── VORTRAG-TEMPLATE.md             # 05-05 Public Output
+    │   └── examples/                   # ★ Capstones exemplares (worked examples)
     ├── 01-fundamente/                  # 9 módulos + Capstone — A1→A2 estrutural
     ├── 02-struktur/                    # 9 módulos + Capstone — B1→B2 sintaxe complexa
     ├── 03-stil/                        # 9 módulos + Capstone — B2→C1 estilística

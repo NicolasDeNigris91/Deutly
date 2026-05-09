@@ -310,6 +310,105 @@ Active.
 
 ---
 
+## DL-2026-05-09-010 — Worked examples como diretório separado `examples/`
+
+### Contexto
+
+Em v1.2, ao implementar SN-014 partial (Capstone-1 exemplar Aufklärung), surgiu decisão: integrar exemplar diretamente em CAPSTONE-fundamente.md, ou criar diretório separado `framework/00-meta/examples/`?
+
+### Alternativas consideradas
+
+1. **Integrar em CAPSTONE-fundamente.md** como Sektion §X "Beispiel" ao final. Pros: leitura linear. Contras: bloat do módulo (>2000 linhas com exemplar de 30 entries); pedagogia abstrata vs. exemplar concreto misturados; risco de aluno copiar sem ler regras.
+2. **Diretório separado `examples/`** (escolhido). Pros: separação semântica clara entre "abstrakte Aufgabenbeschreibung" (módulo) e "konkretes Beispiel" (examples/); cross-link explícito força aluno a entender abstração antes de ver exemplar; warnings explícitas na pasta dedicada; escalável para futuros exemplares de Capstone-2/3/4/5.
+3. **Em separate repo (Deutly-Examples)**: Pros: isolamento total. Contras: fragmentação do projeto; quebra de cross-references diretos; manutenção complicada.
+
+### Decisão tomada
+
+Opção 2: `framework/00-meta/examples/` com README.md indexador + warnings explícitas em cada exemplar.
+
+### Justificativa
+
+- **Risco pedagógico de cópia mitigado** por separação física + warnings explícitas em cada exemplar.
+- **Escalabilidade**: ao implementar Capstone-2/3/4/5 exemplares (v2.0+), todos vão neste diretório.
+- **Audit + manutenção**: editor pode atualizar exemplar sem tocar módulo pedagógico.
+- **Análogo a anhaenge/ e templates/**: completa o trio "pedagogy / reference / scaffold / exemplar" = 4 funções distintas, 4 diretórios.
+
+### Trade-offs aceitos
+
+- **Aluno precisa navegar entre arquivos** para usar exemplar enquanto estuda CAPSTONE-fundamente. → Mitigação: cross-reference no topo do CAPSTONE-fundamente + back-link em cada exemplar.
+
+### Status
+
+Active.
+
+---
+
+## DL-2026-05-09-011 — Governance via .github/ + GitHub Actions (markdown-lint + link-check)
+
+### Contexto
+
+Em v1.2, framework tornou-se complex enough (12+ commits, 17+ docs meta, 50+ módulos) para benefit de CI/CD básico. Decisão: adicionar GitHub Actions, ou manter manual?
+
+### Alternativas consideradas
+
+1. **Sem CI**: manutenção manual. Pros: simplicidade. Contras: drift, broken links, markdown inconsistências detectados tarde.
+2. **Markdown-link-check + markdownlint via GitHub Actions** (escolhido). Pros: automated catching de broken links em PRs + scheduled (semanal); markdown lint enforces consistência de formato; cost zero (free tier). Contras: aumento de complexity em .github/.
+3. **Custom validation scripts (Node, Python)**: Pros: controle total. Contras: dependency management; complexity.
+
+### Decisão tomada
+
+Opção 2.
+
+### Justificativa
+
+- **Free tier GitHub Actions** suporta workflow weekly + per-PR sem custo.
+- **Markdown-link-check** detecta link rot (especially DWDS, IDS-Grammis, Pfeifer URLs) — crítico para framework com ~100+ external references.
+- **Markdownlint** padroniza formato; reduz fricção de PR review.
+- **Configurações em JSON** (`.github/markdownlint.json`, `.github/markdown-link-check-config.json`) versionadas — explicit, auditable.
+
+### Trade-offs aceitos
+
+- **Workflow precisa GitHub Actions habilitado** no repo (já está, mas ConfigDrift possible).
+- **Configurações são opinativas** (e.g., MD013 desabilitada = sem limite de linha) — refletem priorização de prosa densa sobre formatting estrito.
+
+### Status
+
+Active.
+
+---
+
+## DL-2026-05-09-012 — Auditoria parcial: orthographia historisch preservada vs. moderna corrigida
+
+### Contexto
+
+Em auditoria pragmática (v1.2), questão: como tratar `daß / mußte / wußte / großse` (orthographia anterior à Rechtschreibreform 1996) vs. `dass / musste / wusste / große` (orthographia moderna)?
+
+### Alternativas consideradas
+
+1. **Tudo moderno**: corrigir até em citações historischer Texte. Contras: anachronismus + descaracterização das fontes; Kafka 1915 escreveu `daß` — substituir é falsificação textual.
+2. **Tudo histórico**: preservar `daß` em todos contextos. Contras: framework ensina **DE moderno** (Rechtschreibreform 1996/2006); aluno aprenderia ortografia obsoleta.
+3. **Distinção rigorosa** (escolhido): orthographia historisch preservada **só em citações primárias de textos pre-1996**; orthographia moderna em prosa do framework + paradigmas modernos + exemplos invented.
+
+### Decisão tomada
+
+Opção 3.
+
+### Justificativa
+
+- **Princípio da fidelidade textual**: citações de Kafka, Goethe, Grimm, Kant, Luther, Schiller etc. **devem** preservar orthographia da Quelle (Akademie-Ausgabe ou edição canônica).
+- **Princípio da norma vigente**: framework ensina norma **atual** (post-Rechtschreibreform). Em paradigmas (e.g., listagem de Modalverben em §2 de 01-03), orthographia atual é correto.
+- **Distinção explícita**: a coexistência de `dass` (norma) + `daß` (Kafka 1915) em mesmo módulo é **pedagogicamente valiosa** — aluno aprende variabilidade ortográfica histórica.
+
+### Trade-offs aceitos
+
+- **Aluno pode confundir-se** ao ver `daß` em texto-âncora e `dass` no metatexto. Mitigação: futura inserção de Anmerkung explícita no início de módulos com Belege historisch (`framework/01-fundamente/01-03-verbalsystem.md` e similares).
+
+### Status
+
+Active.
+
+---
+
 ## DL-template para entradas futuras
 
 ```markdown
