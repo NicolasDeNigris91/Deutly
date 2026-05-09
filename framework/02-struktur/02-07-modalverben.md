@@ -74,6 +74,8 @@ Sem este módulo:
 
 ## 2. Harte Theorie
 
+> 📚 **Tabelas completas** dos 6 Modalverben em todas as 6 pessoas × 8 Tempora/Modi (Präsens, Präteritum, Konj. I, Konj. II, Perfekt, Plusquamperfekt, Futur I, Futur II) + Modal + Perfekt-Inf. + Modal + Passiv + paradigma `möchten` em [ANHANG B — Modalverben](../00-meta/anhaenge/ANHANG-B-MODALVERBEN.md). Esta seção apresenta o sistema; o Anhang é referência consultável.
+
 ### 2.1 Os 6 Modalverben (recapitulação)
 
 | Modalverb | Significado nuclear | Klasse |

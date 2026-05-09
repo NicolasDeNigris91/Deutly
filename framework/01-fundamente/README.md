@@ -31,6 +31,8 @@ A intuição PT é seu principal inimigo aqui. Em PT a ordem SVO é rígida e a 
 
 ## DAG do Stage 1
 
+### Textual (ASCII)
+
 ```
 01-01 (Syntaktische Analyse) ──┬─► 01-02 (Kasus) ──┬─► 01-04 (Nominalflexion) ──► 01-05 (Pronomen)
                                │                   │            │
@@ -46,6 +48,37 @@ A intuição PT é seu principal inimigo aqui. Em PT a ordem SVO é rígida e a 
                                                             CAPSTONE-1
                                                        (Erkenntnisprojekt v0)
 ```
+
+### Visuell (Mermaid)
+
+```mermaid
+flowchart LR
+    classDef base fill:#e8f3ff,stroke:#0a4d8c,color:#0a2540
+    classDef parallel fill:#fafafa,stroke:#888888,color:#333333,stroke-dasharray: 5 3
+    classDef capstone fill:#fffacd,stroke:#806000,color:#332400,stroke-width:3px
+
+    M0101["01-01 Syntaktische Analyse"]:::base
+    M0102["01-02 Kasussystem"]:::base
+    M0103["01-03 Verbalsystem I"]:::base
+    M0104["01-04 Nominalflexion"]:::base
+    M0105["01-05 Pronominalsystem"]:::base
+    M0106["01-06 Wortbildung I"]:::base
+    M0107["01-07 Negation + MP"]:::base
+    M0108["01-08 Phonetik"]:::parallel
+    M0109["01-09 Grundwortschatz"]:::base
+    C1[["CAPSTONE-1 Glossar v0"]]:::capstone
+
+    M0101 --> M0102 --> M0104 --> M0105
+    M0101 --> M0103 --> M0107
+    M0101 --> M0107
+    M0102 --> M0105
+    M0104 --> M0106
+    M0104 --> M0109
+
+    M0102 & M0103 & M0104 & M0105 & M0106 & M0107 & M0108 & M0109 --> C1
+```
+
+(Caixa pontilhada = paralelo. Mapa cross-Stage completo: [DAG.md](../00-meta/DAG.md).)
 
 ---
 

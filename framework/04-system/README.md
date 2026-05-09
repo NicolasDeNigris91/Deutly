@@ -32,6 +32,8 @@ Aqui você passa de **falante avançado adulto** para **linguista/germanista jun
 
 ## DAG do Stage 4
 
+### Textual (ASCII)
+
 ```
 01-06 ─┐
 03-09 ─┴─► 04-01 (Hist. Ling.) ──► 04-02 (Etymologie) ──► 04-08 (Korpus)
@@ -53,6 +55,55 @@ Aqui você passa de **falante avançado adulto** para **linguista/germanista jun
 Tudo ───────────────────────────► CAPSTONE-4
                                   (Korpusbasierte Begriffsanalyse)
 ```
+
+### Visuell (Mermaid)
+
+```mermaid
+flowchart LR
+    classDef base fill:#fff0f5,stroke:#7a0050,color:#2a001a
+    classDef cross1 fill:#e8f3ff,stroke:#0a4d8c,color:#0a2540,stroke-dasharray: 4 2
+    classDef cross2 fill:#fff4e6,stroke:#a04a00,color:#3a1a00,stroke-dasharray: 4 2
+    classDef cross3 fill:#f0f8e6,stroke:#3a6b00,color:#1a2a00,stroke-dasharray: 4 2
+    classDef capstone fill:#fffacd,stroke:#806000,color:#332400,stroke-width:3px
+
+    S1_0101["01-01"]:::cross1
+    S1_0106["01-06"]:::cross1
+    S2_0208["02-08"]:::cross2
+    S3_0302["03-02"]:::cross3
+    S3_0307["03-07"]:::cross3
+    S3_0308["03-08"]:::cross3
+    S3_0309["03-09"]:::cross3
+
+    M0401["04-01 Historische Linguistik"]:::base
+    M0402["04-02 Etymologie"]:::base
+    M0403["04-03 Variationslinguistik"]:::base
+    M0404["04-04 Generative Syntax"]:::base
+    M0405["04-05 Formale Semantik"]:::base
+    M0406["04-06 Diskursanalyse"]:::base
+    M0407["04-07 Textlinguistik"]:::base
+    M0408["04-08 Korpuslinguistik"]:::base
+    M0409["04-09 Kontrastive Linguistik"]:::base
+    M0410["04-10 Hermeneutik"]:::base
+    C4[["CAPSTONE-4 Begriffsanalyse"]]:::capstone
+
+    S1_0106 -.-> M0401
+    S3_0309 -.-> M0401
+    S3_0302 -.-> M0403
+    S1_0101 -.-> M0404
+    S2_0208 -.-> M0404
+    S3_0309 -.-> M0405
+    S3_0308 -.-> M0406
+    S3_0307 -.-> M0407
+    S3_0309 -.-> M0410
+
+    M0401 --> M0402 --> M0408
+    M0404 --> M0409
+    M0404 --> M0410
+
+    M0401 & M0402 & M0403 & M0404 & M0405 & M0406 & M0407 & M0408 & M0409 & M0410 --> C4
+```
+
+(Setas tracejadas = pré-requisito cross-Stage. Mapa completo: [DAG.md](../00-meta/DAG.md).)
 
 ---
 

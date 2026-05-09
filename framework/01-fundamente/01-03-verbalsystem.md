@@ -161,6 +161,8 @@ São centrais como Vollverben e como Hilfsverben. Devem ser memorizadas com tabe
 
 ### 2.3 As 7 Ablautreihen
 
+> 📚 **Lista exaustiva** dos verbos starke por Reihe (~166 verbos com Stammformen + Hilfsverb + Beleg) em [ANHANG A — Ablautreihen](../00-meta/anhaenge/ANHANG-A-ABLAUTREIHEN.md). Esta seção apresenta o padrão estrutural; o Anhang é referência consultável.
+
 A distribuição dos starke Verben em 7 classes é descendente do germânico (cf. Eisenberg Bd. 1; Stein 1991). Cada Reihe define o **padrão de Vokalwechsel** Inf. → Prät.Sg. → Part.II.
 
 | Reihe | Ablaut Inf-Prät-Part | Verbos representativos | Sub-padrão |

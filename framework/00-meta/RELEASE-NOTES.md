@@ -1,6 +1,120 @@
-# RELEASE-NOTES — FATHOM-Deutsch v1.0
+# RELEASE-NOTES — FATHOM-Deutsch
 
-> Documenta o estado v1.0 do framework FATHOM-Deutsch — primeira versão estruturalmente completa, publicada no GitHub. Todos os 5 Stages + 5 Capstones operacionais; meta-documents + governance estabelecidos.
+> Documenta o estado das releases do framework FATHOM-Deutsch.
+
+---
+
+## v1.1 — Anexos canônicos + DAG visual + output templates (2026-05-09)
+
+### Eixos da release
+
+Eleva o framework de **estruturalmente completo** (v1.0) para **operacionalmente world-class**: referência consultável + navegável + redutor-de-fricção para output do aluno.
+
+### O que está novo
+
+#### 1. Anexos canônicos (`framework/00-meta/anhaenge/`)
+
+Referência consultável para os dois sistemas com maior densidade morfo-sintática do alemão.
+
+##### ANHANG A — Ablautreihen
+
+- ~166 verbos starke catalogados nas 7 Reihen + sub-Reihen (Ia/Ib, IIa/IIb, IIIa/IIIb).
+- Cada entrada: Inf. + Prät.3.Sg. + Part.II + Hilfsverb (haben/sein/dual) + Beleg-Frase.
+- Klassen complementares: gemischt (9 verbos), Modalverben morfo-gemischt (6), irregulär (4: sein/haben/werden/tun), suppletiv (gehen/stehen).
+- Pipeline diagnóstico (vogal + Konsonant-Kontext → Reihe).
+- Estratégia de aquisição via Anki por Reihe.
+
+##### ANHANG B — Modalverben
+
+- 6 Modalverben (können / müssen / dürfen / wollen / sollen / mögen) × 6 pessoas × 8 Tempora/Modi.
+- Distinção Vollverb-Perfekt (Part.II *gekonnt*) vs. Modal-Perfekt (Ersatzinf. *können*).
+- Modal + Perfekt-Inf. (epistemisch retrospektiv).
+- Modal + Passiv (werden- e sein-).
+- Paradigma `möchten` höflich (Konj. II lexicalizado).
+- Modal-Skala epistêmica (~50% können → ~95% muss).
+- Pseudo-Modal `brauchen` (Stage-2-relevant).
+
+#### 2. DAG visual em Mermaid (`framework/00-meta/DAG.md`)
+
+Mapas visuais nativamente renderizados em GitHub:
+
+- **Master cross-Stage DAG**: 5 Stages encadeados via Capstones.
+- **5 DAGs detalhados por Stage**: cada Stage com prereqs internos + cross-Stage (setas tracejadas distintas) + Capstone como terminal.
+- **4 caminhos críticos cross-Stage**:
+  - A) Sintaxe → Generative → Hermenêutica.
+  - B) Lexik → Register → Diskursanalyse.
+  - C) Schreiben → Stilbildung → Public Output.
+  - D) Diakronie → Korpus → Begriffsgeschichte.
+- INDEX.md + 5 Stage READMEs com Mermaid local paralelo a ASCII.
+- Convenções gráficas (cores por Stage, Capstones com bordas duplas, prereqs cross-Stage tracejados).
+
+#### 3. Templates de output (`framework/00-meta/templates/`)
+
+5 templates Markdown reduzem fricção operacional. Scaffolds, não camisas de força.
+
+- **TAGEBUCH-TEMPLATE** — entrada diária em DE com 4 Strukturvarianten + 4 Niveau-Modi.
+- **AUFSATZ-1500W-TEMPLATE** — CAPSTONE-2 com 6 Sektionen + Korrekturschleife.
+- **AUFSATZ-5000W-TEMPLATE** — CAPSTONE-3 com Wissenschaftsdeutsch hoch + ≥ 5 Primär-/Sekundärquellen.
+- **VORTRAG-TEMPLATE** — Modul 05-05 com Sprechrhythmus + Pausenmarkierung + phonetische Aufmerksamkeit.
+- **BEGRIFFSANALYSE-TEMPLATE** — CAPSTONE-4 com methodische Trias (Frequenzverlauf + Kollokationsanalyse + hermeneutische Tiefe).
+
+#### 4. Cross-references novas
+
+Templates + Anhänge ligados de volta aos módulos:
+
+- 01-03 §2.3 → ANHANG A.
+- 02-07 §2.1 → ANHANG B.
+- CAPSTONE-2 → AUFSATZ-1500W-TEMPLATE.
+- CAPSTONE-3 → AUFSATZ-5000W-TEMPLATE.
+- CAPSTONE-4 → BEGRIFFSANALYSE-TEMPLATE.
+- 05-05 → VORTRAG-TEMPLATE.
+- INDEX.md → todas as três pastas novas.
+
+### Estatísticas v1.1
+
+```
+Arquivos novos:                       8
+  framework/00-meta/anhaenge/          2 (Ablautreihen + Modalverben)
+  framework/00-meta/templates/         5
+  framework/00-meta/DAG.md             1
+
+Arquivos modificados:                 ~10
+  Cross-references em módulos          (01-03, 02-07, 4 Capstones, 05-05)
+  Mermaid em READMEs                   (INDEX + 5 Stage READMEs)
+  Status-Updates em SPRINT-NEXT        (4 SN-Items: 001, 002, 011, 012)
+
+Conteúdo:
+  Verbos starke catalogados            ~166
+  Modalverb-Konjugationsformen         ~300
+  Mermaid-Diagramme adicionados        12
+  Output-Templates                      5
+```
+
+### Resolvidos (SN-Items)
+
+| SN | Prio | Tipo | Título | Esforço estimado | Status |
+|---|---|---|---|---|---|
+| SN-001 | P1 | expansão | Anexo 7 Ablautreihen | 8-12 h | Done |
+| SN-002 | P1 | expansão | Anexo Modalverben | 4-6 h | Done |
+| SN-011 | P2 | expansão | Templates Markdown | 10-15 h | Done |
+| SN-012 | P2 | melhoria | Diagramas DAG visuais | 5-8 h | Done |
+
+### Próximas releases previstas (cf. SPRINT-NEXT.md)
+
+- **v1.2 (~2026-09)**: SN-003 (FVG 200+) + SN-004 (Stilfiguren-Beispiele) + SN-005-006 (auditoria + edits ortográficos).
+- **v1.5 (~2027-12)**: SN-008 (tradução DE) + SN-009 (Anki decks) + SN-010 (peer-review).
+- **v2.0 (~2028-12)**: SN-013 (comunidade) + SN-014 (Capstones exemplares) + SN-016 (Stage 6).
+
+### Status v1.1
+
+**Operacionalmente world-class para uso individual sustentado.** Aluno pode:
+
+- Iniciar imediatamente via INDEX.md → Stage 1 README → módulo 01-01 / 01-08.
+- Consultar ANHANG A / B durante Stage 1-2 sem sair do framework.
+- Visualizar progressão via DAG visual (cross-Stage + 4 caminhos críticos).
+- Usar Templates como scaffold para todos os Capstones + Tagebuch sustentado + Vortrag em 05-05.
+
+Próximas releases: aprofundamento referencial (FVG, Stilfiguren) + qualidade publicável (auditoria) + abertura comunitária (peer-review, Anki decks).
 
 ---
 

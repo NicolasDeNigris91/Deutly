@@ -12,6 +12,8 @@ status: locked
 
 > Segundo stage do produto encadeado do FATHOM-Deutsch. Integra os 9 módulos do Stage 2 num **argumentativer Aufsatz de 1500 palavras** sobre o *Begriff* escolhido em CAPSTONE-1.
 
+> 📋 **Template completo** com estrutura seção-a-seção, exigências stilísticas, Korrekturschleife em 3 rounds, e exemplo de Einleitung redigido: [AUFSATZ-1500W-TEMPLATE](../00-meta/templates/AUFSATZ-1500W-TEMPLATE.md). Use o Template como scaffold, não como camisa de força.
+
 ---
 
 ## 1. Continuidade com Capstone-1

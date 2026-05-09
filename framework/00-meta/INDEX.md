@@ -2,7 +2,11 @@
 
 > Mapa global dos 5 estágios. Cada linha aponta pro módulo. Pré-requisitos (`prereqs`) ditam ordem; dentro de cada estágio, módulos podem ser feitos em paralelo onde os prereqs permitirem.
 >
-> **Documentos meta complementares**: [CAPSTONE-EVOLUTION](CAPSTONE-EVOLUTION.md), [REFERENCES-ELITE](REFERENCES-ELITE.md), [READING-LIST](READING-LIST.md), [GLOSSAR](GLOSSAR.md), [SELF-ASSESSMENT](SELF-ASSESSMENT.md), [RUBRIC](RUBRIC.md), [ANKI-FRAMEWORK](ANKI-FRAMEWORK.md), [FEHLERPROTOKOLL-TEMPLATE](FEHLERPROTOKOLL-TEMPLATE.md), [MODULE-TEMPLATE](MODULE-TEMPLATE.md), [LEARNING-PATHWAYS](LEARNING-PATHWAYS.md) (6 trilhas alternativas), [BEGRIFF-INDEX](BEGRIFF-INDEX.md) (7 Begriffe scaffolded), [RELEASE-NOTES](RELEASE-NOTES.md), [CHANGELOG](CHANGELOG.md), [DECISION-LOG](DECISION-LOG.md), [SPRINT-NEXT](SPRINT-NEXT.md).
+> **Documentos meta complementares**: [CAPSTONE-EVOLUTION](CAPSTONE-EVOLUTION.md), [REFERENCES-ELITE](REFERENCES-ELITE.md), [READING-LIST](READING-LIST.md), [GLOSSAR](GLOSSAR.md), [SELF-ASSESSMENT](SELF-ASSESSMENT.md), [RUBRIC](RUBRIC.md), [ANKI-FRAMEWORK](ANKI-FRAMEWORK.md), [FEHLERPROTOKOLL-TEMPLATE](FEHLERPROTOKOLL-TEMPLATE.md), [MODULE-TEMPLATE](MODULE-TEMPLATE.md), [LEARNING-PATHWAYS](LEARNING-PATHWAYS.md) (6 trilhas alternativas), [BEGRIFF-INDEX](BEGRIFF-INDEX.md) (7 Begriffe scaffolded), [DAG](DAG.md) (Mermaid visual + caminhos críticos), [RELEASE-NOTES](RELEASE-NOTES.md), [CHANGELOG](CHANGELOG.md), [DECISION-LOG](DECISION-LOG.md), [SPRINT-NEXT](SPRINT-NEXT.md).
+>
+> **Anexos canônicos** ([anhaenge/](anhaenge/)): [ANHANG A — Ablautreihen](anhaenge/ANHANG-A-ABLAUTREIHEN.md) (~166 starke Verben), [ANHANG B — Modalverben](anhaenge/ANHANG-B-MODALVERBEN.md) (todos modos + tempos).
+>
+> **Templates de output** ([templates/](templates/)): [Tagebuch](templates/TAGEBUCH-TEMPLATE.md), [Aufsatz 1500 W](templates/AUFSATZ-1500W-TEMPLATE.md), [Aufsatz 5000 W](templates/AUFSATZ-5000W-TEMPLATE.md), [Vortrag](templates/VORTRAG-TEMPLATE.md), [Begriffsanalyse korpusbasiert](templates/BEGRIFFSANALYSE-TEMPLATE.md).
 
 ---
 
@@ -102,6 +106,8 @@
 
 ## DAG simplificado (dependências críticas inter-estágio)
 
+### Textual (ASCII)
+
 ```
 01-01 ─┬─► 01-02 ─┬─► 01-04 ─► 01-05
        │          │           ▲
@@ -123,6 +129,34 @@
 
 03-07 ─► 04-07 ─► 05-04 ─► 05-05
 ```
+
+### Visuell (Mermaid)
+
+```mermaid
+flowchart LR
+    classDef stage1 fill:#e8f3ff,stroke:#0a4d8c,color:#0a2540
+    classDef stage2 fill:#fff4e6,stroke:#a04a00,color:#3a1a00
+    classDef stage3 fill:#f0f8e6,stroke:#3a6b00,color:#1a2a00
+    classDef stage4 fill:#fff0f5,stroke:#7a0050,color:#2a001a
+    classDef stage5 fill:#f5f0ff,stroke:#3a0a8c,color:#1a0040
+    classDef capstone fill:#fffacd,stroke:#806000,color:#332400,stroke-width:3px
+
+    S1["Stage 1<br/>FUNDAMENTE"]:::stage1
+    S2["Stage 2<br/>STRUKTUR"]:::stage2
+    S3["Stage 3<br/>STIL"]:::stage3
+    S4["Stage 4<br/>SYSTEM"]:::stage4
+    S5["Stage 5<br/>MEISTERSCHAFT"]:::stage5
+
+    C1[["CAPSTONE-1<br/>Glossar v0"]]:::capstone
+    C2[["CAPSTONE-2<br/>Aufsatz 1500 W"]]:::capstone
+    C3[["CAPSTONE-3<br/>Aufsatz 5000 W"]]:::capstone
+    C4[["CAPSTONE-4<br/>Begriffsanalyse"]]:::capstone
+    C5[["CAPSTONE-5<br/>Veröffentlichung"]]:::capstone
+
+    S1 --> C1 --> S2 --> C2 --> S3 --> C3 --> S4 --> C4 --> S5 --> C5
+```
+
+DAGs detalhados por Stage (com setas tracejadas para prereqs cross-Stage) + caminhos críticos cross-Stage (Sintaxe → Generative → Hermenêutica; Lexik → Register → Diskursanalyse; etc.) em [DAG.md](DAG.md). Cada Stage README também tem versão Mermaid local.
 
 ---
 

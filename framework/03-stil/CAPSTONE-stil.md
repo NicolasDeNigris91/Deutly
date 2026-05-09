@@ -12,6 +12,8 @@ status: locked
 
 > Terceiro stage do produto encadeado do FATHOM-Deutsch. Integra os 9 módulos do Stage 3 num **wissenschaftlicher Aufsatz de 5000 palavras** sobre o *Begriff* escolhido em CAPSTONE-1, com 10-15 Primärquellen + Literaturverzeichnis.
 
+> 📋 **Template completo** com estrutura seção-a-seção (Abstract → Einleitung → Forschungsstand → Methode → Hauptteil → Diskussion → Schluss → Literaturverzeichnis), exigências stilísticas Wissenschaftsdeutsch hoch, Korrekturschleife em 3+ rounds: [AUFSATZ-5000W-TEMPLATE](../00-meta/templates/AUFSATZ-5000W-TEMPLATE.md).
+
 ---
 
 ## 1. Continuidade com Capstone-1 e -2

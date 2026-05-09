@@ -53,6 +53,8 @@ quiz:
 
 # 05-05, Public Output — Vortrag, Artikel, Podcast
 
+> 📋 **Template para Vortrag-Outline** (30 min, ~3900 W skript, com sprechrhythmus + pausierung + akzentsetzung markiert): [VORTRAG-TEMPLATE](../00-meta/templates/VORTRAG-TEMPLATE.md). Use para preparar Vortrag estruturado; cubra também Artikel-Submissão e Podcast-Format conforme §2.
+
 ## 1. Sprachliches Problem
 
 Public Output = **publicar / apresentar / podcast** em DE para audiência pública. Em Stage 5, aluno passa de **escritor competente** (Stages 1-4) para **autor public** com Stimme identificável (cf. 05-04). Capstone-5 culmina em **Veröffentlichung em revista DE/AT/CH**.

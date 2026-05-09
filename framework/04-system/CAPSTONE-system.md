@@ -12,6 +12,8 @@ status: locked
 
 > Quarto stage do produto encadeado do FATHOM-Deutsch. Integra os 10 módulos do Stage 4 numa **korpusbasierte Begriffsanalyse + filologische Kritik** (~30 páginas) do *Begriff* escolhido em CAPSTONE-1.
 
+> 📋 **Template completo** com estrutura metodológica (diachrone + synchrone + hermeneutische Trias), Korpus-Auswahl, Beleg-Sammlung-Format, Diagramme (Frequenzverlauf), Kollokationstabellen, Methodenkritik: [BEGRIFFSANALYSE-TEMPLATE](../00-meta/templates/BEGRIFFSANALYSE-TEMPLATE.md).
+
 ---
 
 ## 1. Continuidade com Capstones anteriores

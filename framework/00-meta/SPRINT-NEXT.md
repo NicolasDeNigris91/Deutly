@@ -45,7 +45,7 @@ Tipos:
 
 **Estimativa:** 8-12 horas para compilar + revisar.
 
-**Status:** Backlog.
+**Status:** Done (v1.1, 2026-05-09). Implementado em [`framework/00-meta/anhaenge/ANHANG-A-ABLAUTREIHEN.md`](anhaenge/ANHANG-A-ABLAUTREIHEN.md). ~166 verbos por Reihe + gemischt + Modalverben + irregulär + suppletiv. Cada um com Inf./Prät.3.Sg./Part.II/Hilfsverb/Beleg.
 
 ---
 
@@ -57,7 +57,7 @@ Tipos:
 
 **Estimativa:** 4-6 horas.
 
-**Status:** Backlog.
+**Status:** Done (v1.1, 2026-05-09). Implementado em [`framework/00-meta/anhaenge/ANHANG-B-MODALVERBEN.md`](anhaenge/ANHANG-B-MODALVERBEN.md). 6 Modalverben × 6 pessoas × 8 Tempora/Modi + Modal+Perfekt-Inf. + Modal+Passiv + paradigma `möchten` + Modal-Skala epistêmica + Pseudo-Modal `brauchen`.
 
 ---
 
@@ -191,7 +191,12 @@ Total: ~8000 cards organizados por Stage / módulo / domínio.
 
 **Estimativa:** 10-15 horas.
 
-**Status:** Backlog.
+**Status:** Done (v1.1, 2026-05-09). Implementado em `framework/00-meta/templates/`:
+- [TAGEBUCH-TEMPLATE](templates/TAGEBUCH-TEMPLATE.md) — 4 Strukturvarianten + Niveau-Modi M1-M4 + Korrekturschleife.
+- [AUFSATZ-1500W-TEMPLATE](templates/AUFSATZ-1500W-TEMPLATE.md) — CAPSTONE-2.
+- [AUFSATZ-5000W-TEMPLATE](templates/AUFSATZ-5000W-TEMPLATE.md) — CAPSTONE-3.
+- [VORTRAG-TEMPLATE](templates/VORTRAG-TEMPLATE.md) — Modul 05-05 (30 min com sprechrhythmus markiert).
+- [BEGRIFFSANALYSE-TEMPLATE](templates/BEGRIFFSANALYSE-TEMPLATE.md) — CAPSTONE-4 (Korpus-basiert).
 
 ---
 
@@ -203,7 +208,10 @@ Total: ~8000 cards organizados por Stage / módulo / domínio.
 
 **Estimativa:** 5-8 horas.
 
-**Status:** Backlog.
+**Status:** Done (v1.1, 2026-05-09). Implementado:
+- Master DAG visual em [`framework/00-meta/DAG.md`](DAG.md) — global cross-Stage + 5 Stage-DAGs detalhados + 4 caminhos críticos cross-Stage (Sintaxe→Generative→Hermenêutica; Lexik→Register→Diskursanalyse; Schreiben→Stilbildung→Output; Diakronie→Korpus→Begriffsgeschichte).
+- INDEX.md atualizado com Mermaid global cross-Stage.
+- 5 Stage READMEs com Mermaid local (paralelo ao ASCII existente).
 
 ---
 
@@ -332,10 +340,16 @@ Cada track ~5-7 módulos + Capstone-6.
 ## Cadência de releases prevista
 
 ```
-v1.0 — 2026-05-08 — Initial Public Release           [feito]
-v1.1 — ~2026-12 — Anexos expansivos + correções       [planejado]
-v1.5 — ~2027-12 — Tradução DE + decks pré-construídos [planejado]
-v2.0 — ~2028-12 — Comunidade + exemplares + Stage 6   [planejado]
+v1.0 — 2026-05-08 — Initial Public Release             [feito]
+v1.1 — 2026-05-09 — Anexos canônicos + DAG visual +    [feito]
+                    output templates
+v1.2 — ~2026-09  — SN-003 (FVG 200+) + SN-004           [planejado]
+                   (Stilfiguren-Beispiele) + SN-005-006
+                   (auditoria + edits)
+v1.5 — ~2027-12  — Tradução DE + Anki decks +           [planejado]
+                   peer-review
+v2.0 — ~2028-12  — Comunidade + exemplares +            [planejado]
+                   Stage 6
 ```
 
 Cadência mais lenta que software comum — framework educacional muda devagar; estabilidade é virtude.

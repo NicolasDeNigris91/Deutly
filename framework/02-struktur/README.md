@@ -31,6 +31,8 @@ Aqui você passa de "constrói frases simples sem erro" para "constrói período
 
 ## DAG do Stage 2
 
+### Textual (ASCII)
+
 ```
 01-01 ─┐
 01-03 ─┴─► 02-01 (Subordination) ─┬─► 02-02 (Konjunktiv I)
@@ -49,6 +51,46 @@ Aqui você passa de "constrói frases simples sem erro" para "constrói período
                                   
 Tudo ─────────────────────────────────► CAPSTONE-2 (Aufsatz 1500 W)
 ```
+
+### Visuell (Mermaid)
+
+```mermaid
+flowchart LR
+    classDef base fill:#fff4e6,stroke:#a04a00,color:#3a1a00
+    classDef cross fill:#e8f3ff,stroke:#0a4d8c,color:#0a2540,stroke-dasharray: 4 2
+    classDef capstone fill:#fffacd,stroke:#806000,color:#332400,stroke-width:3px
+
+    S1_0101["01-01"]:::cross
+    S1_0103["01-03"]:::cross
+    S1_0109["01-09"]:::cross
+
+    M0201["02-01 Subordination"]:::base
+    M0202["02-02 Konjunktiv I"]:::base
+    M0203["02-03 Konjunktiv II"]:::base
+    M0204["02-04 Passivkonstruktionen"]:::base
+    M0205["02-05 Infinitivsätze"]:::base
+    M0206["02-06 Funktionsverbgefüge"]:::base
+    M0207["02-07 Modalverben"]:::base
+    M0208["02-08 Topik-Fokus"]:::base
+    M0209["02-09 Lexik II"]:::base
+    C2[["CAPSTONE-2 Aufsatz 1500 W"]]:::capstone
+
+    S1_0101 -.-> M0201
+    S1_0103 -.-> M0201
+    S1_0103 -.-> M0204
+    S1_0103 -.-> M0207
+    S1_0101 -.-> M0208
+    S1_0109 -.-> M0209
+
+    M0201 --> M0202
+    M0201 --> M0203
+    M0201 --> M0205
+    M0204 --> M0206
+
+    M0201 & M0202 & M0203 & M0204 & M0205 & M0206 & M0207 & M0208 & M0209 --> C2
+```
+
+(Setas tracejadas = pré-requisito cross-Stage. Mapa completo: [DAG.md](../00-meta/DAG.md).)
 
 ---
 

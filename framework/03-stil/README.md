@@ -31,6 +31,8 @@ Aqui você emerge como **falante adulto educado**: leitor de FAZ-Feuilleton, ouv
 
 ## DAG do Stage 3
 
+### Textual (ASCII)
+
 ```
 02-06 ─► 03-01 (Nominal vs. verbal) ──┬─► 03-06 (Stilfiguren)
                                       │
@@ -47,6 +49,45 @@ Aqui você emerge como **falante adulto educado**: leitor de FAZ-Feuilleton, ouv
 Tudo ──────────────────────────────────► CAPSTONE-3
                                          (Aufsatz 5000 W)
 ```
+
+### Visuell (Mermaid)
+
+```mermaid
+flowchart LR
+    classDef base fill:#f0f8e6,stroke:#3a6b00,color:#1a2a00
+    classDef cross fill:#fff4e6,stroke:#a04a00,color:#3a1a00,stroke-dasharray: 4 2
+    classDef capstone fill:#fffacd,stroke:#806000,color:#332400,stroke-width:3px
+
+    S2_0206["02-06"]:::cross
+    S2_0207["02-07"]:::cross
+    S2_0209["02-09"]:::cross
+
+    M0301["03-01 Nominal vs. verbal"]:::base
+    M0302["03-02 Register"]:::base
+    M0303["03-03 Idiomatik"]:::base
+    M0304["03-04 Pragmatik"]:::base
+    M0305["03-05 Modalpartikeln"]:::base
+    M0306["03-06 Stilfiguren"]:::base
+    M0307["03-07 Wissenschaftl. Schreiben"]:::base
+    M0308["03-08 Journalistischer Stil"]:::base
+    M0309["03-09 Lexik III"]:::base
+    C3[["CAPSTONE-3 Aufsatz 5000 W"]]:::capstone
+
+    S2_0206 -.-> M0301
+    S2_0209 -.-> M0302
+    S2_0209 -.-> M0303
+    S2_0209 -.-> M0309
+    S2_0207 -.-> M0304
+    S2_0207 -.-> M0305
+
+    M0301 --> M0306
+    M0301 --> M0307
+    M0302 --> M0308
+
+    M0301 & M0302 & M0303 & M0304 & M0305 & M0306 & M0307 & M0308 & M0309 --> C3
+```
+
+(Setas tracejadas = pré-requisito cross-Stage. Mapa completo: [DAG.md](../00-meta/DAG.md).)
 
 ---
 

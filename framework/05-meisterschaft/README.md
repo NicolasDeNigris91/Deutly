@@ -29,6 +29,8 @@ Aqui não se aprende mais sintaxe ou léxico. Aqui se **constrói voz autoral id
 
 ## DAG do Stage 5
 
+### Textual (ASCII)
+
 ```
 04-06 ─► 05-01 (Politische Sprache)
 
@@ -45,6 +47,44 @@ Tudo ──► 05-07 (Goethe C2 / TestDaF, opcional)
 
 Tudo ──► CAPSTONE-5 (Veröffentlichung)
 ```
+
+### Visuell (Mermaid)
+
+```mermaid
+flowchart LR
+    classDef base fill:#f5f0ff,stroke:#3a0a8c,color:#1a0040
+    classDef cross fill:#fff0f5,stroke:#7a0050,color:#2a001a,stroke-dasharray: 4 2
+    classDef cross3 fill:#f0f8e6,stroke:#3a6b00,color:#1a2a00,stroke-dasharray: 4 2
+    classDef parallel fill:#fafafa,stroke:#888888,color:#333333,stroke-dasharray: 5 3
+    classDef capstone fill:#fffacd,stroke:#806000,color:#332400,stroke-width:3px
+
+    S3_0307["03-07"]:::cross3
+    S3_0308["03-08"]:::cross3
+    S4_0406["04-06"]:::cross
+    S4_0409["04-09"]:::cross
+    S4_0410["04-10"]:::cross
+
+    M0501["05-01 Politische Sprache"]:::base
+    M0502["05-02 Wissenschaftssprache"]:::base
+    M0503["05-03 Übersetzungstheorie"]:::base
+    M0504["05-04 Eigene Stimme"]:::base
+    M0505["05-05 Public Output"]:::base
+    M0506["05-06 Mentoring"]:::parallel
+    M0507["05-07 Goethe C2 (opt.)"]:::parallel
+    C5[["CAPSTONE-5 Veröffentlichung"]]:::capstone
+
+    S4_0406 -.-> M0501
+    S4_0410 -.-> M0502
+    S4_0409 -.-> M0503
+    S3_0307 -.-> M0504
+    S3_0308 -.-> M0504
+
+    M0504 --> M0505
+
+    M0501 & M0502 & M0503 & M0504 & M0505 & M0506 --> C5
+```
+
+(Caixa pontilhada = paralelo / opcional. Setas tracejadas = pré-requisito cross-Stage. Mapa completo: [DAG.md](../00-meta/DAG.md).)
 
 ---
 

@@ -274,6 +274,42 @@ Active.
 
 ---
 
+## DL-2026-05-09-009 — Anexos canônicos + Templates como diretórios separados
+
+### Contexto
+
+Em v1.1, ao implementar anexos exhaustivos (Ablautreihen, Modalverben) e templates de output (Tagebuch, Aufsätze, Vortrag, Begriffsanalyse), surgiu decisão de organização: integrar conteúdo em módulos existentes ou criar diretórios separados em `00-meta/`?
+
+### Alternativas consideradas
+
+1. **Integrar diretamente em módulos**: Ablautreihen em 01-03; Modalverben em 02-07; Templates em respectivos Capstones. Pros: leitura linear sem fragmentação. Contras: módulos ficariam massivos (>2000 linhas); referência consultável seria difícil de localizar; templates poderiam parecer prescritivos demais quando integrados ao corpo do Capstone.
+
+2. **Diretórios separados em `00-meta/anhaenge/` e `00-meta/templates/`** (escolhido). Pros: separação semântica clara — módulos pedagógicos vs. referências consultáveis vs. scaffolds opcionais; navegação independente; arquivos podem evoluir em cadência distinta; cross-references explícitas mantêm integração. Contras: leitor precisa seguir links.
+
+3. **Tudo num documento único** ("ANNEXES.md" + "TEMPLATES.md"): Pros: menos arquivos. Contras: arquivos ficariam massivos (>1500 linhas cada); diff em PRs seria difícil de revisar; não escalaria para v1.2 (FVG, Stilfiguren).
+
+### Decisão tomada
+
+Opção 2.
+
+### Justificativa
+
+- **Princípio de single-responsibility por arquivo**: pedagogia (módulos) vs. referência (anhaenge) vs. scaffold (templates) são funções distintas. Misturar tipos diferentes degrada legibilidade.
+- **Escalabilidade**: v1.2 trará SN-003 (FVG 200+) e SN-004 (Stilfiguren com exemplos), também naturalmente Anhänge. v2.0 pode trazer mais templates (Übersetzung, Glosse). Estrutura de diretório acomoda.
+- **Cross-reference explícita preserva integração**: cada módulo principal contém um marker (📚 ou 📋) que aponta ao Anhang/Template correspondente. Aluno encontra naturalmente.
+- **Audit + manutenção**: editor pode atualizar uma tabela em ANHANG-A sem tocar 01-03; isso reduz risco de regressão em módulo pedagógico.
+
+### Trade-offs aceitos
+
+- **Leitor precisa navegar entre arquivos** para usar Anhang/Template enquanto estuda módulo. → Mitigação: cross-reference no topo da seção do módulo + back-link no final do Anhang.
+- **Aumento de arquivos no `00-meta/`** de 16 para 17+ (DAG.md) + duas pastas com 7 arquivos. → Aceitável; INDEX.md atualizado para listar nova estrutura.
+
+### Status
+
+Active.
+
+---
+
 ## DL-template para entradas futuras
 
 ```markdown
