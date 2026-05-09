@@ -92,14 +92,14 @@
 
 | ID | Módulo | Konzeptuell | Praktisch | Verbindungen | Status |
 |----|--------|:---:|:---:|:---:|:------:|
-| 05-01 | Politische Sprache | ⬜ | ⬜ | ⬜ | LOCKED |
-| 05-02 | Wissenschaftssprache | ⬜ | ⬜ | ⬜ | LOCKED |
-| 05-03 | Übersetzungstheorie und -praxis | ⬜ | ⬜ | ⬜ | LOCKED |
-| 05-04 | Eigene Stimme — Stilbildung | ⬜ | ⬜ | ⬜ | LOCKED |
-| 05-05 | Public Output | ⬜ | ⬜ | ⬜ | LOCKED |
-| 05-06 | Mentoring von Lernenden | ⬜ | ⬜ | ⬜ | LOCKED |
-| 05-07 | Goethe C2 / TestDaF (opcional) | ⬜ | ⬜ | ⬜ | LOCKED |
-| **CAPSTONE-5** | Erkenntnisprojekt v4 (Veröffentlichung) | - | ⬜ | - | LOCKED |
+| 05-01 | Politische Sprache — Bundestagsdebatten, Parteiprogramme | ⬜ | ⬜ | ⬜ | LOCKED (prereq: 04-06) |
+| 05-02 | Wissenschaftssprache — Habermas, Luhmann, Adorno | ⬜ | ⬜ | ⬜ | LOCKED (prereq: 04-10) |
+| 05-03 | Übersetzungstheorie und -praxis | ⬜ | ⬜ | ⬜ | LOCKED (prereq: 04-09) |
+| 05-04 | Eigene Stimme — Stilbildung | ⬜ | ⬜ | ⬜ | LOCKED (prereqs: 03-07, 03-08) |
+| 05-05 | Public Output — Vortrag, Artikel, Podcast | ⬜ | ⬜ | ⬜ | LOCKED (prereq: 05-04) |
+| 05-06 | Mentoring von Lernenden | ⬜ | ⬜ | ⬜ | LOCKED (prereqs: todos os módulos) |
+| 05-07 | Goethe-Zertifikat C2 / TestDaF (opcional) | ⬜ | ⬜ | ⬜ | LOCKED (opcional, prereqs: todos) |
+| **CAPSTONE-5** | Erkenntnisprojekt v4 — Veröffentlichung em revista DE/AT/CH | - | ⬜ | - | LOCKED (prereqs: 05-01 a 05-06) |
 
 ---
 
