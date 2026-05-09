@@ -53,6 +53,8 @@ quiz:
 
 # 01-06, Wortbildung I — Komposition, Derivation, Konversion, Fugenelemente
 
+> 📚 **Sistematização exhaustiva** dos 3 Wortbildungs-Verfahren + catálogo de Suffixe derivacionais (com Genus + Wortart-Resultat + produtividade) + Strukturklassen-Komposita + Diagnostik-Pipeline em [ANHANG I — Wortbildung](../00-meta/anhaenge/ANHANG-I-WORTBILDUNG.md). Esta seção apresenta o sistema; o Anhang é referência consultável.
+
 ## 1. Sprachliches Problem
 
 Wortbildung é onde o alemão **expande infinitamente** seu léxico sem precisar de empréstimo. Falantes nativos formam Komposita ad hoc (`Donaudampfschiffahrtsgesellschaftskapitän, Schadenfreude-Empfänger, Kaffeemaschinenreparateur`) e o sistema os interpreta sem hesitação.

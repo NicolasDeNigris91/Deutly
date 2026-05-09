@@ -16,16 +16,17 @@
 | **F** | [ANHANG F — PT-DE Kontrastive](ANHANG-F-PT-DE-KONTRASTIVE.md) | ~30 fenômenos sistemáticos PT↔DE para PT-falantes | [04-09 Kontrastive Linguistik](../../04-system/04-09-kontrastive-linguistik.md) | (v1.2) |
 | **G** | [ANHANG G — FVG Canônica](ANHANG-G-FVG-CANONICA.md) | >250 Funktionsverbgefüge por Funktionsverb + Domäne | [02-06 FVG](../../02-struktur/02-06-funktionsverbgefuege.md) | SN-003 |
 | **H** | [ANHANG H — Stilfiguren-Beispiele](ANHANG-H-STILFIGUREN-BEISPIELE.md) | 20+ Stilfiguren com 3-5 exemplos canon Adorno/Heidegger/Mann/Bernhard | [03-06 Stilfiguren](../../03-stil/03-06-stilfiguren.md) | SN-004 |
+| **I** | [ANHANG I — Wortbildung](ANHANG-I-WORTBILDUNG.md) | 3 Verfahren (Komposition + Derivation + Konversion) + Suffix-Katalog produktiv | [01-06 Wortbildung](../../01-fundamente/01-06-wortbildung.md) | (v1.3) |
+| **J** | [ANHANG J — Phraseologismen](ANHANG-J-PHRASEOLOGISMEN.md) | ~450 Phraseologismen (Redewendungen, Sprichwörter, Geflügelte Worte, Kollokationen) | [03-03 Idiomatik](../../03-stil/03-03-idiomatik.md) | (v1.3) |
 
 ---
 
 ## Backlog futuro
 
-Os seguintes anexos estão previstos em SPRINT-NEXT.md mas ainda não implementados:
+Os seguintes anexos estão previstos em SPRINT-NEXT.md mas ainda não implementados (todos do diretório `anhaenge/` resolvidos em v1.3):
 
-- **ANHANG I — BEGRIFFS-GLOSSAR cumulativo** (SN-007) — 100+ Begriffe filológicos+filosóficos cross-Stage com aparato Pfeifer + Mittelstraß. Previsto v1.3.
-- **ANHANG J — Wortbildung-Patterns** — sistematização de Komposita- + Derivações-padrões. Previsto v1.3.
-- **ANHANG K — Phraseologismen kanonisch** — ~500 Phraseologismen + Redewendungen com Kontext. Previsto v1.3.
+- **Audio-Spuren** ergänzen ANHANG H mit gravierten Beispielen (v2.0+, depende de Kooperação com Vortragsarchiv).
+- **Glossar zu Wortfeld-Mapping** específico por Begriff (v2.0+, opcional).
 
 ---
 

@@ -125,7 +125,7 @@ Tipos:
 
 **Estimativa:** 30-50 horas.
 
-**Status:** Backlog.
+**Status:** Done (v1.3, 2026-05-09). Implementado em [`framework/00-meta/BEGRIFFS-GLOSSAR.md`](BEGRIFFS-GLOSSAR.md). 111 entries em 11 grupos: A. Filosóficos centrais (21), B. Existenzial-ontológicos Heidegger (10), C. Hegel/Dialektik (7), D. Política/Sociedade (14), E. Ética/Moralidade (9), F. Estética (6), G. Sprache/Text/Sinn (12), H. Wissenschaftstheorie (8), I. Religião/Teologia (4), J. Modernidade/Sociedade (14), K. Begriffe transversais (6). Cada entry: definição + etymon Pfeifer-Stil + tradição central + sub-tradições + Quellen primárias. Cross-references internas via `→`.
 
 ---
 
@@ -343,17 +343,20 @@ Cada track ~5-7 módulos + Capstone-6.
 v1.0 — 2026-05-08 — Initial Public Release                  [feito]
 v1.1 — 2026-05-09 — Anexos A,B + DAG visual + 5 templates   [feito]
 v1.2 — 2026-05-09 — Anexos C,D,E,F + FVG (G) + Stilfig.(H)  [feito]
-                    + governance (CODE_OF_CONDUCT, .github,
-                    GitHub Actions, README-EN) + auditoria
-                    pragmática + Capstone-1 exemplar
-                    (Aufklärung, 30 entries reais)
-v1.3 — ~2026-09  — Auditoria sistemática completa +         [planejado]
-                    SN-007 (BEGRIFFS-GLOSSAR cumulativo) +
-                    Anexos opcionais (Wortbildung, Phraseol.)
-v1.5 — ~2027-12  — Tradução DE + Anki decks +               [planejado]
-                    peer-review
-v2.0 — ~2028-12  — Comunidade + Capstones-2/3/4/5 +         [planejado]
-                    Stage 6
+                    + governance + auditoria pragmática
+                    + CAPSTONE-1 exemplar
+v1.3 — 2026-05-09 — BEGRIFFS-GLOSSAR (111 entries) +        [feito]
+                    Anexo I Wortbildung + Anexo J 
+                    Phraseologismen (~450) + AUDIO-VIDEO-
+                    CANON + CAPSTONE-2 exemplar
+                    (Aufsatz 1500W Aufklärung)
+v1.4 — ~2026-09  — Auditoria sistemática completa +         [planejado]
+                    self-test banks + GLOSSE-/ÜBERSETZUNG-
+                    /VEROEFFENTLICHUNG-Templates
+v1.5 — ~2027-12  — Tradução DE-original + Anki decks        [planejado]
+                    pré-construídos + peer-review
+v2.0 — ~2028-12  — Comunidade + CAPSTONE-3/4/5 exemplares   [planejado]
+                    + Stage 6 specialization
 ```
 
 Cadência mais lenta que software comum — framework educacional muda devagar; estabilidade é virtude.

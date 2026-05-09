@@ -53,6 +53,8 @@ quiz:
 
 # 03-03, Idiomatik und Phraseologie — Kollokationen, Redewendungen, Sprichwörter
 
+> 📚 **~450 Phraseologismen** organizados em 6 grupos (Redewendungen alltagssprachlich + Idiomatik gehoben + Sprichwörter + Geflügelte Worte canon-DE + Routineformeln + Kollokationen lexikalisch fixiert) em [ANHANG J — Phraseologismen kanonisch](../00-meta/anhaenge/ANHANG-J-PHRASEOLOGISMEN.md). Esta seção apresenta a klasse; o Anhang é referência exhaustiva consultável.
+
 ## 1. Sprachliches Problem
 
 Phraseologismen são **a fronteira C1+** do alemão. Você pode ter sintaxe perfeita, vocabulário operacional, registro adequado — e ainda assim soar estrangeiro porque **escolhe combinações inexistentes** (`*spitzer Protest` em vez de `scharfer Protest`) ou **não reconhece Idiom** (lê `ins Gras beißen` como descrição botânica em vez de metáfora de morte).

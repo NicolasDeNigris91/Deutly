@@ -4,6 +4,68 @@
 
 ---
 
+## v1.3 — 2026-05-09 — Maestria total profunda: BEGRIFFS-GLOSSAR + Wortbildung + Phraseologismen + AUDIO-CANON + CAPSTONE-2 exemplar
+
+### Adicionado
+
+#### Glossário filosófico-filológico cumulativo
+
+- **BEGRIFFS-GLOSSAR.md** (`framework/00-meta/`): 111 entries em 11 grupos cobrindo Begriffe filosóficos + filológicos centrais que atravessam Stages 3-5. Cada entry: definição operacional + etymon Pfeifer-Stil + tradição central + sub-tradições + Quellen primárias. Cross-references via `→`. **Resolve SN-007.**
+
+#### Anhänge novos
+
+- **ANHANG I — Wortbildung** (`framework/00-meta/anhaenge/`): 3 Verfahren (Komposition, Derivation, Konversion) + 4 Strukturklassen-Komposita (Determinativ, Kopulativ, Possessiv, Verbal) + Fugenelemente + catálogo de ~25 Suffixe derivacionais com Genus + Wortart-Resultat + produtividade + Diagnostik-Pipeline para Komposita-Dekomposition.
+- **ANHANG J — Phraseologismen kanonisch**: ~450 Phraseologismen em 6 grupos: Redewendungen alltagssprachlich (~120), Idiomatik gehoben/literarisch (~80), Sprichwörter (~70), Geflügelte Worte aus DE-Klassik (~60, von Goethe/Schiller/Heine/Kant/Hegel/Nietzsche/Brecht/Marx/Adorno), Routineformeln pragmatisch (~40), Kollokationen lexikalisch fixiert (~80). Strategie de Aquisição por Stage.
+
+#### Audio + Video Canon
+
+- **AUDIO-VIDEO-CANON.md** (`framework/00-meta/`): Liste kanonischer Hörstoffe für Shadowing — Tagesschau, Deutschlandfunk-Sendungen, Adorno/Habermas/Sloterdijk-Vorträge auf YouTube, Universitäts-Mediatheken, Podcasts (Lage der Nation, Soziopod, Das Philosophische Radio), Hörbücher (Librivox + kommerziell), Filmographie (Fassbinder/Herzog/Wenders), Strukturierte Shadowing-Übung pro Stage.
+
+#### Worked example novo
+
+- **CAPSTONE-2-AUFKLAERUNG-EXEMPLAR.md** (`framework/00-meta/examples/`): Aufsatz argumentativ ~1500W sobre *Aufklärung* (continuação Glossar v0 do CAPSTONE-1 exemplar). Demonstra Konj. I (6+ instâncias) + Konj. II (4+) + FVG (5+) + Passiv (3+) + Modalverben epistemisch + Konnektoren acadêmicos. 5 Primärquellen + 4 Sekundärquellen com Akademie-Ausgabe-Belegung. Strukturanalyse + Korrekturschleife dokumentada (v1→v3) + Bewertung gemäß RUBRIC.md §3.
+
+#### Cross-references novas
+
+- 01-06 Wortbildung → ANHANG I.
+- 03-03 Idiomatik → ANHANG J.
+- CAPSTONE-2 → CAPSTONE-2 Exemplar.
+- INDEX.md → BEGRIFFS-GLOSSAR + AUDIO-VIDEO-CANON + ANHANG I/J + CAPSTONE-2 Exemplar.
+- anhaenge/README atualizado com 10 entries (A-J).
+- examples/README atualizado com 2 worked examples.
+
+### Resolvido (SN-Items)
+
+| SN | Prio | Tipo | Título | Status |
+|---|---|---|---|---|
+| SN-007 | P1 | expansão | BEGRIFFS-GLOSSAR cumulativo | Done |
+| SN-014 | P3 | expansão | Capstones exemplares | Partial (CAPSTONE-1 + CAPSTONE-2 done; -3/-4/-5 v2.0+) |
+
+### Estatísticas v1.3
+
+```
+Arquivos novos:                                 5
+  BEGRIFFS-GLOSSAR.md                            1 (111 entries)
+  ANHANG-I-WORTBILDUNG.md                        1
+  ANHANG-J-PHRASEOLOGISMEN.md                    1 (~450 Phraseologismen)
+  AUDIO-VIDEO-CANON.md                           1
+  CAPSTONE-2-AUFKLAERUNG-EXEMPLAR.md             1
+
+Arquivos modificados:                           ~7
+  Wiring novos:                                  3 modulos (01-06, 03-03, CAPSTONE-2)
+  Catalog updates:                               2 READMEs (anhaenge, examples)
+  Meta-docs:                                     ~4 (INDEX, SPRINT-NEXT, CHANGELOG, RELEASE-NOTES)
+
+Conteúdo:
+  Begriffe catalogados:                          111
+  Phraseologismen:                               ~450
+  Wortbildungs-Patterns sistematizados:          ~50 (3 Verfahren + 25 Suffixe + 4 Klassen + Fugenelemente)
+  Audio/Video-Quellen kanon:                     ~30 entries com URLs
+  Capstone exemplares cumulativo:                2 (CAPSTONE-1 + CAPSTONE-2 sobre Aufklärung)
+```
+
+---
+
 ## v1.2 — 2026-05-09 — Maestria total: 6 novos Anhänge + governance + Capstone exemplar
 
 ### Adicionado

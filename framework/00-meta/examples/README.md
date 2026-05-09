@@ -17,12 +17,12 @@ Aluno em Stage 1 frequentemente **não sabe** o que CAPSTONE-1 produz concretame
 | Capstone | Exemplar | Begriff | Status |
 |---|---|---|---|
 | **CAPSTONE-1** | [CAPSTONE-1-AUFKLAERUNG-EXEMPLAR](CAPSTONE-1-AUFKLAERUNG-EXEMPLAR.md) | *Aufklärung* | Done (v1.2) |
-| CAPSTONE-2 | (planejado v1.5+) | TBD | Backlog |
+| **CAPSTONE-2** | [CAPSTONE-2-AUFKLAERUNG-EXEMPLAR](CAPSTONE-2-AUFKLAERUNG-EXEMPLAR.md) | *Aufklärung* | Done (v1.3) |
 | CAPSTONE-3 | (planejado v2.0) | TBD | Backlog |
 | CAPSTONE-4 | (planejado v2.0) | TBD | Backlog |
 | CAPSTONE-5 | (planejado v2.0+) | TBD | Backlog |
 
-(Capstones-2 a -5 são massivos de produzir — 1500W, 5000W, ~30pp + Veröffentlichung. Cadência lenta esperada.)
+(Capstones-3/-4/-5 são massivos de produzir — 5000W, ~30pp + Veröffentlichung. Cadência lenta esperada — cada um ~30-100h de elaboração + iteração.)
 
 ---
 

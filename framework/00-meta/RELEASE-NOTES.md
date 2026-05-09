@@ -4,6 +4,132 @@
 
 ---
 
+## v1.3 — Maestria total profunda (2026-05-09)
+
+### Eixos da release
+
+Eleva v1.2 (maestria total estrutural) para v1.3 (**maestria total profunda**: cobertura referencial completa + audio/video integration + Capstone-2 exemplar + Begriffs-Glossar transversal).
+
+Resolve **SN-007** (BEGRIFFS-GLOSSAR — gap mais decisivo restante após v1.2) + adiciona **ANHANG I (Wortbildung)** + **ANHANG J (Phraseologismen ~450)** + **AUDIO-VIDEO-CANON** + **CAPSTONE-2 exemplar** sobre Aufklärung como progressão natural de v0→v1.
+
+### Conteúdo novo
+
+#### BEGRIFFS-GLOSSAR (111 entries cross-Stage)
+
+Glossário filosófico-filológico transversal cobrindo o vocabulário operacional total que aprendiz Stages 3-5 encontra em Adorno, Heidegger, Habermas, Mann, Bernhard, Hegel, Kant, Nietzsche, Foucault, Luhmann.
+
+11 grupos:
+- **A. Filosóficos centrais (21)**: Aufklärung, Bildung, Geist, Wahrheit, Macht, Sein, Sprache + Vernunft, Verstand, Erkenntnis, Erfahrung, Bewusstsein, Selbstbewusstsein, Subjekt, Welt, Natur, Kultur, Zivilisation, Geschichte, Zeit, Raum.
+- **B. Existenzial-ontológicos Heidegger (10)**: Dasein, Existenz, Eigentlichkeit, Uneigentlichkeit, Geworfenheit, Sorge, Angst, Tod, Mitsein, In-der-Welt-Sein.
+- **C. Hegel/Dialektik (7)**: Dialektik, Aufhebung, Setzung, Negation, Bestimmtheit, Allgemeinheit, Substanz.
+- **D. Política/Sociedade (14)**: Öffentlichkeit, Privatheit, Bürger, Staat, Gesellschaft, Recht, Gerechtigkeit, Freiheit, Gleichheit, Demokratie, Volk, Nation, Souveränität, Hegemonie.
+- **E. Ética/Moralidade (9)**: Ethik, Moral, Sittlichkeit, Pflicht, Tugend, Würde, Verantwortung, Schuld, Gewissen.
+- **F. Estética (6)**: Schönheit, Erhabenheit, Kunst, Werk, Genie, Geschmack.
+- **G. Sprache/Text/Sinn (12)**: Bedeutung, Sinn, Begriff, Zeichen, Symbol, Diskurs, Text, Schrift, Hermeneutik, Verstehen, Auslegung, Tradition.
+- **H. Wissenschaftstheorie (8)**: Wissenschaft, Methode, Theorie, Empirie, Hypothese, Verifikation/Falsifikation, Paradigma, Letztbegründung.
+- **I. Religião/Teologia (4)**: Glaube, Offenbarung, Säkularisierung, Heilige.
+- **J. Modernidade/Sociedade (14)**: Moderne, Postmoderne, Kapitalismus, Klassenkampf, Entfremdung, Kommunikation, Kommunikatives Handeln, Lebenswelt, System, Differenzierung, Verdinglichung, Anerkennung, Identität, Rationalisierung.
+- **K. Transversais (6)**: Mündigkeit, Selbst, Wille, Geburt, Endlichkeit, Begegnung.
+
+Cada entry: definição operacional + etymon Pfeifer-Stil + tradição central + sub-tradições + Quellen primárias com Akademie-Ausgabe.
+
+#### ANHANG I — Wortbildung-Patterns
+
+Sistematização dos 3 Wortbildungs-Verfahren (Komposition, Derivation, Konversion) + 4 Strukturklassen-Komposita (Determinativ produktiv + Kopulativ + Possessiv/Bahuvrihi + Verbal) + Fugenelemente + catálogo de ~25 Suffixe derivacionais com Genus + Wortart-Resultat + produtividade + Diagnostik-Pipeline para Komposita-Dekomposition (Adorno-Heidegger-juristisch).
+
+#### ANHANG J — Phraseologismen kanonisch
+
+~450 Phraseologismen em 6 grupos:
+- Redewendungen alltagssprachlich (~120) com Stilstufe-Markierung.
+- Idiomatik gehoben/literarisch (~80) — clássicos + christlich + existencial.
+- Sprichwörter (~70) zentral + regional.
+- Geflügelte Worte canon-DE (~60) de Goethe / Schiller / Heine / Kant / Hegel / Nietzsche / Brecht / Marx / Adorno.
+- Routineformeln pragmatisch (~40) — Begrüßung, Höflichkeit, Briefe, akademische Übergänge.
+- Kollokationen lexikalisch fixiert (~80) — Subst.+Adj., Verb+Adv., Subst.+Verb, Präp.+Subst.
+
+Strategie de Aquisição por Stage (Stage 1-2 ~50; Stage 3 ~150-200; Stage 4-5 ~300-400 cumulativo).
+
+#### AUDIO + VIDEO CANON
+
+Liste kanonischer Hörstoffe para Shadowing-Praxis:
+- Tagesschau / Tagesthemen (Standard-Hochdeutsch).
+- Deutschlandfunk / Dlf Kultur (Akademie-Hörfunk: Sein und Streit, Essay und Diskurs, Lange Nacht, Aus Kultur und Sozialwissenschaften).
+- Klassische Vorträge: Adorno *Erziehung nach Auschwitz* (1966), Habermas *Friedenspreisrede* (2001), Sloterdijk *Regeln für den Menschenpark* (1999), Sennett-Vorträge.
+- Universitäts-Vorlesungen (Frankfurt, Dresden, Heidelberg, LMU, etc.).
+- Podcasts (Lage der Nation, Soziopod, Hotel Matze, Das Philosophische Radio).
+- Hörbücher (Librivox + kommerziell — Goethe, Schiller, Mann, Bernhard).
+- Filmographie kanonisch (Fassbinder, Herzog, Wenders, Petzold, Akin).
+
+Strukturierte Shadowing-Übung pro Stage (Stage 1: ~10 min/Tag; Stage 5: ~60 min/Tag).
+
+#### CAPSTONE-2 Exemplar
+
+Aufsatz argumentativ ~1500W sobre *Aufklärung* — continuação do Glossar v0 do CAPSTONE-1 Exemplar.
+
+Tese: *"Kants Definition der Aufklärung als Ausgang aus selbstverschuldeter Unmündigkeit bleibt operational, sofern Unmündigkeit nicht individuell, sondern strukturell aufgefasst wird."*
+
+Estrutura: Einleitung (210W) → These (100W) → Argumentation I (390W) → Argumentation II (330W) → Gegenargument Adorno (290W) → Schluss (180W) + Literaturverzeichnis com 5 Primär + 4 Sekundär.
+
+Stilistische Merkmale demonstrierte: Konj. I (6+) + Konj. II (4+) + FVG (5+) + Passiv (3+) + Modalverben epistemisch + Konnektoren acadêmicos (12+). Wörtliche Zitate (5+) com Akademie-Ausgabe. Korrekturschleife dokumentada (v1→v3). Bewertung: ~91%.
+
+### Estatísticas v1.3
+
+```
+Arquivos novos:                                  5
+  BEGRIFFS-GLOSSAR.md                             1 (111 entries)
+  ANHANG-I-WORTBILDUNG.md                         1
+  ANHANG-J-PHRASEOLOGISMEN.md                     1 (~450 Phraseologismen)
+  AUDIO-VIDEO-CANON.md                            1
+  CAPSTONE-2-AUFKLAERUNG-EXEMPLAR.md              1
+
+Arquivos modificados:                           ~7
+  Wiring:                                        3 modulos (01-06, 03-03, CAPSTONE-2)
+  Catalog updates:                               2 READMEs (anhaenge/, examples/)
+  Meta-docs:                                     4 (INDEX, SPRINT-NEXT, CHANGELOG, RELEASE-NOTES)
+
+Conteúdo cumulativo (v1.0 → v1.3):
+  Anhänge:                                       10 (A-J)
+  Begriffe catalogados em BEGRIFFS-GLOSSAR:      111
+  Phraseologismen catalogados:                    ~450
+  Wortbildungs-Patterns:                          ~50
+  Audio/Video-Quellen:                            ~30 com URLs
+  Capstone exemplares:                            2 (CAPSTONE-1 + CAPSTONE-2)
+  Templates output:                               5
+  Mermaid-Diagramme:                              12
+  Cross-references válidos:                       55+ (verificados em v1.2)
+  PT-DE Kontrastive fenômenos:                    ~30
+  FVG catalogadas:                                >250
+  Stilfiguren com exemplos:                       ~60
+```
+
+### Resolvido (SN-Items)
+
+| SN | Prio | Tipo | Título | Status |
+|---|---|---|---|---|
+| SN-007 | P1 | expansão | BEGRIFFS-GLOSSAR cumulativo | Done |
+| SN-014 | P3 | expansão | Capstones exemplares | Partial (CAPSTONE-1 + CAPSTONE-2 done) |
+
+### Próximas releases
+
+- **v1.4 (~2026-09)**: SN-005-006 sistemáticos + self-test banks + 3 templates novos (Glosse, Übersetzung, Veröffentlichung).
+- **v1.5 (~2027-12)**: SN-008 (tradução DE-original) + SN-009 (Anki decks) + SN-010 (peer-review).
+- **v2.0 (~2028-12)**: SN-013 (comunidade) + CAPSTONE-3/4/5 exemplares + SN-016 (Stage 6).
+
+### Status v1.3
+
+**Maestria total profunda atingida.** Framework é agora:
+
+1. **Pedagogicamente complete** + 2 worked examples sequenciais (CAPSTONE-1 + CAPSTONE-2).
+2. **Referencialmente exhaustiva** (10 Anhänge + BEGRIFFS-GLOSSAR + AUDIO-CANON cobrindo todos os Stages).
+3. **Operacionalmente fluida** (5 templates + DAG + Quickstart + worked examples).
+4. **Internacionalmente accesible** (README-EN + governance).
+5. **Auditavelmente sustentável** (DECISION-LOG, CHANGELOG, RELEASE-NOTES, GitHub Actions, ISSUE/PR templates).
+6. **Multimodal** (texto + visualização Mermaid + audio/video pointers para Shadowing).
+
+Próximo eixo: **SN-005-006 sistemáticos** (auditoria completa) + **self-test banks** (Übungen além dos quizzes) — refinamento operacional.
+
+---
+
 ## v1.2 — Maestria total (2026-05-09)
 
 ### Eixos da release

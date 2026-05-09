@@ -409,6 +409,73 @@ Active.
 
 ---
 
+## DL-2026-05-09-013 — BEGRIFFS-GLOSSAR como documento separado, não em anhaenge/
+
+### Contexto
+
+Em v1.3, ao implementar SN-007, surgiu decisão: BEGRIFFS-GLOSSAR é Anhang (vai em `anhaenge/`) ou documento meta separado (vai em `framework/00-meta/`)?
+
+### Alternativas consideradas
+
+1. **Em anhaenge/ANHANG-K-BEGRIFFS-GLOSSAR.md**: Anhang-Konvention. Pros: konsistente Lokação. Contras: Begriffs-Glossar não é referência gramatical (como ANHANGs A-J), mas referência **filosófico-filológica**; semantisch distinto.
+2. **Em `framework/00-meta/BEGRIFFS-GLOSSAR.md` separado** (escolhido). Pros: separação semântica clara entre referência gramatical (anhaenge/) e referência filosófico-filológica (00-meta direto, junto com BEGRIFF-INDEX.md, GLOSSAR.md, REFERENCES-ELITE.md, etc.). Begriffs-Glossar dialoga com BEGRIFF-INDEX (scaffold dos 7 Begriffe) e GLOSSAR (terminologia linguística).
+3. **Em `framework/00-meta/glossare/`** (novo subdiretório): Pros: agruparia GLOSSAR.md + BEGRIFFS-GLOSSAR.md + BEGRIFF-INDEX.md. Contras: re-organização que quebraria links existentes.
+
+### Decisão tomada
+
+Opção 2.
+
+### Justificativa
+
+- **Semantische Distinktion klar**: anhaenge/ = gramatical-linguistic reference (Verben, Modalverben, Präpositionen, Konnektoren, Adjektivdekl., FVG, Stilfiguren, Wortbildung, Phraseologismen, PT-DE Kontrastive). BEGRIFFS-GLOSSAR = filosófico-filológico, dialoga com BEGRIFF-INDEX + GLOSSAR.
+- **Cross-references-Konvention**: BEGRIFF-INDEX.md já está em `framework/00-meta/` (não em anhaenge/); BEGRIFFS-GLOSSAR completa o trio.
+- **Discoverability**: aluno encontra Begriffs-Glossar ao explorar 00-meta junto com BEGRIFF-INDEX e os outros documentos meta.
+- **Linkstabilität**: nicht-Bewegung de BEGRIFF-INDEX necessária.
+
+### Trade-offs aceitos
+
+- **Asymmetria mit anhaenge/**: leitor precisa lembrar que "Anhang" + "Glossar" + "Index" são distintos. Mitigação: README do diretório anhaenge/ explica klar a Konvention.
+
+### Status
+
+Active.
+
+---
+
+## DL-2026-05-09-014 — AUDIO-VIDEO-CANON com URLs externas (link-rot Risk)
+
+### Contexto
+
+Em v1.3, ao implementar AUDIO-VIDEO-CANON, surgiu questão: quanto do Vídeo-/Audio-Repertoire incluir com URLs específicas?
+
+### Alternativas consideradas
+
+1. **Apenas descrições genéricas** (sem URLs): "Tagesschau in 100 Sekunden ist verfügbar". Pros: nicht link-rot vulnerável. Contras: deixa aluno fazendo seu próprio Web-Recherche, frequenten frustrante.
+2. **URLs específicas mit Timestamps quando possível** (escolhido). Pros: aluno acessível imediatamente; alta valor pedagógico. Contras: URLs podem expirieren; requer manutenção.
+3. **YouTube-Embeds direkt no Markdown** (via Mermaid-similar): GitHub Markdown unterstützt isso nicht; Aufsatz-Stil-Risk.
+
+### Decisão tomada
+
+Opção 2 mit explícita Aktualisierungs-Hinweise + GitHub Actions link-check.
+
+### Justificativa
+
+- **Pedagogische Nutzwert** alto: aluno pode anhören sofort.
+- **GitHub Actions** já implementado em v1.2 (markdown-link-check) — captura link-rot quartely / per-PR.
+- **Sektion 9 do Canons** explizit: "URLs sind labil"; gibt Aktualisierungs-Cadência (quartärlich Spot-Check, jährlich vollständig).
+- **Tradeoff is acceptable**: ein paar broken links ist preço por immediate Accessibility.
+
+### Trade-offs aceitos
+
+- **link-rot ist unvermeidlich** für Externe URLs. Mitigation via Workflow.
+- **Manutenção required** quartärlich. Aceitável dado pedagogischer Wert.
+
+### Status
+
+Active.
+
+---
+
 ## DL-template para entradas futuras
 
 ```markdown
