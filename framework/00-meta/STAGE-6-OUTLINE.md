@@ -2,7 +2,7 @@
 
 > Outline für Stage 6 — **opcional**, post-CAPSTONE-5. Spezialisierung in 4 Tracks für Lernende, die nach Erreichen von C2+ World Class einen genaueren akademischen / professionellen Fokus suchen.
 >
-> **Status:** Blueprint (v1.4, 2026-05-09) — vollständige Module-Implementation in v2.0 geplant. Hier Strukturskizze + Track-Beschreibungen + erste Modul-Drafts.
+> **Status:** Blueprint v1.4 (2026-05-09); **Track A + Track B vollständig implementiert in v2.0** (2026-05-09). Tracks C + D bleiben Blueprint für v2.5+.
 >
 > **Voraussetzung:** CAPSTONE-5 abgeschlossen (Veröffentlichung in DE/AT/CH-Zeitschrift).
 >
@@ -32,7 +32,7 @@ Jeder Track besteht aus **5-7 Modulen + 1 Capstone-6**, der spezifisch für den 
 - [05-03 Übersetzungstheorie und -praxis](../05-meisterschaft/05-03-uebersetzungstheorie.md).
 - Trilha D in [LEARNING-PATHWAYS.md](LEARNING-PATHWAYS.md).
 
-### Stage 6 Track A — neue Module (geplant)
+### Stage 6 Track A — Module (✅ v2.0 implementiert in `framework/06-spezialisierung/`)
 
 #### 06-A-1: Übersetzungstheorie vertieft
 
@@ -89,7 +89,7 @@ Jeder Track besteht aus **5-7 Modulen + 1 Capstone-6**, der spezifisch für den 
 - 05-02 Wissenschaftssprache.
 - CAPSTONE-4 (korpusbasierte Begriffsanalyse).
 
-### Stage 6 Track B — neue Module
+### Stage 6 Track B — Module (✅ v2.0 implementiert in `framework/06-spezialisierung/`)
 
 #### 06-B-1: Forschungsfrage-Entwicklung
 

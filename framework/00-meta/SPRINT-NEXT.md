@@ -241,12 +241,13 @@ Total: ~8000 cards organizados por Stage / módulo / domínio.
 
 **Estimativa:** 500-1000 horas POR BEGRIFF (= concluir Capstone-5 inteiro).
 
-**Status:** **Partial enhanced** (v1.9, 2026-05-09). **4 Capstones-Exemplares concluídos**: 
+**Status:** **DONE** (v2.0, 2026-05-09). **Alle 5 Capstones-Exemplares concluídos**: 
 - CAPSTONE-1 (v1.2): Glossar v0, 30 entries.
 - CAPSTONE-2 (v1.3): Aufsatz argumentativ ~1500W.
 - CAPSTONE-3 (v1.4): Aufsatz wissenschaftlich ~5000W.
-- **CAPSTONE-4 (v1.9)**: korpusbasierte Begriffsanalyse ~30pp, methodische Trias diakron+synkron+hermeneutisch, 35 Primärbelege + 12 Sekundärquellen, 5 Sub-Traditionen, Methodenkritik integriert.
-Resta: CAPSTONE-5 exemplar — diferido para v2.0 (~5000-12000W publizierbarer Aufsatz; Veröffentlichungs-konform).
+- CAPSTONE-4 (v1.9): korpusbasierte Begriffsanalyse ~30pp.
+- **CAPSTONE-5 (v2.0)**: publizierbarer Aufsatz ~8000W (*Merkur*-Format); 6 Sektionen + Anhang mit Stilfeature-Markierung + Korrekturschleife dokumentiert + Submissions-Materialien.
+**Erkenntnisprojekt-Reihe v0→v4 vollständig demonstriert auf einem Begriff (Aufklärung).**
 
 **Riscos:** Aluno pode se apoiar em exemplo em vez de produzir próprio. Mitigação: publicar com explicit warning. **Mitigação implementada** em CAPSTONE-1 exemplar §"Was NICHT zu kopieren" + Vorbemerkung.
 
@@ -284,9 +285,13 @@ Cada track ~5-7 módulos + Capstone-6.
 
 **Estimativa:** 200-400 horas.
 
-**Status:** Backlog.
+**Status:** **Partial enhanced** (v2.0, 2026-05-09). **Track A + Track B vollständig implementiert** em [`framework/06-spezialisierung/`](../../06-spezialisierung/):
+- Track A — Übersetzungswissenschaft + Praxis: 6 Module (06-A-1 bis 06-A-6) + CAPSTONE-6-A.
+- Track B — Germanistische Forschung Promotion-Vorbereitung: 7 Module (06-B-1 bis 06-B-7) + CAPSTONE-6-B.
 
-**Pré-requisito:** v2.0; comunidade ativa.
+Resta: Track C (Fachsprache spezialisiert: 3 Sub-Tracks Recht + Medizin + Technik) + Track D (Mentoring + DaF-Lehre) — bleiben Blueprint in [STAGE-6-OUTLINE](STAGE-6-OUTLINE.md); Implementation für v2.5+ geplant.
+
+**Pré-requisito atualizado:** v2.5+; Tracks C + D fokussieren Berufs-spezifische Praxis (Recht, Medizin, Technik, DaF) — weniger universal als A + B; Implementation kann später erfolgen.
 
 ---
 
@@ -380,6 +385,17 @@ v1.9 — 2026-05-09 — STAGE-5-APPARAT + CAPSTONE-4 EXEMPLAR:  [feito]
                     (~30pp korpusbasiert; methodische Trias)
                     + SN-009 DONE (alle Stages 1-5)
                     + SN-014 partial enhanced (4 Capstones)
+v2.0 — 2026-05-09 — MAJOR: CAPSTONE-5 EXEMPLAR + STAGE 6   [feito]
+                    TRACKS A + B vollständig
+                    + CAPSTONE-5-AUFKLAERUNG-EXEMPLAR
+                    (~8000W publizierbarer Aufsatz Merkur-Format)
+                    + Stage 6 Track A (6 Module + CAPSTONE-6-A)
+                    + Stage 6 Track B (7 Module + CAPSTONE-6-B)
+                    + DAG.md atualizado (Stage 6 + 2 Sub-DAGs)
+                    + SN-014 DONE (alle 5 Capstones); 
+                      SN-016 partial enhanced (Tracks A + B)
+v2.5 — ~2027     — Tracks C + D + Tradução DE 100%        [planejado]
+                    + AnkiWeb-Deck publiziert.
 v2.0 — ~2028-12  — Comunidade + CAPSTONE-4/5 exemplares     [planejado]
                     + Stage 6 vollständig (4 Tracks)
 v2.5 — ~2029-12  — Feedback-Loop + Tradução DE 100%          [planejado]

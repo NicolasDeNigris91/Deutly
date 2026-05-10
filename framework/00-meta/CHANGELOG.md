@@ -4,6 +4,112 @@
 
 ---
 
+## v2.0 — 2026-05-09 — Major Release: CAPSTONE-5 exemplar + Stage 6 Tracks A + B vollständig
+
+**Major Version Bump.** v2.0 markiert das Ende des Base-Curriculums (Stages 1-5 + 5 Capstones-Exemplares vollständig) + den Beginn der Spezialisierungs-Tracks (Stage 6 Track A + B operativ implementiert).
+
+### Adicionado
+
+#### CAPSTONE-5-AUFKLAERUNG-EXEMPLAR — abschließendes Veröffentlichungs-Modell
+
+- **CAPSTONE-5-AUFKLAERUNG-EXEMPLAR.md** (`framework/00-meta/examples/`): Worked Example einer publizierbaren Veröffentlichung (~8000W; *Merkur*-Format). 6 Sektionen: I Eingangs-Beobachtung; II Was Kant meinte (Re-Lektüre 1784); III Die zwei Aufklärungen — Adorno und Habermas; IV Aufklärung als Übung — eine dritte Position (Foucault-Anschluss); V Aufklärung in der postfaktischen Zeit (3 Lebenswelt-Beispiele); VI Schluss — Aufklärung als kleine Beharrlichkeit. Plus Anhang mit submissions-konformer Methodik (Stilfeature-Markierung, Korrekturschleife dokumentiert v1→v2→v3, Bewertung ~92%, Submissions-Materialien für Merkur). **Schließt SN-014 vollständig** (alle 5 Capstones-Exemplares done; Erkenntnisprojekt-Reihe v0→v4 vollständig).
+
+#### Stage 6 Track A — Übersetzungswissenschaft + Praxis (vollständig implementiert)
+
+7 Dateien in `framework/06-spezialisierung/`:
+
+- **06-A-1 Übersetzungstheorie vertieft** — Schleiermacher / Benjamin / Berman / Steiner / Venuti gelesen + analysiert; eigene translatologische Position (~3000-5000W) verteidigt.
+- **06-A-2 Literarische Übersetzung PT↔DE** — Mann + Machado de Assis doppelte Übersetzung + Vergleich mit existierenden Übersetzungen.
+- **06-A-3 Philosophische Übersetzung** — Heidegger nach PT (*SuZ* §§1–7 + §31); Diskussion 3 PT-Übersetzungs-Wege für *Dasein* (Beibehaltung / Pre-sença Schuback / Existência).
+- **06-A-4 Juristische Übersetzung** — BGB-Auszüge + GG/CRFB vergleichend; funktional-äquivalente Übersetzung; Stilkonvention Beamtendeutsch + Juristendeutsch.
+- **06-A-5 Kulturwissenschaftliche Übersetzung** — Adorno + Bourdieu + Habermas; Begriffs-Tradition (Bildungsbürger / Halbbildung / Habitus / Distinktion / Lebenswelt).
+- **06-A-6 Lektorat + Redaktion** — 4 Lektorats-Phasen (eigenes / Peer / Verlagslektor / Druck); Argumentations-Strategie mit Verlagslektor; Übersetzer-Lektor-Kommunikation.
+- **CAPSTONE-6-A Publizierte Buchübersetzung** — vollständige Buchübersetzung (~150-300 S.) in etabliertem Verlag publiziert. Anschluss-Karrieren: Freier Literaturübersetzer / Verlagslektor / Akademischer Übersetzer / Konferenzdolmetscher.
+
+#### Stage 6 Track B — Germanistische Forschung Promotion-Vorbereitung (vollständig implementiert)
+
+8 Dateien in `framework/06-spezialisierung/`:
+
+- **06-B-1 Forschungsfrage-Entwicklung** — Promotion-würdige Forschungsfrage + Exposé (~15-30 S.) gemäß DE-Akademie-Standard; 4 Kriterien (Originalität, Bearbeitbarkeit, Methodische Konsistenz, Anschlussfähigkeit).
+- **06-B-2 Wissenschaftliches Schreiben spezialisiert** — Monographie-Format (~400-600 S.); Pilot-Kapitel (~40-60 S.); Architektur über Kapitel; Längen-Management.
+- **06-B-3 Konferenz-Praxis** — Conference-Paper Long/Short-Format; Akademie-Vortrag (15-20 min); Reviewing eigene + fremde Arbeit; Konferenz-Inventar (DGfS, Germanistenverband, DGPhil, IVG, Hegel-Kongress).
+- **06-B-4 Akademisches Netzwerk** — Fachgesellschaften DE-Akademie; akademische Korrespondenz-Konventionen DE; Reviewing für Journals + Konferenzen; Sub-Disziplinen-Engagement.
+- **06-B-5 Promotionsantrag** — DFG / FWF / SNF / DAAD / Stiftungen-Inventar; Antrag-Struktur (Anschreiben + Lebenslauf + Exposé + Empfehlungs- + Doktorvater-Bestätigungs-Schreiben); 5-Jahres-Plan + Stipendien-Wahl.
+- **06-B-6 Drittmittel + Forschungs-Praxis** — DFG-Drittmittel-Inventar; Forschungsdaten-Management (FAIR-Prinzipien + DMP); Open-Access-Strategie + CC-Lizenzen; Forschungs-Ethik (Plagiat + DSGVO + Ethik-Kommissionen); Reproduzibilitäts-Krise.
+- **06-B-7 Habilitation (optional)** — Habilitations-Schrift-Architektur; Lehrerfahrung + Lehrportfolio; Karriere-Alternativen (Habilitation vs. Junior-Professur vs. internationale Karriere).
+- **CAPSTONE-6-B Promotion-Beginn** — Doktorvater-Wahl + Vertrag + 1. Jahres-Berichts-Manuskript (~30-50 S.); Forschungs-Roadmap. Anschluss-Karrieren: Postdoc / Junior-Professur / Habilitation / Forschungsstelle / Stiftungs-Karriere / international.
+
+### Modificado
+
+#### STAGE-6-OUTLINE.md aktualisiert
+
+- Status-Markierung: "Track A + Track B vollständig implementiert in v2.0".
+- Track A + B Modul-Sektionen markiert als ✅ implementiert.
+- Tracks C + D bleiben Blueprint für v2.5+.
+
+#### DAG.md erweitert
+
+- Globaler cross-Stage-Diagramm: Stage 6 Track A + Track B als parallele post-CAPSTONE-5-Knoten + 2 neue Capstones (CAPSTONE-6-A + CAPSTONE-6-B).
+- **Stage 6 Track A Sub-DAG** novo: Mermaid-Diagramm mit 6 Modulen + CAPSTONE-6-A; cross-reference zu Stage 5 (05-03 Übersetzung).
+- **Stage 6 Track B Sub-DAG** novo: Mermaid-Diagramm mit 7 Modulen + CAPSTONE-6-B; cross-references zu Stage 4-5 (CAPSTONE-4 + 05-02 Wissenschaftssprache).
+
+#### INDEX.md aktualisiert
+
+- Header inkludiert CAPSTONE-5 exemplar + Stage 6 Tracks-Verweise.
+- Stage 6 Tabelle hinzugefügt mit Track A + Track B Modul-Listen + Saídas.
+- Total-Zeile aktualisiert: **59 Module + 7 Capstones** cumulativo.
+
+### Resolvido (SN-Items)
+
+| SN | Prio | Tipo | Título | Status |
+|---|---|---|---|---|
+| SN-014 | P3 | expansão | Capstones exemplares | **DONE** (alle 5 Capstones-Exemplares 1+2+3+4+5 sobre Aufklärung complete) |
+| SN-016 | P3 | expansão | Stage 6 Specialization | **Partial enhanced** (Track A + Track B vollständig; Track C + D bleiben Blueprint v2.5+) |
+
+### Estatísticas v2.0
+
+```
+Arquivos novos:                                 16
+  CAPSTONE-5-AUFKLAERUNG-EXEMPLAR.md             1 (~8000W publizierbarer Aufsatz)
+  Track A:                                       7 (6 Module + CAPSTONE-6-A)
+  Track B:                                       8 (7 Module + CAPSTONE-6-B)
+  
+Arquivos modificados:                            6
+  INDEX.md (header + Stage 6 Sektion + Total-Zeile)
+  DAG.md (globaler cross-Stage + 2 Sub-DAGs Stage 6)
+  STAGE-6-OUTLINE.md (Status v2.0 + Track A/B markiert)
+  + 4 meta-docs (CHANGELOG, RELEASE-NOTES, SPRINT-NEXT, ROADMAP)
+
+Cumulativo (após v2.0):
+  Module total:                                  59 (Stage 1-5: 46 + Stage 6: 13)
+  Capstones encadeados:                           7 (5 Stage 1-5 + 2 Stage 6)
+  Anhänge:                                       12 (A-L; unverändert)
+  Trilhas:                                        7 (unverändert)
+  Anki cards Stages 1-5:                         ~2900 (unverändert seit v1.9)
+  Self-test Übungen Stages 1-5:                   150 (unverändert seit v1.9)
+  Capstone-Exemplares:                             5 (CAPSTONE-1+2+3+4+5 sobre Aufklärung)
+  Tradução DE:                                    INDEX + MENTOR + STUDY-PROTOCOL + BEGRIFFS-GLOSSAR + Stage 6 Module (~25%)
+  Mermaid-Diagramme:                              15 (13 + 2 Sub-DAGs Stage 6)
+```
+
+### Honestidade pedagógica
+
+v2.0 markiert eine **major release**: Base-Curriculum (Stages 1-5) ist mit allen 5 Capstones-Exemplares + 5 Anki-Decks + 5 Self-test-Banks + 4 Meta-Docs in DE komplett. Stage 6 Spezialisierungs-Tracks (Übersetzung + Forschung) sind operativ verfügbar — aluno completando CAPSTONE-5 hat klare Wege:
+
+- **Track A** → professionelle Übersetzungs-Karriere (Verlagskooperation, Buchpublikation, Fachübersetzung).
+- **Track B** → akademische Karriere (Promotion in DE-Akademie, Konferenz-Engagement, Habilitation oder Junior-Professur).
+
+Tracks C (Fachsprache spezialisiert) + D (Mentoring + DaF-Lehre) bleiben für v2.5+ — nicht weil sie weniger wichtig sind, sondern weil C + D weniger universell anwendbar sind (C ist berufsspezifisch; D erfordert Lehr-Anbindung).
+
+**Wichtigste Lücken nach v2.0:**
+- Tracks C + D Implementation (v2.5).
+- Tradução DE 100% (alle Module + Anhänge + Templates; v2.5).
+- Comunidade-Aufbau (Discord/Matrix; cf. SN-013).
+- Peer-Review von DE-Linguisten (cf. SN-010).
+- AnkiWeb-Deck publiziert.
+
+---
+
 ## v1.9 — 2026-05-09 — Empirische Erweiterung Stage 5 + CAPSTONE-4 exemplar
 
 ### Adicionado

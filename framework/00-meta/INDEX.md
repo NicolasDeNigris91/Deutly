@@ -8,7 +8,9 @@
 >
 > **Templates de output** ([templates/](templates/) — cf. [README](templates/README.md)): [Tagebuch](templates/TAGEBUCH-TEMPLATE.md) · [Aufsatz 1500 W](templates/AUFSATZ-1500W-TEMPLATE.md) · [Aufsatz 5000 W](templates/AUFSATZ-5000W-TEMPLATE.md) · [Vortrag](templates/VORTRAG-TEMPLATE.md) · [Begriffsanalyse korpusbasiert](templates/BEGRIFFSANALYSE-TEMPLATE.md) · [Glosse](templates/GLOSSE-TEMPLATE.md) · [Übersetzungsanalyse](templates/UEBERSETZUNGSANALYSE-TEMPLATE.md) · [Veröffentlichung-Submission](templates/VEROEFFENTLICHUNG-TEMPLATE.md).
 >
-> **Worked examples** ([examples/](examples/) — cf. [README](examples/README.md)): [CAPSTONE-1 — Aufklärung](examples/CAPSTONE-1-AUFKLAERUNG-EXEMPLAR.md) (Glossar v0, 30 entries) · [CAPSTONE-2 — Aufklärung](examples/CAPSTONE-2-AUFKLAERUNG-EXEMPLAR.md) (Aufsatz argumentativ ~1500W) · [CAPSTONE-3 — Aufklärung](examples/CAPSTONE-3-AUFKLAERUNG-EXEMPLAR.md) (Aufsatz wissenschaftlich ~5000W) · **[CAPSTONE-4 — Aufklärung](examples/CAPSTONE-4-AUFKLAERUNG-EXEMPLAR.md)** (korpusbasierte Begriffsanalyse ~30 pp.; methodische Trias diakron+synkron+hermeneutisch).
+> **Worked examples** ([examples/](examples/) — cf. [README](examples/README.md)): [CAPSTONE-1 — Aufklärung](examples/CAPSTONE-1-AUFKLAERUNG-EXEMPLAR.md) (Glossar v0, 30 entries) · [CAPSTONE-2 — Aufklärung](examples/CAPSTONE-2-AUFKLAERUNG-EXEMPLAR.md) (Aufsatz argumentativ ~1500W) · [CAPSTONE-3 — Aufklärung](examples/CAPSTONE-3-AUFKLAERUNG-EXEMPLAR.md) (Aufsatz wissenschaftlich ~5000W) · [CAPSTONE-4 — Aufklärung](examples/CAPSTONE-4-AUFKLAERUNG-EXEMPLAR.md) (korpusbasierte Begriffsanalyse ~30 pp.) · **[CAPSTONE-5 — Aufklärung](examples/CAPSTONE-5-AUFKLAERUNG-EXEMPLAR.md)** (publizierbarer Aufsatz ~8000W; Merkur-konform; alle 5 Capstones der Erkenntnisprojekt-Reihe).
+
+**Stage 6 Spezialisierungs-Tracks** ([06-spezialisierung/](../06-spezialisierung/)): **Track A — Übersetzungswissenschaft + Praxis** (06-A-1 bis 06-A-6 + CAPSTONE-6-A); **Track B — Germanistische Forschung** (06-B-1 bis 06-B-7 + CAPSTONE-6-B). Tracks C + D bleiben Blueprint (cf. STAGE-6-OUTLINE).
 
 ---
 
@@ -108,6 +110,41 @@
 
 ---
 
+## Stage 6 — SPEZIALISIERUNGS-TRACKS (post-CAPSTONE-5, optional)
+
+> **Saída esperada:** você ist professioneller Übersetzer (Track A) ou Promotionsstudent in DE-Akademie (Track B).
+>
+> **Voraussetzung**: CAPSTONE-5 abgeschlossen. Tracks A + B parallel oder konsekutiv möglich.
+
+### Track A — Übersetzungswissenschaft + Praxis
+
+| ID | Modul | Prereqs | Saída |
+|----|--------|---------|-------|
+| 06-A-1 | [Übersetzungstheorie vertieft](../06-spezialisierung/06-A-1-uebersetzungstheorie-vertieft.md) | 05-03 | Eigene translatologische Position formuliert + verteidigt. |
+| 06-A-2 | [Literarische Übersetzung PT↔DE](../06-spezialisierung/06-A-2-literarische-uebersetzung.md) | 06-A-1 | Doppelte Übersetzung (Mann + Machado) + Vergleich. |
+| 06-A-3 | [Philosophische Übersetzung](../06-spezialisierung/06-A-3-philosophische-uebersetzung.md) | 06-A-1, 06-A-2 | Heidegger nach PT (SuZ §§1-7 + §31). |
+| 06-A-4 | [Juristische Übersetzung](../06-spezialisierung/06-A-4-juristische-uebersetzung.md) | 06-A-1 | BGB-Auszüge + GG/CRFB vergleichend. |
+| 06-A-5 | [Kulturwissenschaftliche Übersetzung](../06-spezialisierung/06-A-5-kulturwissenschaftliche-uebersetzung.md) | 06-A-3 | Adorno + Bourdieu + Habermas. |
+| 06-A-6 | [Lektorat + Redaktion](../06-spezialisierung/06-A-6-lektorat-redaktion.md) | 06-A-2, 06-A-3 | Vollständige Lektorats-Praxis (4 Phasen). |
+| **CAPSTONE-6-A** | **[Publizierte Buchübersetzung](../06-spezialisierung/CAPSTONE-6-A.md)** | alle Track A | Buchübersetzung in etabliertem Verlag publiziert. |
+
+### Track B — Germanistische Forschung (Promotion-Vorbereitung)
+
+| ID | Modul | Prereqs | Saída |
+|----|--------|---------|-------|
+| 06-B-1 | [Forschungsfrage-Entwicklung](../06-spezialisierung/06-B-1-forschungsfrage-entwicklung.md) | 05-02, CAPSTONE-4 | Promotion-würdige Forschungsfrage + Exposé (~15-30 S.). |
+| 06-B-2 | [Wissenschaftliches Schreiben spezialisiert](../06-spezialisierung/06-B-2-wissenschaftliches-schreiben-spezialisiert.md) | 06-B-1 | Pilot-Kapitel der Promotion (~40-60 S.). |
+| 06-B-3 | [Konferenz-Praxis](../06-spezialisierung/06-B-3-konferenz-praxis.md) | 06-B-2 | Conference-Paper + Vortrag-Skript + Reviewing. |
+| 06-B-4 | [Akademisches Netzwerk](../06-spezialisierung/06-B-4-akademisches-netzwerk.md) | 06-B-3 | Mitgliedschaft + Korrespondenz + Reviewing. |
+| 06-B-5 | [Promotionsantrag](../06-spezialisierung/06-B-5-promotionsantrag.md) | 06-B-1, 06-B-4 | Vollständiger Promotionsantrag (DFG/DAAD/Stiftung). |
+| 06-B-6 | [Drittmittel + Forschungs-Praxis](../06-spezialisierung/06-B-6-drittmittel-forschungspraxis.md) | 06-B-5 | DMP + Open-Access-Strategie + Ethik-Voten. |
+| 06-B-7 | [Habilitation (optional)](../06-spezialisierung/06-B-7-habilitation.md) | 06-B-6 | Habilitations-Plan + Lehrportfolio + Karriere-Reflexion. |
+| **CAPSTONE-6-B** | **[Promotion-Beginn](../06-spezialisierung/CAPSTONE-6-B.md)** | alle Track B | Doktorat-Vertrag unterschrieben + 1. Jahres-Berichts-Manuskript. |
+
+> **Tracks C (Fachsprache) + D (Mentoring + DaF-Lehre)** bleiben Blueprint in [STAGE-6-OUTLINE.md](STAGE-6-OUTLINE.md); Implementation in v2.5+ geplant.
+
+---
+
 ## DAG simplificado (dependências críticas inter-estágio)
 
 ### Textual (ASCII)
@@ -184,4 +221,8 @@ Detalhes da progressão em [CAPSTONE-EVOLUTION.md](CAPSTONE-EVOLUTION.md).
 
 ---
 
-**Total**: 5 estágios, **46 módulos** (Stage 1: 10, Stage 2: 9, Stage 3: 10, Stage 4: 10, Stage 5: 7), 5 capstones encadeados.
+**Total Stage 1-5**: 5 estágios, **46 módulos** (Stage 1: 10, Stage 2: 9, Stage 3: 10, Stage 4: 10, Stage 5: 7), 5 capstones encadeados.
+
+**Total Stage 6** (Spezialisierungs-Tracks v2.0): **+13 módulos** (Track A: 6 + Track B: 7) + 2 capstones (CAPSTONE-6-A + CAPSTONE-6-B).
+
+**Cumulativo:** **59 módulos + 7 capstones** após v2.0.

@@ -1,32 +1,40 @@
 # FATHOM-Deutsch — ROADMAP
 
-> Long-term vision document. Strukturierte Aussicht auf die Entwicklung des Frameworks von v1.9 bis v3.0+. Ergänzt [SPRINT-NEXT.md](framework/00-meta/SPRINT-NEXT.md) (taktische Ebene) durch strategische Sicht.
+> Long-term vision document. Strukturierte Aussicht auf die Entwicklung des Frameworks von v2.0 bis v3.0+. Ergänzt [SPRINT-NEXT.md](framework/00-meta/SPRINT-NEXT.md) (taktische Ebene) durch strategische Sicht.
 
 ---
 
-## Status quo (v1.9, 2026-05-09)
+## Status quo (v2.0, 2026-05-09) — MAJOR RELEASE
 
 ```
-✅ 5 Stages × 46 Module + 5 Capstones encadeados (Stage 1: 10; Stage 3: 10)
+✅ 5 Stages × 46 Module + 5 Capstones encadeados (Base-Curriculum)
+✅ Stage 6 Track A vollständig: 6 Module + CAPSTONE-6-A (Übersetzungswissenschaft)
+✅ Stage 6 Track B vollständig: 7 Module + CAPSTONE-6-B (Germanistische Forschung)
+✅ Module total: 59 (Stage 1-5: 46 + Stage 6 A+B: 13)
+✅ Capstones encadeados total: 7 (5 Stage 1-5 + 2 Stage 6)
 ✅ 12 Anhänge gramatical-linguistic + konversational (A-L)
 ✅ BEGRIFFS-GLOSSAR cumulativo (111 entries cross-Stage; bereits in DE)
 ✅ AUDIO-VIDEO-CANON (~30 Quellen mit URLs für Shadowing)
 ✅ 8 Templates output
-✅ 4 worked examples (CAPSTONE-1+2+3+4 sobre Aufklärung)
+✅ 5 worked examples (CAPSTONE-1+2+3+4+5 sobre Aufklärung — Erkenntnisprojekt-Reihe v0→v4 vollständig)
 ✅ Self-test banks Stages 1-5 ALLE (~150 Übungen cumulativo)
 ✅ Anki starter decks Stages 1-5 ALLE (~2900 cards cumulativo)
-✅ Tradução DE paralela: INDEX + MENTOR + STUDY-PROTOCOL + BEGRIFFS-GLOSSAR (~15% framework)
-✅ DAG visual Mermaid (13 Diagramme: master + 5 stages + 5 caminhos críticos + Caminho E)
+✅ Tradução DE paralela: INDEX + MENTOR + STUDY-PROTOCOL + BEGRIFFS-GLOSSAR + Stage 6 Module (~25% framework)
+✅ DAG visual Mermaid (15 Diagramme: master + 5 stages + 2 Stage 6 sub-DAGs + 5 caminhos críticos)
 ✅ 7 Trilhas (A canônica, B Geistes, C Linguistik, D Tradução, E Berufs, F PhD, G Auswandern)
 ✅ Governance: CODE_OF_CONDUCT, .github/, GitHub Actions
 ✅ Internationalisierung: README-EN + INDEX/MENTOR/STUDY-PROTOCOL-DE
 ✅ Auditoria sistemática completa (SN-005 cross-refs done; SN-006 ortografia + dash done)
-✅ Stage 6 outline (Spezialisierungs-Tracks Blueprint)
 ```
 
-**Stage-Apparat-Reihe abgeschlossen** in v1.9. Wichtigste verbleibende Lücken: CAPSTONE-5 exemplar + Stage 6 Track-Implementation (für v2.0).
+**v2.0 markiert end-of-base-curriculum + start-of-specialization-tracks.** Aluno hat klare Wege:
+- Track A → professionelle Übersetzungs-Karriere.
+- Track B → akademische Promotion in DE-Akademie.
+- Tracks C + D bleiben Blueprint für v2.5+.
 
-**Status:** **operational world-class genuíno** für PT-falante adulto reaching C2+ in germanística filosófica + alltagssprachlich-Auswanderer-Szenarien.
+Wichtigste verbleibende Lücken: Tracks C (Fachsprache) + D (Mentoring + DaF-Lehre); Tradução DE 100%; Comunidade-Aufbau (Discord/Matrix); Peer-Review von DE-Linguisten; AnkiWeb-Deck.
+
+**Status:** **operational world-class + spezialisations-ready** für PT-falante adulto reaching C2+ in germanística filosófica + alltagssprachlich-Auswanderer-Szenarien + professionelle Spezialisierung Übersetzung oder Forschung.
 
 ---
 
@@ -103,46 +111,23 @@
 
 ---
 
-## v2.0 — geplant ~2027-06: Comunidade + CAPSTONE-5 exemplar + Stage 6 Tracks A+B
-
-> **Hinweis:** v1.5 (in der ursprünglichen Roadmap als 2027-06 geplant — Anki Stages 2-5 + Self-test 2-5 + Tradução DE) ist via v1.5/v1.6/v1.7/v1.8/v1.9 vorgezogen worden, in Cadência ~3 Monate pro Stage-Apparat. v2.0 verschiebt sich entsprechend nach vorne.
-
-### Hauptachsen
-
-#### Comunidade ativa (SN-013)
-
-- Discord oder Matrix Server.
-- GitHub Discussions etabliert.
-- Cohort-Tracking-System (PROGRESS.md per Lerner em separados Repos).
-- Peer-Mentoring matchmaking.
-- Lesegruppen virtuais (1-2 wöchentlich).
-
-#### Capstones exemplares vollständig (SN-014)
-
-- CAPSTONE-4 — *Aufklärung* korpusbasierte Begriffsanalyse (~30 pp.).
-- CAPSTONE-5 — *Aufklärung* publizierter Aufsatz (5000–12000 W).
-- (Alternativ andere Begriffe: Bildung, Geist, Wahrheit, Macht, Sein, Sprache.)
-
-#### Stage 6 vollständig (SN-016)
-
-- Track A (Übersetzung): 6 Module + CAPSTONE-6-A.
-- Track B (Forschung): 7 Module + CAPSTONE-6-B.
-- Track C (Fachsprache, 3 Sub-Tracks): 12 Module + 3 CAPSTONE-6-C.
-- Track D (Mentoring): 6 Module + CAPSTONE-6-D.
-
-#### IDS-Korpora API-Integration (SN-017)
-
-- Wenn IDS-Korpora API publiziert: Skripte für CAPSTONE-4 automatische Korpus-Queries.
-
-### Estatísticas-Ziel v2.0
+## v2.0 — 2026-05-09: MAJOR — CAPSTONE-5 exemplar + Stage 6 Tracks A + B (DONE)
 
 ```
-Comunidade:                     Discord/Matrix mit ~50-200 Lernenden
-Capstones exemplares:           5 (Capstone-1 bis -5 cumulative)
-Stage 6 Module:                 ~30 (alle 4 Tracks)
-Cross-references:               ~80+ (mit Stage 6)
-Module total:                    46 + 30 = ~76
+✅ CAPSTONE-5-AUFKLAERUNG-EXEMPLAR (~8000W publizierbarer Aufsatz Merkur-Format)
+✅ Stage 6 Track A vollständig (6 Module + CAPSTONE-6-A in framework/06-spezialisierung/)
+✅ Stage 6 Track B vollständig (7 Module + CAPSTONE-6-B in framework/06-spezialisierung/)
+✅ DAG.md atualizado (Stage 6 + 2 Sub-DAGs Track A + Track B)
+✅ STAGE-6-OUTLINE atualizado (Track A + B markiert ✅; Tracks C + D bleiben Blueprint)
+✅ INDEX header + Stage 6 Sektion + Total-Zeile aktualisiert
+✅ SN-014 DONE (alle 5 Capstones-Exemplares); SN-016 partial enhanced (Track A + B)
 ```
+
+**Was nicht in v2.0 enthalten ist** (ursprünglich für v2.0 in v1.4-Roadmap geplant; verschoben):
+- Comunidade (Discord/Matrix; SN-013) → v2.5+.
+- Track C (Fachsprache, 3 Sub-Tracks) → v2.5+.
+- Track D (Mentoring + DaF-Lehre) → v2.5+.
+- IDS-Korpora API-Integration (SN-017) → v3.0+ (abhängig von API-Verfügbarkeit).
 
 ---
 

@@ -30,15 +30,23 @@ flowchart LR
     S3["Stage 3 — STIL<br/>(10 Module)"]:::stage3
     S4["Stage 4 — SYSTEM<br/>(10 Module)"]:::stage4
     S5["Stage 5 — MEISTERSCHAFT<br/>(7 Module)"]:::stage5
+    S6A["Stage 6 Track A<br/>ÜBERSETZUNG<br/>(6 Module + Capstone)"]:::stage5
+    S6B["Stage 6 Track B<br/>FORSCHUNG<br/>(7 Module + Capstone)"]:::stage5
 
     C1[["CAPSTONE-1<br/>Glossar v0"]]:::capstone
     C2[["CAPSTONE-2<br/>Aufsatz 1500 W"]]:::capstone
     C3[["CAPSTONE-3<br/>Aufsatz 5000 W"]]:::capstone
     C4[["CAPSTONE-4<br/>Begriffsanalyse korpusbasiert"]]:::capstone
     C5[["CAPSTONE-5<br/>Veröffentlichung"]]:::capstone
+    C6A[["CAPSTONE-6-A<br/>Publizierte Buchübersetzung"]]:::capstone
+    C6B[["CAPSTONE-6-B<br/>Promotion-Beginn"]]:::capstone
 
     S1 --> C1 --> S2 --> C2 --> S3 --> C3 --> S4 --> C4 --> S5 --> C5
+    C5 -.-> S6A --> C6A
+    C5 -.-> S6B --> C6B
 ```
+
+> **Spezialisierungs-Tracks** Stage 6 (Track A + Track B) sind optional + parallel post-CAPSTONE-5. Track C (Fachsprache) + Track D (Mentoring) bleiben Blueprint für v2.5+.
 
 ---
 
@@ -288,6 +296,85 @@ flowchart LR
     M0504 --> C5
     M0505 --> C5
     M0506 --> C5
+```
+
+---
+
+## Stage 6 Track A — ÜBERSETZUNGSWISSENSCHAFT + PRAXIS
+
+```mermaid
+flowchart LR
+    classDef base fill:#fce4ec,stroke:#a3185f,color:#3a0a30
+    classDef cross fill:#f5f0ff,stroke:#3a0a8c,color:#1a0040,stroke-dasharray: 4 2
+    classDef capstone fill:#fffacd,stroke:#806000,color:#332400,stroke-width:3px
+
+    S5_0503["05-03"]:::cross
+
+    M0A1["06-A-1<br/>Übersetzungstheorie<br/>vertieft"]:::base
+    M0A2["06-A-2<br/>Literarische<br/>Übersetzung"]:::base
+    M0A3["06-A-3<br/>Philosophische<br/>Übersetzung"]:::base
+    M0A4["06-A-4<br/>Juristische<br/>Übersetzung"]:::base
+    M0A5["06-A-5<br/>Kulturwiss.<br/>Übersetzung"]:::base
+    M0A6["06-A-6<br/>Lektorat<br/>+ Redaktion"]:::base
+    C6A[["CAPSTONE-6-A<br/>Publizierte Buchübersetzung"]]:::capstone
+
+    S5_0503 -.-> M0A1
+    M0A1 --> M0A2
+    M0A1 --> M0A4
+    M0A2 --> M0A3
+    M0A3 --> M0A5
+    M0A2 --> M0A6
+    M0A3 --> M0A6
+
+    M0A1 --> C6A
+    M0A2 --> C6A
+    M0A3 --> C6A
+    M0A4 --> C6A
+    M0A5 --> C6A
+    M0A6 --> C6A
+```
+
+---
+
+## Stage 6 Track B — GERMANISTISCHE FORSCHUNG (Promotion-Vorbereitung)
+
+```mermaid
+flowchart LR
+    classDef base fill:#e0f2f1,stroke:#00695c,color:#003a30
+    classDef cross fill:#fff0f5,stroke:#7a0050,color:#2a001a,stroke-dasharray: 4 2
+    classDef cross5 fill:#f5f0ff,stroke:#3a0a8c,color:#1a0040,stroke-dasharray: 4 2
+    classDef capstone fill:#fffacd,stroke:#806000,color:#332400,stroke-width:3px
+
+    S4_C4["CAPSTONE-4"]:::cross
+    S5_0502["05-02"]:::cross5
+
+    M0B1["06-B-1<br/>Forschungsfrage-<br/>Entwicklung"]:::base
+    M0B2["06-B-2<br/>Wissenschaftl.<br/>Schreiben spez."]:::base
+    M0B3["06-B-3<br/>Konferenz-<br/>Praxis"]:::base
+    M0B4["06-B-4<br/>Akademisches<br/>Netzwerk"]:::base
+    M0B5["06-B-5<br/>Promotions-<br/>antrag"]:::base
+    M0B6["06-B-6<br/>Drittmittel<br/>+ Forsch.-Praxis"]:::base
+    M0B7["06-B-7<br/>Habilitation<br/>(optional)"]:::base
+    C6B[["CAPSTONE-6-B<br/>Promotion-Beginn"]]:::capstone
+
+    S5_0502 -.-> M0B1
+    S4_C4 -.-> M0B1
+
+    M0B1 --> M0B2
+    M0B2 --> M0B3
+    M0B3 --> M0B4
+    M0B1 --> M0B5
+    M0B4 --> M0B5
+    M0B5 --> M0B6
+    M0B6 --> M0B7
+
+    M0B1 --> C6B
+    M0B2 --> C6B
+    M0B3 --> C6B
+    M0B4 --> C6B
+    M0B5 --> C6B
+    M0B6 --> C6B
+    M0B7 --> C6B
 ```
 
 ---

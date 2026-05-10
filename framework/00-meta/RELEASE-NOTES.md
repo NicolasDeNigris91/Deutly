@@ -4,6 +4,128 @@
 
 ---
 
+## v2.0 — MAJOR RELEASE: CAPSTONE-5 exemplar + Stage 6 Tracks A + B vollständig (2026-05-09)
+
+### Eixos da release
+
+**MAJOR VERSION BUMP.** v2.0 markiert das Ende des Base-Curriculums (Stages 1-5 + alle 5 Capstones-Exemplares vollständig) und den Beginn der Spezialisierungs-Tracks (Stage 6 Track A + B operativ implementiert).
+
+Aluno completando v2.0:
+- Stages 1-5 mit Anki + Self-test + 5 Capstones-Exemplares (Erkenntnisprojekt-Reihe Aufklärung v0→v4).
+- Wahl zwischen Track A (Übersetzung) + Track B (Forschung) für vertiefte Spezialisierung.
+- Klare Karriere-Wege: professioneller Übersetzer (CAPSTONE-6-A: publizierte Buchübersetzung) oder Promotionsstudent in DE-Akademie (CAPSTONE-6-B: Doktorat-Vertrag + 1. Jahres-Bericht).
+
+### Conteúdo novo
+
+#### CAPSTONE-5-AUFKLAERUNG-EXEMPLAR (~8000W)
+
+Worked Example einer publizierbaren Veröffentlichung im *Merkur*-Format:
+
+**Architektur (6 Sektionen):**
+
+I. **Eingangs-Beobachtung** — narratives Eröffnen ohne akademische Vor-Anrede; Lebenswelt-Bezug ("Es gibt sie noch, die kleinen Beharrlichkeiten").
+
+II. **Was Kant meinte** — Re-Lektüre von Kant 1784 mit Fokus auf 3 oft überlesene Worte (*Ausgang*, *selbstverschuldete*, *Mensch*); Pointe: Aufklärung als praxeologisch-ethische Forderung, nicht epistemische.
+
+III. **Die zwei Aufklärungen — Adorno und Habermas** — Spaltung der Aufklärungs-Tradition; Adorno *Dialektik der Aufklärung* (1944); Habermas *unvollendetes Projekt der Moderne*; Honneth-Kritik an Habermas.
+
+IV. **Aufklärung als Übung — eine dritte Position** — Foucault *Was ist Aufklärung?* (1984) als Vorgänger; Aufklärung als *ethos der ständigen Kritik unseres historischen Seins*; Praxis statt Position.
+
+V. **Aufklärung in der postfaktischen Zeit** — Diagnose des Postfaktischen; 3 Aspekte (Verständigungs-Voraussetzungs-Erosion; Adorno-Bestätigung; Übungs-Notwendigkeit individuell); 3 Lebenswelt-Beispiele (Talkshow, Social Media, Akademiker).
+
+VI. **Schluss — Aufklärung als kleine Beharrlichkeit** — zirkuläre Rückkehr zur Eingangs-Beobachtung; aphoristische Schluss-Klimax.
+
+**Plus Anhang:**
+- 10 Stilfeature-Marker (Eingangs-Beobachtung statt akademischer Einleitung; Begriff-Erläuterung integriert; persönliche Stimme; Stilfiguren bewusst; Konj. II durchgängig; etc.).
+- Korrekturschleife dokumentiert (v1 → v2 → v3) mit Bewertung ~92%.
+- Submissions-Materialien für Merkur (Anschreiben + Kurzbiographie + Vorschlag zur Heftnummer + Manuskript-Format).
+
+#### Stage 6 Track A — Übersetzungswissenschaft + Praxis
+
+**6 Module + CAPSTONE-6-A (= 7 Dateien):**
+
+- **06-A-1 Übersetzungstheorie vertieft** (Schleiermacher-Achse + Benjamin + Berman 12-Tendenzen + Steiner 4-Phasen + Venuti politisches Programm; eigene Position formuliert).
+- **06-A-2 Literarische Übersetzung PT↔DE** (Mann + Machado de Assis doppelte Übersetzung; Vergleich mit existierenden).
+- **06-A-3 Philosophische Übersetzung** (Heidegger nach PT; *Dasein*-Übersetzungs-Dilemma diskutiert).
+- **06-A-4 Juristische Übersetzung** (BGB + GG/CRFB vergleichend; funktional-äquivalente Übersetzung).
+- **06-A-5 Kulturwissenschaftliche Übersetzung** (Adorno + Bourdieu + Habermas; diskurs-spezifische Terminologie).
+- **06-A-6 Lektorat + Redaktion** (4 Lektorats-Phasen; Argumentations-Strategie mit Verlagslektor).
+- **CAPSTONE-6-A Publizierte Buchübersetzung** (vollständige Buchübersetzung in etabliertem Verlag).
+
+#### Stage 6 Track B — Germanistische Forschung (Promotion-Vorbereitung)
+
+**7 Module + CAPSTONE-6-B (= 8 Dateien):**
+
+- **06-B-1 Forschungsfrage-Entwicklung** (Promotion-würdige Frage + Exposé; 4 Kriterien Originalität + Bearbeitbarkeit + Methodik + Anschlussfähigkeit).
+- **06-B-2 Wissenschaftliches Schreiben spezialisiert** (Monographie-Format; Pilot-Kapitel; Architektur-Bogen).
+- **06-B-3 Konferenz-Praxis** (Conference-Paper + Akademie-Vortrag + Reviewing).
+- **06-B-4 Akademisches Netzwerk** (Fachgesellschaften DE; Korrespondenz-Konventionen; Sub-Disziplinen-Engagement).
+- **06-B-5 Promotionsantrag** (DFG/FWF/SNF/DAAD/Stiftungen; Antrag-Struktur; 5-Jahres-Plan).
+- **06-B-6 Drittmittel + Forschungs-Praxis** (DFG-Drittmittel + FAIR + Open Access + Forschungs-Ethik).
+- **06-B-7 Habilitation (optional)** (Habilitations-Schrift + Lehrportfolio + Karriere-Alternativen).
+- **CAPSTONE-6-B Promotion-Beginn** (Doktorvater + Vertrag + 1. Jahres-Bericht).
+
+### Modificado
+
+#### DAG.md erweitert
+
+- Globaler cross-Stage-Diagramm: Stage 6 Track A + B als parallele post-CAPSTONE-5-Knoten + 2 neue Capstones.
+- Stage 6 Track A Sub-DAG novo (6 Module + CAPSTONE-6-A; cross-reference zu 05-03).
+- Stage 6 Track B Sub-DAG novo (7 Module + CAPSTONE-6-B; cross-references zu CAPSTONE-4 + 05-02).
+
+#### STAGE-6-OUTLINE.md aktualisiert
+
+- Status: "Track A + Track B vollständig implementiert in v2.0".
+- Track A + B Sektionen markiert mit ✅; Tracks C + D bleiben Blueprint v2.5+.
+
+#### INDEX.md aktualisiert
+
+- Header inkludiert CAPSTONE-5 + Stage 6 Tracks-Verweise.
+- Neue Stage-6-Sektion mit Track A + Track B Modul-Listen.
+- Total-Zeile aktualisiert: **59 Module + 7 Capstones** cumulativo.
+
+### Estatísticas v2.0
+
+```
+Arquivos novos:                                 16
+  CAPSTONE-5-AUFKLAERUNG-EXEMPLAR.md             1 (~8000W publizierbarer Aufsatz)
+  Track A Module + Capstone:                     7
+  Track B Module + Capstone:                     8
+  
+Arquivos modificados:                            6
+  INDEX.md (header + Stage 6 + Total-Zeile)
+  DAG.md (globaler cross-Stage + 2 Sub-DAGs)
+  STAGE-6-OUTLINE.md (Status v2.0)
+  + 4 meta-docs
+
+Cumulativo (após v2.0):
+  Module total:                                  59 (Stage 1-5: 46 + Stage 6: 13)
+  Capstones encadeados:                           7 (5 Stage 1-5 + 2 Stage 6)
+  Capstone-Exemplares:                             5 (1+2+3+4+5 sobre Aufklärung)
+  Anhänge:                                       12 (A-L)
+  Trilhas:                                        7
+  Anki cards Stages 1-5:                         ~2900
+  Self-test Übungen Stages 1-5:                   150
+  Mermaid-Diagramme:                              15
+  Tradução DE:                                    INDEX + MENTOR + STUDY-PROTOCOL + BEGRIFFS-GLOSSAR + Stage 6 Module (~25%)
+```
+
+### SN-Items resolvidos
+
+- **SN-014** [P3] [expansão] Capstones exemplares → **DONE** (alle 5 Capstones-Exemplares 1-5 sobre Aufklärung complete; Erkenntnisprojekt-Reihe v0→v4 vollständig demonstriert).
+- **SN-016** [P3] [expansão] Stage 6 Specialization → **Partial enhanced** (Track A + Track B vollständig; Track C Fachsprache + Track D Mentoring bleiben Blueprint v2.5+).
+
+### Backlog imediato (cf. SPRINT-NEXT.md)
+
+- **v2.5** (~planejado 2027): Tracks C (Fachsprache: 3 Sub-Tracks Recht + Medizin + Technik) + D (Mentoring + DaF-Lehre) implementieren; Tradução DE 100%; AnkiWeb-Deck publiziert.
+- **v3.0** (~planejado 2030): Multilingual (DE/EN/ES/FR) + Akademie-Kooperationen + Stage 7 (Beitragender-Stage) konzeptuell.
+
+### Migration v1.x → v2.0
+
+Für Lerner, die Stages 1-5 mit v1.x-Materialien begonnen haben: keine Migration nötig. v2.0 ist additiv (CAPSTONE-5 exemplar + Stage 6 neu); Stages 1-5 unverändert. Lerner können CAPSTONE-5 + Stage 6 nahtlos integrieren.
+
+---
+
 ## v1.9 — Empirische Erweiterung Stage 5 + CAPSTONE-4 exemplar (2026-05-09)
 
 ### Eixos da release
