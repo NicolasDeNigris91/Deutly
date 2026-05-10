@@ -1,10 +1,10 @@
 # FATHOM-Deutsch — ROADMAP
 
-> Long-term vision document. Strukturierte Aussicht auf die Entwicklung des Frameworks von v2.5 bis v3.0+. Ergänzt [SPRINT-NEXT.md](framework/00-meta/SPRINT-NEXT.md) (taktische Ebene) durch strategische Sicht.
+> Long-term vision document. Strukturierte Aussicht auf die Entwicklung des Frameworks von v3.0 bis v4.0+. Ergänzt [SPRINT-NEXT.md](framework/00-meta/SPRINT-NEXT.md) (taktische Ebene) durch strategische Sicht.
 
 ---
 
-## Status quo (v2.5, 2026-05-10) — STAGE 6 KOMPLETT
+## Status quo (v3.0, 2026-05-10) — INTERNATIONALE ERSCHLIESSUNGS-VOLLSTÄNDIGKEIT
 
 ```
 ✅ 5 Stages × 46 Module + 5 Capstones encadeados (Base-Curriculum)
@@ -22,7 +22,11 @@
 ✅ 5 worked examples (CAPSTONE-1+2+3+4+5 sobre Aufklärung — Erkenntnisprojekt-Reihe v0→v4 vollständig)
 ✅ Self-test banks Stages 1-5 ALLE (~150 Übungen cumulativo)
 ✅ Anki starter decks Stages 1-5 ALLE (~2900 cards cumulativo)
-✅ Tradução DE paralela: 3 Meta-Docs + BEGRIFFS-GLOSSAR + alle Stage-6-Module + 5 Stage-1-5-Schlüsselmodul-Adaptationen (~25% framework)
+✅ Tradução DE paralela: 3 Meta-Docs + BEGRIFFS-GLOSSAR + alle Stage-6-Module + alle Stage 1+2 (19 Module) + Schlüssel Stage 3-5 (3 Module) (~50% framework)
+✅ Multilingual: INDEX-EN (English parallel) + READMEs PT/DE/EN/ES/FR
+✅ AnkiWeb-Publishing-Workflow dokumentiert (ANKI-EXPORT-GUIDE)
+✅ Comunidade-Governance dokumentiert (COMMUNITY-GUIDELINES; Discord/Matrix-Inventar geplant)
+✅ Peer-Review-Protokoll dokumentiert (PEER-REVIEW-PROTOCOL; Reviewer-Akquisition kann beginnen)
 ✅ DAG visual Mermaid (15+ Diagramme: master + 5 stages + 2 Stage 6 sub-DAGs + Tracks C/D in master)
 ✅ 7 Trilhas (A canônica, B Geistes, C Linguistik, D Tradução, E Berufs, F PhD, G Auswandern)
 ✅ Governance: CODE_OF_CONDUCT, .github/, GitHub Actions
@@ -132,6 +136,24 @@ Wichtigste verbleibende Lücken: Tradução DE 100%; Comunidade-Aufbau; Peer-Rev
 - Track C (Fachsprache, 3 Sub-Tracks) → ✅ v2.5 implementiert.
 - Track D (Mentoring + DaF-Lehre) → ✅ v2.5 implementiert.
 - IDS-Korpora API-Integration (SN-017) → v3.0+ (abhängig von API-Verfügbarkeit).
+
+---
+
+## v3.0 — 2026-05-10: MAJOR — Tradução DE Stage 1+2 vollständig + Multilingual + Comunidade/Peer-Review/AnkiWeb-Governance (DONE)
+
+```
+✅ Tradução DE Stage 1 alle 10 Module (9 neue + 01-01 aus v2.5)
+✅ Tradução DE Stage 2 alle 9 Module (8 neue + 02-01 aus v2.5)
+✅ Tradução DE jetzt ~50% framework cumulative
+✅ Multilingual: INDEX-EN (English parallel) + README-ES + README-FR
+✅ ANKI-EXPORT-GUIDE.md: AnkiWeb-Publishing-Workflow + Python-Konversions-Skript
+✅ COMMUNITY-GUIDELINES.md: Discord/Matrix governance + Lesegruppen + Cohort-Programme
+✅ PEER-REVIEW-PROTOCOL.md: DE-Linguisten-Validierung-Protokoll + Akquisitions-Strategien
+✅ INDEX header umfassend erweitert (Tradução DE + Multilingual + Comunidade Sektionen)
+✅ SN-008 partial enhanced extended; SN-009 enhanced; SN-010 + SN-013 partial start
+```
+
+**v3.0+ operationaler Schritt** (~Q3-Q4 2026): Discord-Server tatsächlich aufbauen + AnkiWeb-Decks tatsächlich publizieren + 3-5 Peer-Reviewer akquirieren.
 
 ---
 

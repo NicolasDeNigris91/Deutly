@@ -267,4 +267,12 @@ Detalhes da progressão em [CAPSTONE-EVOLUTION.md](CAPSTONE-EVOLUTION.md).
 
 **Cumulativo após v2.5:** **75 módulos + 11 capstones** (Stage 1-5: 46 Mod. + 5 Caps. + Stage 6: 29 Mod. + 6 Caps.).
 
-**Tradução paralela DE** (5 Module-Adaptationen v2.5): [01-01-de](../01-fundamente/01-01-syntaktische-analyse-de.md) · [02-01-de](../02-struktur/02-01-subordination-de.md) · [03-07-de](../03-stil/03-07-wissenschaftliches-schreiben-de.md) · [04-10-de](../04-system/04-10-hermeneutik-de.md) · [05-04-de](../05-meisterschaft/05-04-eigene-stimme-de.md). Plus: INDEX-DE + MENTOR-DE + STUDY-PROTOCOL-DE + BEGRIFFS-GLOSSAR (bereits in DE).
+**Tradução paralela DE** (vollständig Stage 1 + 2 + Schlüssel-Module Stage 3-5; v3.0):
+- **Stage 1 alle 10 Module DE**: [01-01-de](../01-fundamente/01-01-syntaktische-analyse-de.md) · [01-02-de](../01-fundamente/01-02-kasussystem-de.md) · [01-03-de](../01-fundamente/01-03-verbalsystem-de.md) · [01-04-de](../01-fundamente/01-04-nominalflexion-de.md) · [01-05-de](../01-fundamente/01-05-pronominalsystem-de.md) · [01-06-de](../01-fundamente/01-06-wortbildung-de.md) · [01-07-de](../01-fundamente/01-07-negation-modalpartikeln-de.md) · [01-08-de](../01-fundamente/01-08-phonetik-de.md) · [01-09-de](../01-fundamente/01-09-grundwortschatz-de.md) · [01-10-de](../01-fundamente/01-10-konversation-de.md).
+- **Stage 2 alle 9 Module DE**: [02-01-de](../02-struktur/02-01-subordination-de.md) · [02-02-de](../02-struktur/02-02-konjunktiv-1-de.md) · [02-03-de](../02-struktur/02-03-konjunktiv-2-de.md) · [02-04-de](../02-struktur/02-04-passivkonstruktionen-de.md) · [02-05-de](../02-struktur/02-05-infinitivsaetze-de.md) · [02-06-de](../02-struktur/02-06-funktionsverbgefuege-de.md) · [02-07-de](../02-struktur/02-07-modalverben-de.md) · [02-08-de](../02-struktur/02-08-topik-fokus-de.md) · [02-09-de](../02-struktur/02-09-lexik-2-de.md).
+- **Schlüssel-Module Stage 3-5**: [03-07-de](../03-stil/03-07-wissenschaftliches-schreiben-de.md) · [04-10-de](../04-system/04-10-hermeneutik-de.md) · [05-04-de](../05-meisterschaft/05-04-eigene-stimme-de.md).
+- **Plus**: INDEX-DE + MENTOR-DE + STUDY-PROTOCOL-DE + BEGRIFFS-GLOSSAR (bereits in DE) + alle 29 Stage-6-Module nativ DE.
+
+**Multilingual** (v3.0): [INDEX-EN](INDEX-EN.md) (English parallel) + [README-EN](../../README-EN.md) + [README-ES](../../README-ES.md) (Edición española) + [README-FR](../../README-FR.md) (Édition française).
+
+**Comunidade + Peer-Review** (v3.0): [ANKI-EXPORT-GUIDE](ANKI-EXPORT-GUIDE.md) (AnkiWeb-Publishing) · [COMMUNITY-GUIDELINES](COMMUNITY-GUIDELINES.md) (Discord/Matrix governance + Lesegruppen + Cohort-Programme) · [PEER-REVIEW-PROTOCOL](PEER-REVIEW-PROTOCOL.md) (DE-Linguisten-Validierung).

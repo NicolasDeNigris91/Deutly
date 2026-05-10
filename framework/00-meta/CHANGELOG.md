@@ -4,6 +4,117 @@
 
 ---
 
+## v3.0 — 2026-05-10 — MAJOR: Tradução DE Stage 1+2 vollständig + Multilingual (EN/ES/FR) + Comunidade-/Peer-Review-Governance + AnkiWeb-Export-Guide
+
+**MAJOR VERSION BUMP.** v3.0 markiert die Vollständigkeit der internationalen Erschließung des Frameworks: alle Stage-1+2-Module ins DE adaptiert; English INDEX + Spanish/French READMEs; AnkiWeb-Publishing-Anleitung + Comunidade-Governance + Peer-Review-Prozess dokumentiert.
+
+### Adicionado
+
+#### Tradução DE — Stage 1 alle 10 Module + Stage 2 alle 9 Module (17 neue Adaptationen)
+
+**Stage 1 (9 neue Adaptationen; ergänzt 01-01-de aus v2.5):**
+- 01-02-de Kasussystem.
+- 01-03-de Verbalsystem (Konjugation + Hilfsverb-Wahl + Trennbarkeit).
+- 01-04-de Nominalflexion (Genus + Plural + Adjektivdeklination 3 Patterns).
+- 01-05-de Pronominalsystem (5 Pron-Klassen + Tabellen).
+- 01-06-de Wortbildung (Komposition 4 Klassen + Derivation Suffixe).
+- 01-07-de Negation + Modalpartikeln Grundlagen.
+- 01-08-de Phonetik (Auslautverhärtung + /r/-Distribution + /x/-/ç/ + Knacklaut + Vokal-Längen).
+- 01-09-de Grundwortschatz (~2000 Lemmata + Anki-Aufbau-Strategie).
+- 01-10-de Konversation Stage 1 (Tandem-Praxis + Replik-Frasen + Modalpartikel-Reaktivierung).
+
+**Stage 2 (8 neue Adaptationen; ergänzt 02-01-de aus v2.5):**
+- 02-02-de Konjunktiv I (indirekte Rede + Synkretismus-Lösung).
+- 02-03-de Konjunktiv II (Irrealis + Höflichkeit + würde-Periphrase).
+- 02-04-de Passivkonstruktionen (3 Passive + Modal+Passiv + Ersatzformen).
+- 02-05-de Infinitivsätze (zu-Regel + um zu/damit + AcI).
+- 02-06-de Funktionsverbgefüge (Vollverb-Äquivalente + Domänen).
+- 02-07-de Modalverben (deontisch vs. epistemisch + epistemische Skala).
+- 02-08-de Topik-Fokus-Struktur (Vorfeldwahl + Mittelfeld-Default + Skrambling + Akzent-Fokus).
+- 02-09-de Lexik II (akademische Konnektoren + Argumentations-Verben gradiert + Kollokationen wissenschaftlich).
+
+**Format**: konzise DE-Adaptationen (~1500-2500W); strukturell parallel zum PT-BR-Original; PT-BR bleibt Referenz.
+
+**Cumulativo Tradução DE jetzt**: alle Stage 1+2 (19 Module) + Schlüssel-Module Stage 3-5 (3) + alle 29 Stage-6-Module nativ DE + 4 Meta-Docs DE + BEGRIFFS-GLOSSAR DE = ~50% framework cumulative.
+
+#### Multilingual — EN + ES + FR
+
+- **INDEX-EN.md** (`framework/00-meta/`): English parallel translation des INDEX. Vollständige Tabelle aller 5 Stages × 46 Modules + 7 Capstones + Stage 6 mit allen 4 Tracks. Hinweise zur Konsultation auf Englisch + Sequenz der Multilingual-Erweiterung.
+- **README-ES.md** (raiz): Edición española del README — Marco de Adquisición de Alemán C2+ para hispanohablantes adultos. Estructura del marco + Filosofía + Cómo empezar + Licencia + Comunidad.
+- **README-FR.md** (raiz): Édition française du README — Cadre d'Acquisition de l'Allemand C2+ pour francophones adultes. Structure + Philosophie + Comment commencer + Licence + Communauté.
+
+#### Operational + Governance
+
+- **ANKI-EXPORT-GUIDE.md** (`framework/00-meta/`): vollständige Anleitung zur Konversion der Anki-Starter-Decks ins AnkiWeb-Publishable-Format + Publishing-Workflow. Python-Skript für Markdown→TSV-Konversion. Deck-Hierarchie-Empfehlungen. Cloze-Karten-Spezialbehandlung. **Resolve SN-009 enhanced** (AnkiWeb-Deck-Publikations-Workflow dokumentiert).
+
+- **COMMUNITY-GUIDELINES.md** (`framework/00-meta/`): Governance + Verhaltensrichtlinien für FATHOM-Deutsch-Comunidade. Hauptkanäle (Discord/Matrix geplant + GitHub Discussions aktiv + Cohort-Tracking-System Vision). Verhaltens-Richtlinien (intellektueller Fokus + Rigor über Brand + Honestidade über Niveau). Lesegruppen + Cohort-Programme + jährliche Online-Konferenz Vision. Beiträge zur Framework-Entwicklung. Forschung + wissenschaftliche Veröffentlichung. Mantenedor-Verantwortung. Krisensituationen. **Resolve SN-013 partial start** (Comunidade-Aufbau dokumentiert).
+
+- **PEER-REVIEW-PROTOCOL.md** (`framework/00-meta/`): Protokoll zur systematischen Peer-Review durch externe DE-Linguisten/Germanisten/DaF-Spezialisten. Reviewer-Profile + Akquisitions-Strategien + Anreize. Strukturierter Review-Bogen (10 Sektionen + 5-Stufen-Empfehlung). Implementations-Workflow + Konflikt-Management zwischen Reviewern. Hochpriorität-Review-Bedarfsfelder (Stage 4 + Stage 5 + Stage 6 Tracks). Akquisitions-Anschreiben-Beispiele (akademisch + DaF-Lehrer). **Resolve SN-010 partial start** (Peer-Review-Validierung dokumentiert).
+
+### Resolvido (SN-Items)
+
+| SN | Prio | Tipo | Título | Status |
+|---|---|---|---|---|
+| SN-008 | P2 | experimento | Tradução DE | **Partial enhanced extended** (~50% framework; alle Stage 1+2 Module + Stage 6 + 4 Meta-Docs) |
+| SN-009 | P2 | expansão | Anki-Decks pré-construídos | **Enhanced** (AnkiWeb-Publishing-Workflow dokumentiert; Decks bereit) |
+| SN-010 | P2 | experimento | Peer-Review-Validierung | **Partial start** (Protokoll + Workflow dokumentiert; Reviewer-Akquisition kann beginnen) |
+| SN-013 | P3 | experimento | Comunidade ativa | **Partial start** (COMMUNITY-GUIDELINES + Discord/Matrix-Kanal-Inventar geplant) |
+
+### Estatísticas v3.0
+
+```
+Arquivos novos:                                 25
+  Tradução DE Stage 1:                          9 (01-02 a 01-10)
+  Tradução DE Stage 2:                          8 (02-02 a 02-09)
+  INDEX-EN:                                     1 (English parallel)
+  README-ES:                                    1 (Edición española)
+  README-FR:                                    1 (Édition française)
+  ANKI-EXPORT-GUIDE:                            1 (AnkiWeb-Publishing)
+  COMMUNITY-GUIDELINES:                         1 (Comunidade-Governance)
+  PEER-REVIEW-PROTOCOL:                         1 (Linguisten-Validierung)
+  
+Arquivos modificados:                            5
+  INDEX.md (Tradução DE Sektion vollständig + Multilingual + Comunidade)
+  + 4 meta-docs (CHANGELOG, RELEASE-NOTES, SPRINT-NEXT, ROADMAP)
+
+Cumulativo (após v3.0):
+  Module total:                                  75 (Stage 1-5: 46 + Stage 6: 29)
+  Capstones encadeados:                          11 (5 Stage 1-5 + 6 Stage 6)
+  Capstone-Exemplares:                            5 (Aufklärung complete)
+  Anhänge:                                       12 (A-L)
+  Trilhas:                                        7
+  Anki cards Stages 1-5:                         ~2900 (AnkiWeb-Publishing-bereit)
+  Self-test Übungen Stages 1-5:                   150
+  Tradução DE:                                    ~50% framework (alle Stage 1+2 + Schlüssel Stage 3-5 + alle Stage 6 + Meta-Docs + BEGRIFFS-GLOSSAR)
+  Multilingual:                                   INDEX-EN + READMEs DE/EN/ES/FR
+  Comunidade-Aufbau:                              dokumentiert (Discord/Matrix geplant)
+  Peer-Review:                                    Protokoll dokumentiert
+```
+
+### Honestidade pedagógica
+
+v3.0 markiert die **internationale Erschließungs-Vollständigkeit** des Frameworks. Aluno hat agora:
+
+- **PT-BR-Original** für muttersprachliche Lerner.
+- **DE-Adaptationen** für C1+ immersive Konsultation (~50% framework).
+- **EN INDEX** für internationale Lerner.
+- **ES + FR README-Intros** für hispano- + frankophone Lerner-Akquisition.
+- **AnkiWeb-Publishing-Workflow** für direkten Anki-Import.
+- **Comunidade-Governance** für sustained Comunidade-Aufbau.
+- **Peer-Review-Protokoll** für externe Validierung.
+
+**Wichtigste verbleibende Lücken nach v3.0:**
+- Tradução DE 100% (Stage 3-5 verbleibende ~25 Module + Anhänge + Templates) → v4.0+.
+- Vollständige EN-Übersetzung des Frameworks → v4.0+.
+- ES/FR-Übersetzungen partielle (mehr als nur READMEs) → v4.0+.
+- AnkiWeb-Decks tatsächlich publiziert (nicht nur Workflow dokumentiert) → praktischer Schritt.
+- Discord/Matrix-Server tatsächlich aufgebaut (nicht nur Governance dokumentiert) → praktischer Schritt.
+- 3-5 Peer-Reviews tatsächlich durchgeführt (nicht nur Protokoll dokumentiert) → praktischer Schritt.
+
+v3.0+ (operationaler Schritt) wird die "tatsächliche Operation" der dokumentierten Strukturen umfassen — Server aufbauen, Decks publizieren, Reviewer akquirieren.
+
+---
+
 ## v2.5 — 2026-05-10 — Stage 6 vollständig (Tracks C + D) + Tradução DE Module-Adaptation
 
 ### Adicionado

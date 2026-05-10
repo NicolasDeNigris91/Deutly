@@ -4,6 +4,135 @@
 
 ---
 
+## v3.0 — MAJOR RELEASE: Tradução DE Stage 1+2 vollständig + Multilingual + Comunidade/Peer-Review/AnkiWeb-Governance (2026-05-10)
+
+### Eixos da release
+
+**MAJOR VERSION BUMP.** v3.0 markiert die internationale Erschließungs-Vollständigkeit. Aluno hat agora:
+- DE-Adaptation aller Stage-1+2-Module (vollständig).
+- English INDEX + Spanish/French READMEs für internationale Reichweite.
+- Operational Workflows für AnkiWeb-Publishing + Comunidade-Aufbau + Peer-Review.
+
+### Conteúdo novo
+
+#### Tradução DE — Stage 1+2 vollständig (17 neue Adaptationen)
+
+**Stage 1**: 9 neue Adaptationen (01-02 bis 01-10) ergänzen 01-01 aus v2.5 → **alle 10 Module Stage 1 in DE-Adaptation verfügbar**.
+
+**Stage 2**: 8 neue Adaptationen (02-02 bis 02-09) ergänzen 02-01 aus v2.5 → **alle 9 Module Stage 2 in DE-Adaptation verfügbar**.
+
+**Format**: konzise DE-Adaptationen (~1500-2500W); strukturell parallel zum PT-BR-Original; PT-BR bleibt Referenz bei Inkonsistenzen.
+
+**Cumulativo**: ~50% framework jetzt in DE.
+
+#### Multilingual — INDEX-EN + README-ES + README-FR
+
+**INDEX-EN** (`framework/00-meta/INDEX-EN.md`): Vollständige English-Übersetzung des INDEX. 5 Stages × 46 Module + Stage 6 mit allen 4 Tracks + Capstone-Sequenz + Hinweise zur Konsultation auf Englisch + Sequenz der Multilingual-Erweiterung.
+
+**README-ES** (`README-ES.md`): Edición española. Marco de Adquisición de Alemán C2+ para hispanohablantes adultos. Estructura del marco + Filosofía pedagógica + Cómo empezar + Licencia + Comunidad. ~1500W.
+
+**README-FR** (`README-FR.md`): Édition française. Cadre d'Acquisition de l'Allemand C2+ pour francophones adultes. Structure + Philosophie + Comment commencer + Licence + Communauté. ~1500W.
+
+#### ANKI-EXPORT-GUIDE
+
+`framework/00-meta/ANKI-EXPORT-GUIDE.md`. Vollständige Anleitung:
+
+- **Konversions-Pipeline**: Markdown-Quelltext → Python-Skript (anki-tsv-converter.py) → TSV → Anki Desktop Import.
+- **Deck-Hierarchie**: empfohlene Anki-Struktur (FATHOM-Deutsch::Stage-X-NAME::Modul-XX).
+- **AnkiWeb-Publishing-Workflow**: Konto-Erstellung + Deck-Vorbereitung + Publishing + Versions-Management.
+- **Naming-Konvention** für AnkiWeb-Decks.
+- **Cloze-Karten-Spezialbehandlung**.
+- **Lerner-Empfehlung**: Starter-Deck als Bauplan, nicht Substitut.
+
+#### COMMUNITY-GUIDELINES
+
+`framework/00-meta/COMMUNITY-GUIDELINES.md`. Governance für FATHOM-Deutsch-Comunidade:
+
+- **Hauptkanäle**: Discord (geplant; 11 Kanäle) + Matrix-Alternative + GitHub Discussions (aktiv) + Cohort-Tracking-Repos.
+- **Verhaltens-Richtlinien**: intellektueller Fokus + Rigor über Brand + Honestidade über Niveau + Sprachen PT/DE/EN.
+- **Verbotene Verhalten**: Plagiat + Spam + Belästigung + Politik-Polemik + AI-Output als eigen.
+- **Mentoring-Konventionen** + Aufsatz-Feedback-Konventionen.
+- **Lesegruppen** (Adorno + Habermas + Hegel + Heidegger + FAZ-Feuilleton).
+- **Cohort-Programme** (Stage-spezifisch + CAPSTONE-projektorientiert).
+- **Jährliche Online-Konferenz** (Vision v3.5+).
+- **Beiträge zur Framework-Entwicklung** + Forschungs-Verwendung.
+- **Mantenedor-Verantwortung** + Krisensituationen.
+
+#### PEER-REVIEW-PROTOCOL
+
+`framework/00-meta/PEER-REVIEW-PROTOCOL.md`. Protokoll für externe DE-Linguisten-Validierung:
+
+- **Reviewer-Profile**: Wunsch-Profil (Native DE + 5+ Jahre + Universitäts-/Goethe-Affiliation) + Akquisitions-Strategien + Anreize.
+- **Strukturierter Review-Bogen**: 10 Sektionen + 5-Stufen-Empfehlungs-Klassifikation.
+- **Implementations-Workflow**: Triage → Implementierung → Anerkennung in CHANGELOG/RELEASE-NOTES/PEER-REVIEW-Verzeichnis.
+- **Konflikt-Management** zwischen Reviewern via DECISION-LOG.
+- **Hochpriorität-Review-Bedarfsfelder**: Stage 4 + Stage 5 + Stage 6 Tracks A/B/C/D.
+- **Akquisitions-Anschreiben-Beispiele**: akademisch + DaF-Lehrer-spezifisch.
+- **Publikations-Vision**: gemeinsamer Aufsatz "FATHOM-Deutsch — Methodologische Reflexion" mit ausgewählten Reviewern.
+
+### Modificado
+
+#### INDEX.md aktualisiert
+
+Tradução DE Sektion vollständig (alle Stage 1+2 + Schlüssel Stage 3-5 + Stage 6 + Meta-Docs).
+
+Multilingual Sektion neu: INDEX-EN + README-DE/EN/ES/FR.
+
+Comunidade + Peer-Review Sektion neu: ANKI-EXPORT-GUIDE + COMMUNITY-GUIDELINES + PEER-REVIEW-PROTOCOL.
+
+### Estatísticas v3.0
+
+```
+Arquivos novos:                                 25
+  Tradução DE Stage 1:                          9
+  Tradução DE Stage 2:                          8
+  Multilingual (EN + ES + FR):                  3
+  Operational + Governance:                     3 (Anki + Comunidade + Peer-Review)
+
+Arquivos modificados:                            5
+  INDEX.md (umfassend erweitert)
+  + 4 meta-docs
+
+Cumulativo (após v3.0):
+  Module total:                                  75 (Stage 1-5: 46 + Stage 6: 29)
+  Capstones encadeados:                          11
+  Capstone-Exemplares:                            5
+  Anki cards (AnkiWeb-bereit):                  ~2900
+  Self-test Übungen:                             150
+  Tradução DE:                                   ~50% framework
+  Multilingual:                                  EN INDEX + READMEs PT/DE/EN/ES/FR
+  Comunidade-Governance:                         dokumentiert
+  Peer-Review-Protokoll:                         dokumentiert
+  AnkiWeb-Workflow:                              dokumentiert
+```
+
+### SN-Items resolvidos
+
+- **SN-008** [P2] Tradução DE → **Partial enhanced extended** (~50% framework).
+- **SN-009** [P2] Anki-Decks → **Enhanced** (AnkiWeb-Publishing-Workflow dokumentiert; Decks bereit).
+- **SN-010** [P2] Peer-Review-Validierung → **Partial start** (Protokoll + Workflow dokumentiert).
+- **SN-013** [P3] Comunidade ativa → **Partial start** (COMMUNITY-GUIDELINES + Discord/Matrix-Inventar geplant).
+
+### Backlog imediato (cf. SPRINT-NEXT.md)
+
+**v3.0+ (operationaler Schritt)**:
+- AnkiWeb-Decks tatsächlich publizieren (5 Decks für Stages 1-5).
+- Discord/Matrix-Server tatsächlich aufbauen + Einladungslinks publizieren.
+- 3-5 Peer-Reviewer akquirieren + erste Reviews einsammeln.
+
+**v4.0 (planejado ~2028)**:
+- Tradução DE 100% (Stage 3-5 verbleibende ~25 Module + alle Anhänge + alle Templates).
+- Vollständige EN-Übersetzung der Module Stage 1-5 + Anhänge.
+- ES/FR-Übersetzungen mehr als nur READMEs.
+- IDS-Korpora API-Integration (SN-017; abhängig von API-Verfügbarkeit).
+- Stage 7 Konzept (Beitragender-Stage).
+
+### Migration v2.5 → v3.0
+
+Für Lerner mit v2.5: keine Migration nötig. v3.0 ist additiv (DE-Adaptationen + Multilingual + Governance neu); Stages 1-6 unverändert.
+
+---
+
 ## v2.5 — Stage 6 vollständig (Tracks C + D) + Tradução DE Module-Adaptation (2026-05-10)
 
 ### Eixos da release

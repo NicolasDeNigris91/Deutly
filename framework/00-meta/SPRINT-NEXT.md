@@ -139,14 +139,14 @@ Tipos:
 
 **Estimativa:** 200-400 horas (massivo).
 
-**Status:** **Partial enhanced** (v2.5, 2026-05-10). Cumulativo:
+**Status:** **Partial enhanced extended** (v3.0, 2026-05-10). Cumulativo:
 - 3 Meta-Docs DE (INDEX + MENTOR + STUDY-PROTOCOL) seit v1.7-v1.8.
 - BEGRIFFS-GLOSSAR.md vollständig DE seit v1.3.
 - Stage 6 alle 29 Module + 6 Capstones nativ DE seit v2.0/v2.5.
-- 5 Stage-1-5-Module-Adaptationen DE neu in v2.5: 01-01-de, 02-01-de, 03-07-de, 04-10-de, 05-04-de.
+- **Stage 1 alle 10 Module + Stage 2 alle 9 Module DE-Adaptationen** seit v3.0 (zusätzlich zu 5 Schlüsselmodulen Stage 1-5 aus v2.5).
 
-Quote tradução DE atual: ~25% framework. Sequenz weiter:
-- v3.0: alle restlichen Stage-1-5-Module + Anhänge + Templates ins DE (~75% verbleibend).
+Quote tradução DE atual: **~50% framework**. Sequenz weiter:
+- v4.0: Stage 3-5 verbleibende ~25 Module + alle 12 Anhänge + alle 8 Templates ins DE (~50% verbleibend).
 
 **Riscos:** Perder acessibilidade para aluno iniciante PT-falante. Mitigação: manter PT-BR como tradução paralela; alle DE-Übersetzungen markieren explizit "PT-BR bleibt Referenz bei Inkonsistenzen".
 
@@ -407,10 +407,23 @@ v2.5 — 2026-05-10 — STAGE 6 KOMPLETT (Tracks C + D)        [feito]
                     + Tradução DE 5 Module-Adaptationen
                     + SN-016 DONE (Stage 6 alle 4 Tracks)
                     + SN-008 partial enhanced (~25% Tradução DE)
-v3.0 — ~2027-12  — Tradução DE 100% + Multilingual         [planejado]
-                    (EN/ES/FR-Übersetzungen) +
-                    Akademie-Kooperationen + AnkiWeb-Deck +
-                    Comunidade Discord/Matrix + Peer-Review.
+v3.0 — 2026-05-10 — MAJOR: TRADUÇÃO DE STAGE 1+2 +         [feito]
+                    MULTILINGUAL (EN/ES/FR) +
+                    COMUNIDADE/PEER-REVIEW/ANKIWEB-GOVERNANCE
+                    + 17 Stage 1+2 Module-Adaptationen DE
+                    + INDEX-EN + README-ES + README-FR
+                    + ANKI-EXPORT-GUIDE + COMMUNITY-GUIDELINES
+                    + PEER-REVIEW-PROTOCOL
+                    + SN-008 partial enhanced extended (~50%)
+                    + SN-009 enhanced (AnkiWeb-Workflow)
+                    + SN-010 partial start (Peer-Review-Protokoll)
+                    + SN-013 partial start (Comunidade-Governance)
+v3.0+ ~2026-Q3-Q4 — operational: Discord-Server aufbauen,    [praktisch]
+                    AnkiWeb-Decks publizieren, 3-5 Peer-Reviewer
+                    akquirieren.
+v4.0 — ~2028     — Tradução DE 100% + EN-vollständig +     [planejado]
+                    ES/FR-erweitert + IDS-API-Integration +
+                    Stage 7 Konzept (Beitragender-Stage).
 v2.0 — ~2028-12  — Comunidade + CAPSTONE-4/5 exemplares     [planejado]
                     + Stage 6 vollständig (4 Tracks)
 v2.5 — ~2029-12  — Feedback-Loop + Tradução DE 100%          [planejado]
