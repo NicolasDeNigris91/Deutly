@@ -139,9 +139,9 @@ Tipos:
 
 **Estimativa:** 200-400 horas (massivo).
 
-**Status:** Backlog.
+**Status:** **Partial start** (v1.7, 2026-05-09). **INDEX-DE.md done** em [`framework/00-meta/INDEX-DE.md`](INDEX-DE.md) — vollständige paralela Übersetzung des INDEX. Sequenz weiter: v1.8 MENTOR.md + STUDY-PROTOCOL.md em DE; v2.5 alle Module + Anhänge + Templates.
 
-**Riscos:** Perder acessibilidade para aluno iniciante PT-falante. Mitigação: manter PT-BR como tradução paralela.
+**Riscos:** Perder acessibilidade para aluno iniciante PT-falante. Mitigação: manter PT-BR como tradução paralela; INDEX-DE.md markiert explizit "PT-BR bleibt Referenz bei Inkonsistenzen".
 
 ---
 
@@ -160,7 +160,7 @@ Total: ~8000 cards organizados por Stage / módulo / domínio.
 
 **Estimativa:** 100-200 horas + manutenção contínua.
 
-**Status:** **Partial enhanced** (v1.6, 2026-05-09). **Stage 1 done** em v1.4 (~500 cards). **Stage 2 done** em v1.6 (~700 cards) em [`framework/00-meta/ANKI-STARTER-DECK-STAGE-2.md`](ANKI-STARTER-DECK-STAGE-2.md). Stages 3-5 enfileirados para v1.7-v1.9 (~700 + ~600 + ~400 cards). Total cumulativo após v2.0: ~2900 cards Stage 2-5 + ~500 Stage 1 = ~3400 cards.
+**Status:** **Partial enhanced** (v1.7, 2026-05-09). **Stage 1 done** em v1.4 (~500 cards). **Stage 2 done** em v1.6 (~700 cards) em [`ANKI-STARTER-DECK-STAGE-2.md`](ANKI-STARTER-DECK-STAGE-2.md). **Stage 3 done** em v1.7 (~700 cards) em [`ANKI-STARTER-DECK-STAGE-3.md`](ANKI-STARTER-DECK-STAGE-3.md). Stages 4-5 enfileirados para v1.8-v1.9 (~600 + ~400 cards). Total cumulativo até v2.0: ~2900 cards Stage 2-5 + ~500 Stage 1 = ~3400 cards.
 
 **Riscos:** Cards prontos podem incentivar aluno a NÃO construir cards próprios — perdendo personalisierung. Mitigação: documentar deck como starter, não substituto.
 
@@ -359,9 +359,11 @@ v1.6 — 2026-05-09 — STAGE-2-APPARAT + KONSISTENZ-AUDITORIA: [feito]
                     com 01-10 + 03-10 + Caminho E
                     + SN-005 sistemático done (cross-refs, 1 fix)
                     + SN-006 sistemático done (66 dash-fixes)
-v1.7 — ~2026-06  — Stage-3-Apparat + Tradução DE INDEX:     [planejado]
+v1.7 — 2026-05-09 — STAGE-3-APPARAT + TRADUÇÃO DE INDEX:    [feito]
                     Anki Stage 3 (~700 cards) + Self-test 
-                    Stage 3 (~30 Übungen) + INDEX em DE.
+                    Stage 3 (~30 Übungen) + INDEX-DE.md
+                    + SN-008 partial start
+                    + SN-009 partial enhanced (Stages 1+2+3)
 v1.8 — ~2026-09  — Stage-4-Apparat + Tradução DE meta:      [planejado]
                     Anki Stage 4 (~600 cards) + Self-test 
                     Stage 4 + MENTOR + STUDY-PROTOCOL em DE.

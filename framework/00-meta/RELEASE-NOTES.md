@@ -4,6 +4,87 @@
 
 ---
 
+## v1.7 — Empirische Erweiterung Stage 3 + Tradução DE INDEX (2026-05-09)
+
+### Eixos da release
+
+Eleva v1.6 (Stage-2-Apparat + Konsistenz-Auditoria) para v1.7 (**operacionalidade aprofundada Stage 3 + abertura da frente Tradução DE**: 2 dossiês operacionais Stage-3 + 1 tradução paralela INDEX em DE).
+
+### Motivação
+
+v1.6 entregou Stage-2-Apparat. v1.7 estende o mesmo padrão para Stage 3 (estilística + pragmatik + Modalpartikel-Saturation + Wissenschaftsdeutsch + Hörverstehen colloquial). Em paralelo, abre a frente de tradução DE prevista em SN-008: INDEX-DE.md como primeiro arquivo paralelo, permitindo que aluno C1+ navegue o framework em modo imersivo.
+
+### Conteúdo novo
+
+#### ANKI-STARTER-DECK-STAGE-3 (~700 cards)
+
+10 Modul-Sektionen com cards exemplares por sub-tópico + Cross-Module-Karten + Stage-3-Cloze-Diagnose:
+
+- **03-01 Nominaler vs. verbaler Stil** (~70): Stil-Identifikation, Substantivierungs-Pipeline (-ung/-nis/-heit/-keit/-schaft/-ität), Stil-Transformation Verbal↔Nominal.
+- **03-02 Register** (~80): Register-Identifikation (Hochsprache/Umgangssprache/Fachsprache/Bürokratisch), Plurizentrik DE/AT/CH (Tomate/Paradeiser/—; Aprikose/Marille/—; Sahne/Obers/Rahm; Fahrrad/Velo; Frühstück/Zmorge), Soziolekt-Marker (Jugendsprache, Beamtendeutsch, Kiezdeutsch).
+- **03-03 Idiomatik** (~80): Redewendungen alltagssprachlich (~25 Beispiele), Sprichwörter, Geflügelte Worte (Goethe/Nietzsche/Marx), Routineformeln pragmatisch.
+- **03-04 Pragmatik** (~70): 5 Sprechakt-Klassen (Searle), Grice-Implikatur (4 Maxime), Brown/Levinson Höflichkeitstheorie (Face + 5 Strategien), Deixis-Klassen.
+- **03-05 Modalpartikeln saturation** (~80): doch/ja/halt/eben/denn/mal/eigentlich + Funktion + Stellung + Cluster + PT-Übersetzbarkeits-Risiken.
+- **03-06 Stilfiguren** (~80): Stilfigur-Identifikation, Adorno-typisch (Hyperbaton + Konstellation), Heidegger-typisch (Hyphenkomposita + Re-Etymologisierung), Bernhard-typisch (Polysyndeton + Modalpartikel-Saturation).
+- **03-07 Wissenschaftliches Schreiben** (~80): akademische Architektur, Argumentations-Architektur, Zitiertechnik (klassisch + Harvard), Stilmarker akademisch + No-Gos.
+- **03-08 Journalistischer Stil** (~70): Genre-Identifikation (Nachricht/Reportage/Feature/Kommentar/Glosse/Leitartikel), Konj.-I in Journalistik, Stilmittel feuilletonistisch, Boulevard vs. Qualität.
+- **03-09 Lexik III geisteswissenschaftlich** (~90): Begriffs-Definition (Aufklärung/Bildung/Dasein/Geist), etymologische Pfeifer-Notation, Sub-Tradition (Vernunft/Sprache/Geschichte).
+- **03-10 Hörverstehen colloquial** (~80): Hörverstehens-Pyramide 5 Stufen, Klitisierungen (kannste/willste/isses/haste), Tempo + Akzent, methodische Phasen (untertitelt → halbblind → blind → Shadowing).
+
+Plus Cross-Module-Karten + Stage-Final-Cloze-Diagnose.
+
+#### SELF-TEST-BANK-STAGE-3 (30 Übungen + 1 Aufsatz-Diagnose)
+
+Para cada Modul: 1 ★ (einfach) + 1 ★★ (mittel) + 1 ★★★ (schwierig) Übung. Plus 2 Cross-Module + 1 Stage-Final-Aufsatz (~250W) zum Selbst-Diagnostizieren der Stage-3-Reife für CAPSTONE-3.
+
+Schwierigkeit-Beispiele:
+- ★ Modul 03-01: Stil-Identifikation in 4 Sätzen.
+- ★★ Modul 03-04: Implikatur-Analyse mit Grice-Maxime.
+- ★★★ Modul 03-09: Begriffs-Identifikation + Tradition in Adorno-Beleg.
+- Stage-Final ★★★: ~250W Aufsatz mit ≥ 3 Stilfiguren + ≥ 3 Modalpartikeln + ≥ 2 Begriffe Lexik III + ≥ 2 akademische Konnektoren + ≥ 1 Konj.-II + ≥ 1 idiomatische Wendung.
+
+#### INDEX-DE.md (Tradução paralela)
+
+- Vollständige Übersetzung von INDEX.md ins Deutsche.
+- Bewahrt Struktur (Stages 1-5 + 5 Capstones + DAG textual + Mermaid + Capstone-Erkenntnisprojekt).
+- Adaptiert PT-spezifische Begriffe ins DE (e.g., "Saída esperada" → "Erwartete Ausgabe"; "Tese" → "These").
+- Markiert Status: Erstübersetzung v1.7; PT-BR bleibt Referenz bei Inkonsistenzen.
+- Sektion neu: "Hinweise zur Konsultation in deutscher Sprache" — beschreibt Zielgruppe (C1+ immersiv; Tandem; Wissenschaftsdeutsch-Übergang) + Sequenz der Erweiterung (v1.7 INDEX → v1.8 MENTOR + STUDY-PROTOCOL → v2.5 alle Module).
+
+### Estatísticas v1.7
+
+```
+Arquivos novos:                                  3
+  ANKI-STARTER-DECK-STAGE-3.md                    1 (~700 cards)
+  SELF-TEST-BANK-STAGE-3.md                       1 (~30 Übungen)
+  INDEX-DE.md                                     1 (tradução DE paralela)
+  
+Arquivos modificados:                            5
+  INDEX.md (header)
+  + 4 meta-docs (CHANGELOG, RELEASE-NOTES, SPRINT-NEXT, ROADMAP)
+
+Cumulativo (após v1.7):
+  Anki Stages 1+2+3:                             ~1900 cards
+  Self-Test Stages 1+2+3:                          90 Übungen
+  Tradução DE:                                     INDEX (~5%)
+  Module total:                                    46 (unverändert)
+  Anhänge:                                         12 (unverändert)
+  Trilhas:                                          7 (unverändert)
+```
+
+### SN-Items resolvidos
+
+- **SN-008** [P2] [experimento] Tradução DE → **Partial start** (INDEX done; MENTOR + STUDY-PROTOCOL em v1.8)
+- **SN-009** [P2] [expansão] Anki Stages 2-5 → **Partial enhanced** (Stages 1+2+3 done; 4-5 em v1.8-v1.9)
+
+### Backlog imediato (cf. SPRINT-NEXT.md)
+
+- **v1.8** (~próxima sessão): Anki + Self-test Stage 4 (~600 cards + ~30 Übungen) + Tradução DE MENTOR + STUDY-PROTOCOL.
+- **v1.9**: Anki + Self-test Stage 5 (~400 cards + ~30 Übungen) + CAPSTONE-4 exemplar.
+- **v2.0**: CAPSTONE-5 exemplar + Stage 6 Tracks A + B vollständig.
+
+---
+
 ## v1.6 — Empirische Erweiterung Stage 2 + Konsistenz-Auditoria (2026-05-09)
 
 ### Eixos da release

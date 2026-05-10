@@ -1,10 +1,10 @@
 # FATHOM-Deutsch — ROADMAP
 
-> Long-term vision document. Strukturierte Aussicht auf die Entwicklung des Frameworks von v1.6 bis v3.0+. Ergänzt [SPRINT-NEXT.md](framework/00-meta/SPRINT-NEXT.md) (taktische Ebene) durch strategische Sicht.
+> Long-term vision document. Strukturierte Aussicht auf die Entwicklung des Frameworks von v1.7 bis v3.0+. Ergänzt [SPRINT-NEXT.md](framework/00-meta/SPRINT-NEXT.md) (taktische Ebene) durch strategische Sicht.
 
 ---
 
-## Status quo (v1.6, 2026-05-09)
+## Status quo (v1.7, 2026-05-09)
 
 ```
 ✅ 5 Stages × 46 Module + 5 Capstones encadeados (Stage 1: 10; Stage 3: 10)
@@ -13,12 +13,13 @@
 ✅ AUDIO-VIDEO-CANON (~30 Quellen mit URLs für Shadowing)
 ✅ 8 Templates output
 ✅ 3 worked examples (CAPSTONE-1, CAPSTONE-2, CAPSTONE-3 sobre Aufklärung)
-✅ Self-test bank Stage 1 + Stage 2 (~60 Übungen cumulativo)
-✅ Anki starter decks Stage 1 + Stage 2 (~1200 cards cumulativo)
-✅ DAG visual Mermaid (13 Diagramme: master + 5 stages + 5 caminhos críticos + Caminho E novo)
+✅ Self-test banks Stages 1+2+3 (~90 Übungen cumulativo)
+✅ Anki starter decks Stages 1+2+3 (~1900 cards cumulativo)
+✅ INDEX-DE.md — primeira tradução paralela em DE (SN-008 partial start)
+✅ DAG visual Mermaid (13 Diagramme: master + 5 stages + 5 caminhos críticos + Caminho E)
 ✅ 7 Trilhas (A canônica, B Geistes, C Linguistik, D Tradução, E Berufs, F PhD, G Auswandern)
 ✅ Governance: CODE_OF_CONDUCT, .github/, GitHub Actions
-✅ Internationalisierung: README-EN
+✅ Internationalisierung: README-EN + INDEX-DE.md
 ✅ Auditoria sistemática completa (SN-005 cross-refs done; SN-006 ortografia + dash done)
 ✅ Stage 6 outline (Spezialisierungs-Tracks Blueprint)
 ```
@@ -65,25 +66,13 @@
 
 ---
 
-## v1.7 — geplant ~2026-06: Stage-3-Apparat + Tradução DE INDEX
-
-### Hauptachsen
-
-#### Anki + Self-test Stage 3
-
-- ANKI-STARTER-DECK-STAGE-3 (~700 cards): Stilistik, Pragmatik, Idiomatik, Modalpartikeln (saturation), Stilfiguren, Wissenschaftsdeutsch hoch, Lexik III geisteswissenschaftlich.
-- SELF-TEST-BANK-STAGE-3 (~30 Übungen) com Lösungen.
-
-#### Tradução DE parcial (SN-008 partial start)
-
-- INDEX.md em DE.
-
-### Estatísticas-Ziel v1.7
+## v1.7 — 2026-05-09: Stage-3-Apparat + Tradução DE INDEX (DONE)
 
 ```
-Anki cumulative:                                ~1900 cards (Stages 1+2+3)
-Self-test cumulative:                            90 Übungen
-Tradução DE:                                     INDEX.md (~5%)
+✅ ANKI-STARTER-DECK-STAGE-3 (~700 cards: 10 Module + Cross-Module + Stage-Cloze-Diagnose)
+✅ SELF-TEST-BANK-STAGE-3 (~30 Übungen mit Lösungen + 2 Cross-Module + Stage-Final-Aufsatz ~250W)
+✅ INDEX-DE.md (Erstübersetzung; SN-008 partial start)
+✅ INDEX header atualizado + 4 meta-docs (CHANGELOG, RELEASE-NOTES, SPRINT-NEXT, ROADMAP)
 ```
 
 ---

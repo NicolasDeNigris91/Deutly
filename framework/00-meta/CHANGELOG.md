@@ -4,6 +4,59 @@
 
 ---
 
+## v1.7 — 2026-05-09 — Empirische Erweiterung Stage 3 + Tradução DE INDEX
+
+### Adicionado
+
+#### Stage-3-Apparat operacional
+
+- **ANKI-STARTER-DECK-STAGE-3.md** (`framework/00-meta/`): ~700 frasal cards organizados pelos 10 módulos do Stage 3 (03-01 Nominal vs. verbal, 03-02 Register, 03-03 Idiomatik, 03-04 Pragmatik, 03-05 Modalpartikeln saturation, 03-06 Stilfiguren, 03-07 Wissenschaftliches Schreiben, 03-08 Journalistischer Stil, 03-09 Lexik III geisteswissenschaftlich, 03-10 Hörverstehen colloquial). Cards por sub-tópico + Cross-Module-Karten (Register+Stilfiguren; Modalpartikel+Pragmatik; Stilfigur+Lexik III) + Stage-3-Cloze-Diagnose. Anki-Tag-Hierarchie + Empfehlung der Karten-Reihenfolge. **Resolve SN-009 partial** (Stages 1+2+3 done; Stages 4-5 in v1.8-v1.9).
+- **SELF-TEST-BANK-STAGE-3.md** (`framework/00-meta/`): 30 Übungen com Lösungen (3 pro Modul × 10 Module + 2 Cross-Module + 1 Stage-Final-Aufsatz ~250W). Schwierigkeit ★/★★/★★★. Cada Übung: Frage + Erwartete Lösung + Begründung + Verweis. Vorbereitung explizit für CAPSTONE-3.
+
+#### Tradução DE — INDEX paralela
+
+- **INDEX-DE.md** (`framework/00-meta/`): Erstübersetzung des [INDEX.md](INDEX.md) ins Deutsche. Vollständige Tabelle aller 5 Stages × 46 Module + alle 12 Anhänge + 8 Templates + 3 Worked Examples + DAG (textual ASCII + Mermaid) + Capstone-Erkenntnisprojekt + Hinweise zur DE-Konsultation. Nicht-Substitut des PT-BR-Originals; bei Inkonsistenzen gilt PT-BR. **Resolve SN-008 partial start**.
+
+### Modificado
+
+#### INDEX.md atualizado
+
+- Header inkludiert Anki Stage 3 + Self-Test Stage 3 + INDEX-DE-Verweis.
+
+### Resolvido (SN-Items)
+
+| SN | Prio | Tipo | Título | Status |
+|---|---|---|---|---|
+| SN-008 | P2 | experimento | Tradução do framework para DE | **Partial start** (INDEX-DE done; MENTOR + STUDY-PROTOCOL em v1.8) |
+| SN-009 | P2 | expansão | Anki-Decks pré-construídos | **Partial enhanced** (Stages 1+2+3 done; Stages 4-5 v1.8-v1.9) |
+
+### Estatísticas v1.7
+
+```
+Arquivos novos:                                  3
+  ANKI-STARTER-DECK-STAGE-3.md                    1 (~700 cards)
+  SELF-TEST-BANK-STAGE-3.md                       1 (~30 Übungen)
+  INDEX-DE.md                                     1 (tradução DE paralela INDEX)
+  
+Arquivos modificados:                            1
+  INDEX.md (header)
+  + 4 meta-docs (CHANGELOG, RELEASE-NOTES, SPRINT-NEXT, ROADMAP)
+
+Conteúdo cumulativo:
+  Anki cards Stages 1+2+3:                       ~1900 cards cumulative
+  Self-test Übungen Stages 1+2+3:                 90 Übungen cumulative
+  Tradução DE:                                     INDEX (~5%)
+  Module total (unverändert):                     46
+  Anhänge (unverändert):                          12 (A-L)
+  Trilhas (unverändert):                           7
+```
+
+### Honestidade pedagógica
+
+v1.7 não adiciona novas estruturas conceituais — replica em Stage 3 o padrão operacional v1.6 + abre frente de tradução DE com INDEX. Aluno completando Stages 1-3 com Anki + Self-test entra em CAPSTONE-3 (5000W wissenschaftlich) com Modalpartikel-Saturation + Stilfiguren-Inventar + Wissenschaftsdeutsch-Konnektoren + Lexik III ativos. INDEX-DE permite que aluno C1+ faça Stage-Navigation em modo imersivo.
+
+---
+
 ## v1.6 — 2026-05-09 — Empirische Erweiterung Stage 2 + Konsistenz-Auditoria
 
 ### Adicionado
