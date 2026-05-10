@@ -1,10 +1,10 @@
 # FATHOM-Deutsch — ROADMAP
 
-> Long-term vision document. Strukturierte Aussicht auf die Entwicklung des Frameworks von v1.8 bis v3.0+. Ergänzt [SPRINT-NEXT.md](framework/00-meta/SPRINT-NEXT.md) (taktische Ebene) durch strategische Sicht.
+> Long-term vision document. Strukturierte Aussicht auf die Entwicklung des Frameworks von v1.9 bis v3.0+. Ergänzt [SPRINT-NEXT.md](framework/00-meta/SPRINT-NEXT.md) (taktische Ebene) durch strategische Sicht.
 
 ---
 
-## Status quo (v1.8, 2026-05-09)
+## Status quo (v1.9, 2026-05-09)
 
 ```
 ✅ 5 Stages × 46 Module + 5 Capstones encadeados (Stage 1: 10; Stage 3: 10)
@@ -12,9 +12,9 @@
 ✅ BEGRIFFS-GLOSSAR cumulativo (111 entries cross-Stage; bereits in DE)
 ✅ AUDIO-VIDEO-CANON (~30 Quellen mit URLs für Shadowing)
 ✅ 8 Templates output
-✅ 3 worked examples (CAPSTONE-1, CAPSTONE-2, CAPSTONE-3 sobre Aufklärung)
-✅ Self-test banks Stages 1+2+3+4 (~120 Übungen cumulativo)
-✅ Anki starter decks Stages 1+2+3+4 (~2500 cards cumulativo)
+✅ 4 worked examples (CAPSTONE-1+2+3+4 sobre Aufklärung)
+✅ Self-test banks Stages 1-5 ALLE (~150 Übungen cumulativo)
+✅ Anki starter decks Stages 1-5 ALLE (~2900 cards cumulativo)
 ✅ Tradução DE paralela: INDEX + MENTOR + STUDY-PROTOCOL + BEGRIFFS-GLOSSAR (~15% framework)
 ✅ DAG visual Mermaid (13 Diagramme: master + 5 stages + 5 caminhos críticos + Caminho E)
 ✅ 7 Trilhas (A canônica, B Geistes, C Linguistik, D Tradução, E Berufs, F PhD, G Auswandern)
@@ -23,6 +23,8 @@
 ✅ Auditoria sistemática completa (SN-005 cross-refs done; SN-006 ortografia + dash done)
 ✅ Stage 6 outline (Spezialisierungs-Tracks Blueprint)
 ```
+
+**Stage-Apparat-Reihe abgeschlossen** in v1.9. Wichtigste verbleibende Lücken: CAPSTONE-5 exemplar + Stage 6 Track-Implementation (für v2.0).
 
 **Status:** **operational world-class genuíno** für PT-falante adulto reaching C2+ in germanística filosófica + alltagssprachlich-Auswanderer-Szenarien.
 
@@ -89,20 +91,14 @@
 
 ---
 
-## v1.9 — geplant ~2026-12: Stage-5-Apparat + CAPSTONE-4 exemplar
-
-### Hauptachsen
-
-- ANKI-STARTER-DECK-STAGE-5 (~400 cards): Politische Sprache, Wissenschaftssprache, Übersetzung, Eigene Stimme, Public Output.
-- SELF-TEST-BANK-STAGE-5 (~30 Übungen).
-- **CAPSTONE-4-AUFKLAERUNG-EXEMPLAR.md** — Begriffsanalyse korpusbasiert (~30pp.) com DWDS-Frequenzen + Kollokationen + 30+ Belege.
-
-### Estatísticas-Ziel v1.9
+## v1.9 — 2026-05-09: Stage-5-Apparat + CAPSTONE-4 exemplar (DONE)
 
 ```
-Anki cumulative:                                ~2900 cards (Stage 1-5 alle)
-Self-test cumulative:                           150 Übungen
-Capstone-Exemplares:                              4 (CAPSTONE-1 bis -4)
+✅ ANKI-STARTER-DECK-STAGE-5 (~400 cards: 7 Module + Cross-Module + Stage-Cloze-Diagnose)
+✅ SELF-TEST-BANK-STAGE-5 (~23 Übungen + 1 Mini-Aufsatz; Output-orientiert)
+✅ CAPSTONE-4-AUFKLAERUNG-EXEMPLAR (~30pp; methodische Trias diakron+synkron+hermeneutisch; 35 Belege; 5 Sub-Traditionen; Methodenkritik integriert; ~92% Bewertung)
+✅ INDEX header atualizado + 4 meta-docs (CHANGELOG, RELEASE-NOTES, SPRINT-NEXT, ROADMAP)
+✅ SN-009 DONE (alle Stages 1-5 Anki + Self-test komplett); SN-014 partial enhanced (4 Capstones-Exemplares)
 ```
 
 ---

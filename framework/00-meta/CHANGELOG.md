@@ -4,6 +4,62 @@
 
 ---
 
+## v1.9 — 2026-05-09 — Empirische Erweiterung Stage 5 + CAPSTONE-4 exemplar
+
+### Adicionado
+
+#### Stage-5-Apparat operacional (encerrando a série Anki + Self-test 1-5)
+
+- **ANKI-STARTER-DECK-STAGE-5.md** (`framework/00-meta/`): ~400 frasal cards organizados pelos 7 módulos do Stage 5 (05-01 Politische Sprache, 05-02 Wissenschaftssprache Habermas/Luhmann/Adorno, 05-03 Übersetzungstheorie + Praxis, 05-04 Eigene Stimme + Stilbildung, 05-05 Public Output, 05-06 Mentoring, 05-07 Goethe C2/TestDaF). Cards Konstellation-orientiert (Stage-5-Charakter): mehr Tiefe pro Karte, weniger Karten total. **Resolve SN-009 vollständig** (Stages 1-5 alle done; ~2900 cards cumulativo).
+- **SELF-TEST-BANK-STAGE-5.md** (`framework/00-meta/`): 23 Übungen + 1 Stage-Final-Mini-Aufsatz (~400W). Schwierigkeit ★/★★/★★★. Cada Übung: Frage + Erwartete Lösung + Begründung + Verweis. Übungen vermehrt Output-orientiert (Plenarrede-Skript, Adorno-Stil-Imitation, PT↔DE-Übersetzung, Mentee-Diagnose, Goethe-Umarbeitung). Vorbereitung explizit für CAPSTONE-5.
+
+#### Worked example novo — CAPSTONE-4-AUFKLAERUNG-EXEMPLAR
+
+- **CAPSTONE-4-AUFKLAERUNG-EXEMPLAR.md** (`framework/00-meta/examples/`): vollständiges Worked Example einer korpusbasierten Begriffsanalyse (~30 pp.) gemäß BEGRIFFSANALYSE-TEMPLATE. Methodische Trias (diachron + synkron + hermeneutisch) integriert. **35 Primärbelege** systematisch geschichtet nach 5 Sub-Traditionen (Kant-aufklärerisch, Hegel-rekonstruktiv, Adorno-kritisch, Habermas-rekonstruktiv-kritisch, Foucault-genealogisch). **12 Sekundärquellen** für Forschungsstand. **DWDS-Frequenzverlauf 1700–2025** mit 8-Phasen-Periodisierung. **DWDS-Wortprofil-Top-30-Kollokationen** mit Cluster-Analyse. **Konstellations-These** (Aufklärung als simultan-konstellatorische Multi-Tradition statt sukzessiv-diakronisch abgelöst). Methodenkritik integriert (Korpus-Beschränkungen + hermeneutische Grenzen + wirkungsgeschichtliche Selbstreflexion). Korrekturschleife dokumentiert (v1→v2→v3, Bewertung ~92%). **Resolve SN-014 partial enhanced** (Capstones 1+2+3+4 done; -5 in v2.0).
+
+### Modificado
+
+#### INDEX.md atualizado
+
+- Header inkludiert Anki Stage 5 + Self-Test Stage 5 + CAPSTONE-4 exemplar.
+
+### Resolvido (SN-Items)
+
+| SN | Prio | Tipo | Título | Status |
+|---|---|---|---|---|
+| SN-009 | P2 | expansão | Anki-Decks pré-construídos | **DONE** (Stages 1-5 alle complete; ~2900 cards cumulativo) |
+| SN-014 | P3 | expansão | Capstones exemplares | **Partial enhanced** (CAPSTONE-1+2+3+4 done; -5 em v2.0) |
+
+### Estatísticas v1.9
+
+```
+Arquivos novos:                                  3
+  ANKI-STARTER-DECK-STAGE-5.md                    1 (~400 cards)
+  SELF-TEST-BANK-STAGE-5.md                       1 (~30 Übungen)
+  CAPSTONE-4-AUFKLAERUNG-EXEMPLAR.md              1 (~30pp Worked Example)
+  
+Arquivos modificados:                            5
+  INDEX.md (header)
+  + 4 meta-docs (CHANGELOG, RELEASE-NOTES, SPRINT-NEXT, ROADMAP)
+
+Conteúdo cumulativo:
+  Anki cards Stages 1+2+3+4+5:                   ~2900 cards (todos Stages done!)
+  Self-test Übungen Stages 1+2+3+4+5:             150 Übungen (todos Stages done!)
+  Capstone-Exemplares:                              4 (CAPSTONE-1+2+3+4 sobre Aufklärung)
+  Tradução DE:                                     INDEX + MENTOR + STUDY-PROTOCOL + BEGRIFFS-GLOSSAR (~15%)
+  Module total (unverändert):                     46
+  Anhänge (unverändert):                          12 (A-L)
+  Trilhas (unverändert):                           7
+```
+
+### Honestidade pedagógica
+
+v1.9 schließt die **Stage-Apparat-Reihe** ab: alle 5 Stages haben jetzt Anki-Deck (~2900 cards cumulativo) + Self-test-Bank (~150 Übungen). Aluno completando Stages 1-5 mit kompletten Anki + Self-test entra em CAPSTONE-5 com gesamtem Stage-1-bis-5-Apparat ativo. CAPSTONE-4 exemplar demonstra methodischen Standard für korpusbasierte Begriffsanalyse: nicht nur Aufsatz argumentativ (CAPSTONE-2) oder wissenschaftlich (CAPSTONE-3), sondern korpus-empirisch fundierte Synthese mit Methodenkritik.
+
+**Wichtigste Lücke nach v1.9**: CAPSTONE-5 exemplar (Veröffentlichung; ~5000-12000W). Geplant v2.0 zusammen mit Stage 6 Tracks.
+
+---
+
 ## v1.8 — 2026-05-09 — Empirische Erweiterung Stage 4 + Tradução DE meta-docs
 
 ### Adicionado

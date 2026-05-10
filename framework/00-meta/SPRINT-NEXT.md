@@ -160,7 +160,7 @@ Total: ~8000 cards organizados por Stage / módulo / domínio.
 
 **Estimativa:** 100-200 horas + manutenção contínua.
 
-**Status:** **Partial enhanced** (v1.8, 2026-05-09). **Stage 1 done** em v1.4 (~500 cards). **Stage 2 done** em v1.6 (~700 cards). **Stage 3 done** em v1.7 (~700 cards). **Stage 4 done** em v1.8 (~600 cards) em [`ANKI-STARTER-DECK-STAGE-4.md`](ANKI-STARTER-DECK-STAGE-4.md). Stage 5 enfileirado para v1.9 (~400 cards). Total cumulativo após v2.0: ~2900 cards Stage 2-5 + ~500 Stage 1 = ~3400 cards.
+**Status:** **DONE** (v1.9, 2026-05-09). Alle Stages 1-5 abgeschlossen. **Stage 1 done** em v1.4 (~500 cards). **Stage 2 done** em v1.6 (~700 cards). **Stage 3 done** em v1.7 (~700 cards). **Stage 4 done** em v1.8 (~600 cards). **Stage 5 done** em v1.9 (~400 cards) em [`ANKI-STARTER-DECK-STAGE-5.md`](ANKI-STARTER-DECK-STAGE-5.md). **Total cumulativo: ~2900 cards** (Stages 1-5 alle complete).
 
 **Riscos:** Cards prontos podem incentivar aluno a NÃO construir cards próprios — perdendo personalisierung. Mitigação: documentar deck como starter, não substituto.
 
@@ -241,7 +241,12 @@ Total: ~8000 cards organizados por Stage / módulo / domínio.
 
 **Estimativa:** 500-1000 horas POR BEGRIFF (= concluir Capstone-5 inteiro).
 
-**Status:** Partial (v1.2, 2026-05-09). **CAPSTONE-1 exemplar concluído**: [`framework/00-meta/examples/CAPSTONE-1-AUFKLAERUNG-EXEMPLAR.md`](examples/CAPSTONE-1-AUFKLAERUNG-EXEMPLAR.md) — 30 entries com 9-Felder-Schema completo, Belege primários (Kant, Hegel, Adorno/Horkheimer, Habermas, Foucault), topologische Analyse, Kollokationen, Verweise, ~95 Anki-cards generierten, warnings explícitas contra cópia de conteúdo. Resta: CAPSTONE-2/-3/-4/-5 exemplares — diferidos para v1.5+/v2.0 (massivos).
+**Status:** **Partial enhanced** (v1.9, 2026-05-09). **4 Capstones-Exemplares concluídos**: 
+- CAPSTONE-1 (v1.2): Glossar v0, 30 entries.
+- CAPSTONE-2 (v1.3): Aufsatz argumentativ ~1500W.
+- CAPSTONE-3 (v1.4): Aufsatz wissenschaftlich ~5000W.
+- **CAPSTONE-4 (v1.9)**: korpusbasierte Begriffsanalyse ~30pp, methodische Trias diakron+synkron+hermeneutisch, 35 Primärbelege + 12 Sekundärquellen, 5 Sub-Traditionen, Methodenkritik integriert.
+Resta: CAPSTONE-5 exemplar — diferido para v2.0 (~5000-12000W publizierbarer Aufsatz; Veröffentlichungs-konform).
 
 **Riscos:** Aluno pode se apoiar em exemplo em vez de produzir próprio. Mitigação: publicar com explicit warning. **Mitigação implementada** em CAPSTONE-1 exemplar §"Was NICHT zu kopieren" + Vorbemerkung.
 
@@ -369,10 +374,12 @@ v1.8 — 2026-05-09 — STAGE-4-APPARAT + TRADUÇÃO DE META:     [feito]
                     Stage 4 + MENTOR-DE.md + STUDY-PROTOCOL-DE.md
                     + SN-008 partial enhanced (3 meta-docs em DE)
                     + SN-009 partial enhanced (Stages 1+2+3+4)
-v1.9 — ~2026-12  — Stage-5-Apparat + CAPSTONE-4 exemplar:   [planejado]
+v1.9 — 2026-05-09 — STAGE-5-APPARAT + CAPSTONE-4 EXEMPLAR:  [feito]
                     Anki Stage 5 (~400 cards) + Self-test 
                     Stage 5 + CAPSTONE-4-AUFKLAERUNG-EXEMPLAR
-                    (Begriffsanalyse korpusbasiert, ~30pp).
+                    (~30pp korpusbasiert; methodische Trias)
+                    + SN-009 DONE (alle Stages 1-5)
+                    + SN-014 partial enhanced (4 Capstones)
 v2.0 — ~2028-12  — Comunidade + CAPSTONE-4/5 exemplares     [planejado]
                     + Stage 6 vollständig (4 Tracks)
 v2.5 — ~2029-12  — Feedback-Loop + Tradução DE 100%          [planejado]

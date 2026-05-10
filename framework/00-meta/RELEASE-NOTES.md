@@ -4,6 +4,109 @@
 
 ---
 
+## v1.9 — Empirische Erweiterung Stage 5 + CAPSTONE-4 exemplar (2026-05-09)
+
+### Eixos da release
+
+Eleva v1.8 (Stage-4-Apparat + 3 Meta-Docs em DE) para v1.9 (**Stage-5-Apparat encerra a Anki + Self-test-Reihe + CAPSTONE-4 exemplar como methodischer Standard für korpusbasierte Begriffsanalyse**).
+
+### Motivação
+
+v1.6-v1.8 entregaram Stages 2+3+4-Apparate. v1.9 schließt mit Stage 5 die Reihe ab — aluno hat jetzt **5 Anki-Decks** (~2900 cards cumulativo) + **5 Self-test-Banks** (~150 Übungen) + **4 Capstones-Exemplares**. Wichtigste Lücke nach v1.9: CAPSTONE-5 exemplar + Stage 6 Track-Implementation; beide für v2.0 geplant.
+
+### Conteúdo novo
+
+#### ANKI-STARTER-DECK-STAGE-5 (~400 cards)
+
+7 Modul-Sektionen com cards Konstellation-orientiert:
+
+- **05-01 Politische Sprache** (~60): Bundestags-Genres (Plenarrede, Generaldebatte, Regierungserklärung, Aktuelle Stunde), 5 rhetorische Topoi (Wir-vs.-Sie, Krisen-Topos, Verantwortungs-Topos, Realitäts-Topos, Geschichts-Topos), Framing (Lakoff), Diktion-Vergleich Wahlkampf vs. Regierungserklärung, Plenarprotokoll-Analyse-Methodik.
+- **05-02 Wissenschaftssprache** (~70): Habermas-Begriffssystem (kommunikatives Handeln + Geltungsansprüche + Lebenswelt + Kolonisierung), Luhmann-Systemtheorie (Autopoiesis, funktionale Differenzierung, binäre Codes, strukturelle Kopplung), Adorno-Stil + Methode (Konstellation, Hyperbaton, Aphorismus), 3-Stile-Vergleich.
+- **05-03 Übersetzungstheorie** (~60): klassische Theoretiker (Schleiermacher-Achse + Benjamin + Berman + Steiner + Venuti), PT↔DE-Übersetzungs-Probleme, Heidegger-*Dasein*-PT-Übersetzungen (3 Wege), Übersetzungs-Editionen Standard.
+- **05-04 Eigene Stimme** (~60): Stilbildung-Strategien (Imitatio + Personalisierung), Tagebuch-Tradition (Kafka, Benjamin, Brecht, Bernhard), Auto-Retrospektive-Tradition (Goethe, Mann, Bernhard, Sebald), Bernhard-Stilfeatures vs. Sebald-Stilfeatures.
+- **05-05 Public Output** (~50): Vortrag-Architektur 30-min (Phase 1-4), Sprechrhythmus + Pausenmarkierung + Phonetik-Pflege, dt. Zeitschriften-Inventar für CAPSTONE-5, Publikum-Anpassungs-Strategien.
+- **05-06 Mentoring** (~50): Mentor-Rollenverständnis + Loop der Verfeinerung, Tor-Protokoll (3 Tore + 5 Begründungsfragen), Mentees-Calibrierung (Stage-1- vs. Stage-4-Mentees).
+- **05-07 Goethe C2 / TestDaF** (~50): Goethe C2-Format (4 Module + Pass-Schwelle), Goethe vs. TestDaF Wahl-Kriterien, Vorbereitungs-Strategie.
+
+Plus Cross-Module-Karten + Stage-Final-Cloze-Diagnose.
+
+#### SELF-TEST-BANK-STAGE-5 (23 Übungen + 1 Mini-Aufsatz-Diagnose)
+
+Para cada Modul: 1 ★ + 1 ★★ + 1 ★★★ Übung. Plus 2 Cross-Module + 1 Stage-Final-Mini-Aufsatz (~400W).
+
+Schwierigkeit-Beispiele:
+- ★★★ Modul 05-01: 3-Min-Plenarrede konstruieren mit ≥3 Topoi + Klimax + Anapher.
+- ★★★ Modul 05-02: 150W Adorno-Stil-Imitation mit Hyperbaton + Antithese + Konstellation.
+- ★★★ Modul 05-03: Adorno-Beleg ins PT übersetzen in 2 Versionen (einbürgernd + verfremdend).
+- ★★★ Modul 05-06: Mentee-Diagnose-Übung (3 rezidive Fehlertypen + 3 Korrektur-Strategien).
+- ★★★ Modul 05-07: Goethe Schreiben-Modul Umarbeitungs-Aufgabe (akademisch → populärwissenschaftlich).
+- Stage-Final ★★★: ~400W Mini-Aufsatz "Stille als radikale Praxis" mit Stilstufen-Wahl + 2 BEGRIFFS-GLOSSAR-Begriffen + 1 Adorno/Habermas-Bezug + Stilbildung erkennbar.
+
+#### CAPSTONE-4-AUFKLAERUNG-EXEMPLAR (~30 pp.)
+
+Vollständiges Worked Example einer korpusbasierten Begriffsanalyse:
+
+**Methodische Trias integriert:**
+- **Diachron**: DWDS-Frequenzverlauf 1700–2025 mit 8-Phasen-Periodisierung (Vorlauf → Peak Aufklärungs-Periode → Stabilisation → Krise → Tiefpunkt → Wiederbelebung kritisch → Stabilisation moderat → Wiederbelebung gegenwärtig).
+- **Synkron**: DWDS-Wortprofil top-30 Kollokationen mit Cluster-Analyse (Begriffs-Kern, Sub-Tradition-Marker, Personen-Verbindungen, Gegen-Begriffe, kontextuelle Verbindungen).
+- **Hermeneutisch**: 5 Sub-Traditionen mit jeweils 7 Belegen (insgesamt 35 Primärbelege).
+
+**5 Sub-Traditionen rekonstruiert:**
+1. Kant-aufklärerisch (klassisch-programmatisch).
+2. Hegel-rekonstruktiv (dialektisch).
+3. Adorno-kritisch (dialektisch-kritisch).
+4. Habermas-rekonstruktiv-kritisch (rekonstruktiv-emanzipatorisch).
+5. Foucault-genealogisch (kritisch-historisch).
+
+**Konstellations-These**: Aufklärung operiert nicht als sukzessiv-diakron abgelöster Begriff, sondern als simultan-konstellatorische Multi-Tradition. Empirisch belegt durch Frequenzkurve + Kollokationen-Cluster.
+
+**12 Sekundärquellen** (Schneiders, Mittelstraß, Schmidt, Koselleck, Israel, Cassirer, Bloch, Habermas, Bernstein, Pocock, Lyotard, Israel-2010) für Forschungsstand.
+
+**Methodenkritik §8** integriert:
+- Korpus-Beschränkungen (DWDS-Repräsentativität vor 1900; Schriftsprache-Bias; Periodisierungs-Bedingungen).
+- Hermeneutische Beschränkungen (Sub-Traditions-Selektion; Personen-Konstellation begrenzt).
+- Wirkungsgeschichtliche Selbstreflexion (Frankfurter-Schule-Hintergrund prägt Methodik).
+- Anschluss-Forschungs-Optionen (vergleichende Korpus-Analyse PT/EN/FR; Genre-spezifische Analyse; Identitätspolitik-Anwendung; KI-Ethik-Reaktualisierung).
+
+**Korrekturschleife dokumentiert**: v1 → v2 → v3 mit Bewertung ~92% gemäß RUBRIC.md §3 (methodische Trias 95%, Belegstellen 90%, Forschungsstand 90%, eigene These 95%, Methodenkritik 90%, Wissenschaftsdeutsch hoch 92%, stilistische Konsistenz 90%).
+
+**Warnung explícita**: dies ist Modell der Methode + Standard, nicht des Inhalts. Eigene CAPSTONE-4 muss eigenen Begriff (nicht Aufklärung) + eigene Belege + eigene Synthese verfolgen.
+
+### Estatísticas v1.9
+
+```
+Arquivos novos:                                  3
+  ANKI-STARTER-DECK-STAGE-5.md                    1 (~400 cards)
+  SELF-TEST-BANK-STAGE-5.md                       1 (~30 Übungen)
+  CAPSTONE-4-AUFKLAERUNG-EXEMPLAR.md              1 (~30pp Worked Example)
+  
+Arquivos modificados:                            5
+  INDEX.md (header)
+  + 4 meta-docs (CHANGELOG, RELEASE-NOTES, SPRINT-NEXT, ROADMAP)
+
+Cumulativo (após v1.9):
+  Anki Stages 1+2+3+4+5:                         ~2900 cards (todos Stages done!)
+  Self-Test Stages 1+2+3+4+5:                     150 Übungen (todos Stages done!)
+  Capstone-Exemplares:                              4 (CAPSTONE-1+2+3+4 sobre Aufklärung)
+  Tradução DE:                                     INDEX + MENTOR + STUDY-PROTOCOL + BEGRIFFS-GLOSSAR (~15%)
+  Module total:                                    46 (unverändert)
+  Anhänge:                                         12 (unverändert)
+  Trilhas:                                          7 (unverändert)
+```
+
+### SN-Items resolvidos
+
+- **SN-009** [P2] [expansão] Anki-Decks pré-construídos → **DONE** (todos Stages 1-5 complete; ~2900 cards cumulativo).
+- **SN-014** [P3] [expansão] Capstones exemplares → **Partial enhanced** (CAPSTONE-1+2+3+4 done; -5 em v2.0).
+
+### Backlog imediato (cf. SPRINT-NEXT.md)
+
+- **v2.0** (planejado ~2027-06): CAPSTONE-5-AUFKLAERUNG-EXEMPLAR (~5000-12000W publizierbarer Aufsatz; Veröffentlichung-konformes Modell) + Stage 6 Track A vollständig (Übersetzungswissenschaft + Praxis: 6 Module + CAPSTONE-6-A) + Stage 6 Track B vollständig (Germanistische Forschung: 7 Module + CAPSTONE-6-B).
+- **v2.5**: Tradução DE 100% (alle Module + Anhänge + Templates).
+- **v3.0**: Multilingual (DE/EN/ES/FR) + Akademie-Kooperationen.
+
+---
+
 ## v1.8 — Empirische Erweiterung Stage 4 + Tradução DE meta-docs (2026-05-09)
 
 ### Eixos da release
