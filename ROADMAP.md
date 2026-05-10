@@ -1,17 +1,20 @@
 # FATHOM-Deutsch — ROADMAP
 
-> Long-term vision document. Strukturierte Aussicht auf die Entwicklung des Frameworks von v2.0 bis v3.0+. Ergänzt [SPRINT-NEXT.md](framework/00-meta/SPRINT-NEXT.md) (taktische Ebene) durch strategische Sicht.
+> Long-term vision document. Strukturierte Aussicht auf die Entwicklung des Frameworks von v2.5 bis v3.0+. Ergänzt [SPRINT-NEXT.md](framework/00-meta/SPRINT-NEXT.md) (taktische Ebene) durch strategische Sicht.
 
 ---
 
-## Status quo (v2.0, 2026-05-09) — MAJOR RELEASE
+## Status quo (v2.5, 2026-05-10) — STAGE 6 KOMPLETT
 
 ```
 ✅ 5 Stages × 46 Module + 5 Capstones encadeados (Base-Curriculum)
-✅ Stage 6 Track A vollständig: 6 Module + CAPSTONE-6-A (Übersetzungswissenschaft)
-✅ Stage 6 Track B vollständig: 7 Module + CAPSTONE-6-B (Germanistische Forschung)
-✅ Module total: 59 (Stage 1-5: 46 + Stage 6 A+B: 13)
-✅ Capstones encadeados total: 7 (5 Stage 1-5 + 2 Stage 6)
+✅ Stage 6 KOMPLETT — alle 4 Spezialisierungs-Tracks:
+   ✅ Track A (Übersetzung): 6 Module + CAPSTONE-6-A (v2.0)
+   ✅ Track B (Forschung): 7 Module + CAPSTONE-6-B (v2.0)
+   ✅ Track C (Fachsprache): C1 Recht (4+1) + C2 Medizin (3+1) + C3 Technik (3+1) (v2.5)
+   ✅ Track D (Mentoring + DaF-Lehre): 6 Module + CAPSTONE-6-D (v2.5)
+✅ Module total: 75 (Stage 1-5: 46 + Stage 6: 29)
+✅ Capstones encadeados total: 11 (5 Stage 1-5 + 6 Stage 6)
 ✅ 12 Anhänge gramatical-linguistic + konversational (A-L)
 ✅ BEGRIFFS-GLOSSAR cumulativo (111 entries cross-Stage; bereits in DE)
 ✅ AUDIO-VIDEO-CANON (~30 Quellen mit URLs für Shadowing)
@@ -19,22 +22,23 @@
 ✅ 5 worked examples (CAPSTONE-1+2+3+4+5 sobre Aufklärung — Erkenntnisprojekt-Reihe v0→v4 vollständig)
 ✅ Self-test banks Stages 1-5 ALLE (~150 Übungen cumulativo)
 ✅ Anki starter decks Stages 1-5 ALLE (~2900 cards cumulativo)
-✅ Tradução DE paralela: INDEX + MENTOR + STUDY-PROTOCOL + BEGRIFFS-GLOSSAR + Stage 6 Module (~25% framework)
-✅ DAG visual Mermaid (15 Diagramme: master + 5 stages + 2 Stage 6 sub-DAGs + 5 caminhos críticos)
+✅ Tradução DE paralela: 3 Meta-Docs + BEGRIFFS-GLOSSAR + alle Stage-6-Module + 5 Stage-1-5-Schlüsselmodul-Adaptationen (~25% framework)
+✅ DAG visual Mermaid (15+ Diagramme: master + 5 stages + 2 Stage 6 sub-DAGs + Tracks C/D in master)
 ✅ 7 Trilhas (A canônica, B Geistes, C Linguistik, D Tradução, E Berufs, F PhD, G Auswandern)
 ✅ Governance: CODE_OF_CONDUCT, .github/, GitHub Actions
-✅ Internationalisierung: README-EN + INDEX/MENTOR/STUDY-PROTOCOL-DE
+✅ Internationalisierung: README-EN + INDEX/MENTOR/STUDY-PROTOCOL-DE + 5 Stage-1-5-Module DE
 ✅ Auditoria sistemática completa (SN-005 cross-refs done; SN-006 ortografia + dash done)
 ```
 
-**v2.0 markiert end-of-base-curriculum + start-of-specialization-tracks.** Aluno hat klare Wege:
+**v2.5 markiert Vollständigkeit der Stage-6-Implementation.** Aluno hat **alle 4 berufsspezifischen Spezialisierungs-Wege**:
 - Track A → professionelle Übersetzungs-Karriere.
 - Track B → akademische Promotion in DE-Akademie.
-- Tracks C + D bleiben Blueprint für v2.5+.
+- Track C → Berufs-Praxis Recht / Medizin / Technik in DE/AT/CH.
+- Track D → DaF-Lehre + Mentoring (Goethe / Universität / Privat).
 
-Wichtigste verbleibende Lücken: Tracks C (Fachsprache) + D (Mentoring + DaF-Lehre); Tradução DE 100%; Comunidade-Aufbau (Discord/Matrix); Peer-Review von DE-Linguisten; AnkiWeb-Deck.
+Wichtigste verbleibende Lücken: Tradução DE 100%; Comunidade-Aufbau; Peer-Review; AnkiWeb-Deck; Multilingual.
 
-**Status:** **operational world-class + spezialisations-ready** für PT-falante adulto reaching C2+ in germanística filosófica + alltagssprachlich-Auswanderer-Szenarien + professionelle Spezialisierung Übersetzung oder Forschung.
+**Status:** **operational world-class + alle Spezialisations-Wege offen** für PT-falante adulto reaching C2+ in germanística filosófica + alltagssprachlich-Auswanderer + Übersetzung + Forschung + Fachsprache + DaF-Lehre.
 
 ---
 
@@ -124,10 +128,28 @@ Wichtigste verbleibende Lücken: Tracks C (Fachsprache) + D (Mentoring + DaF-Leh
 ```
 
 **Was nicht in v2.0 enthalten ist** (ursprünglich für v2.0 in v1.4-Roadmap geplant; verschoben):
-- Comunidade (Discord/Matrix; SN-013) → v2.5+.
-- Track C (Fachsprache, 3 Sub-Tracks) → v2.5+.
-- Track D (Mentoring + DaF-Lehre) → v2.5+.
+- Comunidade (Discord/Matrix; SN-013) → v3.0+.
+- Track C (Fachsprache, 3 Sub-Tracks) → ✅ v2.5 implementiert.
+- Track D (Mentoring + DaF-Lehre) → ✅ v2.5 implementiert.
 - IDS-Korpora API-Integration (SN-017) → v3.0+ (abhängig von API-Verfügbarkeit).
+
+---
+
+## v2.5 — 2026-05-10: Stage 6 KOMPLETT (Tracks C + D) + Tradução DE 5 Module-Adaptationen (DONE)
+
+```
+✅ Track C1 Rechtsdeutsch: 4 Module + CAPSTONE-6-C1
+✅ Track C2 Medizinisches Deutsch: 3 Module + CAPSTONE-6-C2
+✅ Track C3 Technisches Deutsch: 3 Module + CAPSTONE-6-C3
+✅ Track D Mentoring + DaF-Lehre: 6 Module + CAPSTONE-6-D
+✅ Tradução DE 5 Schlüsselmodule: 01-01-de + 02-01-de + 03-07-de + 04-10-de + 05-04-de
+✅ STAGE-6-OUTLINE atualizado (alle 4 Tracks markiert ✅)
+✅ DAG.md erweitert (Tracks C + D im global cross-Stage)
+✅ INDEX expandido com komplette Stage 6 Sektion + Tradução DE Sektion
+✅ SN-016 DONE (Stage 6 alle 4 Tracks); SN-008 partial enhanced (~25% Tradução DE)
+```
+
+**Stage 6 cumulativo: 29 Module + 6 Capstones-6.** Aluno hat alle Wege offen.
 
 ---
 

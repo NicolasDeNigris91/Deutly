@@ -139,7 +139,14 @@ Tipos:
 
 **Estimativa:** 200-400 horas (massivo).
 
-**Status:** **Partial enhanced** (v1.8, 2026-05-09). **INDEX-DE.md** (v1.7) + **MENTOR-DE.md** + **STUDY-PROTOCOL-DE.md** (v1.8) done — vollständige paralela Übersetzungen der 3 zentralen Meta-Docs. Plus: BEGRIFFS-GLOSSAR.md bereits seit v1.3 vollständig in DE. Sequenz weiter: v2.5 alle Module + Anhänge + Templates.
+**Status:** **Partial enhanced** (v2.5, 2026-05-10). Cumulativo:
+- 3 Meta-Docs DE (INDEX + MENTOR + STUDY-PROTOCOL) seit v1.7-v1.8.
+- BEGRIFFS-GLOSSAR.md vollständig DE seit v1.3.
+- Stage 6 alle 29 Module + 6 Capstones nativ DE seit v2.0/v2.5.
+- 5 Stage-1-5-Module-Adaptationen DE neu in v2.5: 01-01-de, 02-01-de, 03-07-de, 04-10-de, 05-04-de.
+
+Quote tradução DE atual: ~25% framework. Sequenz weiter:
+- v3.0: alle restlichen Stage-1-5-Module + Anhänge + Templates ins DE (~75% verbleibend).
 
 **Riscos:** Perder acessibilidade para aluno iniciante PT-falante. Mitigação: manter PT-BR como tradução paralela; alle DE-Übersetzungen markieren explizit "PT-BR bleibt Referenz bei Inkonsistenzen".
 
@@ -285,13 +292,15 @@ Cada track ~5-7 módulos + Capstone-6.
 
 **Estimativa:** 200-400 horas.
 
-**Status:** **Partial enhanced** (v2.0, 2026-05-09). **Track A + Track B vollständig implementiert** em [`framework/06-spezialisierung/`](../../06-spezialisierung/):
-- Track A — Übersetzungswissenschaft + Praxis: 6 Module (06-A-1 bis 06-A-6) + CAPSTONE-6-A.
-- Track B — Germanistische Forschung Promotion-Vorbereitung: 7 Module (06-B-1 bis 06-B-7) + CAPSTONE-6-B.
+**Status:** **DONE** (v2.5, 2026-05-10). **Alle 4 Tracks vollständig implementiert** em [`framework/06-spezialisierung/`](../../06-spezialisierung/):
+- Track A (v2.0): 6 Module (06-A-1 bis 06-A-6) + CAPSTONE-6-A.
+- Track B (v2.0): 7 Module (06-B-1 bis 06-B-7) + CAPSTONE-6-B.
+- Track C1 (v2.5): 4 Module (06-C1-1 bis 06-C1-4) + CAPSTONE-6-C1.
+- Track C2 (v2.5): 3 Module (06-C2-1 bis 06-C2-3) + CAPSTONE-6-C2.
+- Track C3 (v2.5): 3 Module (06-C3-1 bis 06-C3-3) + CAPSTONE-6-C3.
+- Track D (v2.5): 6 Module (06-D-1 bis 06-D-6) + CAPSTONE-6-D.
 
-Resta: Track C (Fachsprache spezialisiert: 3 Sub-Tracks Recht + Medizin + Technik) + Track D (Mentoring + DaF-Lehre) — bleiben Blueprint in [STAGE-6-OUTLINE](STAGE-6-OUTLINE.md); Implementation für v2.5+ geplant.
-
-**Pré-requisito atualizado:** v2.5+; Tracks C + D fokussieren Berufs-spezifische Praxis (Recht, Medizin, Technik, DaF) — weniger universal als A + B; Implementation kann später erfolgen.
+**Stage 6 cumulativo: 29 Module + 6 Capstones-6.** Aluno hat alle 4 berufsspezifischen Spezialisierungs-Wege.
 
 ---
 
@@ -394,8 +403,14 @@ v2.0 — 2026-05-09 — MAJOR: CAPSTONE-5 EXEMPLAR + STAGE 6   [feito]
                     + DAG.md atualizado (Stage 6 + 2 Sub-DAGs)
                     + SN-014 DONE (alle 5 Capstones); 
                       SN-016 partial enhanced (Tracks A + B)
-v2.5 — ~2027     — Tracks C + D + Tradução DE 100%        [planejado]
-                    + AnkiWeb-Deck publiziert.
+v2.5 — 2026-05-10 — STAGE 6 KOMPLETT (Tracks C + D)        [feito]
+                    + Tradução DE 5 Module-Adaptationen
+                    + SN-016 DONE (Stage 6 alle 4 Tracks)
+                    + SN-008 partial enhanced (~25% Tradução DE)
+v3.0 — ~2027-12  — Tradução DE 100% + Multilingual         [planejado]
+                    (EN/ES/FR-Übersetzungen) +
+                    Akademie-Kooperationen + AnkiWeb-Deck +
+                    Comunidade Discord/Matrix + Peer-Review.
 v2.0 — ~2028-12  — Comunidade + CAPSTONE-4/5 exemplares     [planejado]
                     + Stage 6 vollständig (4 Tracks)
 v2.5 — ~2029-12  — Feedback-Loop + Tradução DE 100%          [planejado]

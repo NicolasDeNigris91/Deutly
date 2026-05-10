@@ -4,6 +4,85 @@
 
 ---
 
+## v2.5 — Stage 6 vollständig (Tracks C + D) + Tradução DE Module-Adaptation (2026-05-10)
+
+### Eixos da release
+
+Eleva v2.0 (CAPSTONE-5 + Tracks A + B) para v2.5 (**Stage 6 komplett implementiert** mit Tracks C + D + erste Stage-1-5-Module-Adaptationen ins DE).
+
+Aluno completando v2.5 hat:
+- Stage 1-5 vollständig + 5 Capstones-Exemplares.
+- **Alle 4 Stage-6-Spezialisierungs-Tracks** zur Wahl: Übersetzung (A) + Forschung (B) + Fachsprache Recht/Medizin/Technik (C) + DaF-Lehre/Mentoring (D).
+- Tradução DE para Konsultation auf Deutsch in 3 Meta-Docs + 5 Schlüsselmodulen + alle Stage-6-Module.
+
+### Conteúdo novo
+
+#### Track C — Fachsprache spezialisiert (3 Sub-Tracks; 13 arquivos)
+
+**Sub-Track C1 — Rechtsdeutsch** (4 Module + Capstone): BGB/ZPO/StGB-Lese-Kompetenz + Urteils-Deutsch + Vertragsdeutsch + Anwaltliches Schreiben → Anwaltskarriere oder juristische Übersetzung.
+
+**Sub-Track C2 — Medizinisches Deutsch** (3 Module + Capstone): Anatomie/Physiologie + Diagnostik-Berichte + Forschungs-Publikation → Approbation in DE/AT/CH oder medizinische Forschung.
+
+**Sub-Track C3 — Technisches Deutsch** (3 Module + Capstone): DIN-Normen + Patentschriften + Technische Dokumentation → Ingenieur-Karriere oder Patent-/Technik-Übersetzung.
+
+#### Track D — Mentoring + DaF-Lehre (6 Module + Capstone; 7 arquivos)
+
+DaF-Methodik (SLA-Theorien) + Niveaustufen-Differenzierung (CEFR A1-C2) + Phonetik-Lehre (PT-Interferenz-Korrektur) + Materialien + Curriculum + DaF-Diplom (Goethe-DLL + Master DaF/DaZ) + Mentoring institutionell (Universität / Sprachschule / Online / Privat) → DaF-Lehrer-Karriere am Goethe-Institut, Universität, Volkshochschule, Privat-Sprachschule, Online-Plattform.
+
+#### Tradução DE — 5 Schlüsselmodul-Adaptationen
+
+Konzise DE-Adaptationen (~2000-2500W) für C1+ Lerner, die Module auf Deutsch konsultieren möchten:
+
+- **01-01-de** — Topologisches Feldermodell (Stage 1 fundamental).
+- **02-01-de** — Subordination + Verbletztstellung (Stage 2 zentral).
+- **03-07-de** — Wissenschaftliches Schreiben (Stage 3 schreib-Kompetenz).
+- **04-10-de** — Hermeneutik (Stage 4 hermeneutische Tradition).
+- **05-04-de** — Eigene Stimme (Stage 5 Stilbildung).
+
+Ergänzen die bereits in v1.7-v1.8 erstellten DE-Übersetzungen INDEX-DE + MENTOR-DE + STUDY-PROTOCOL-DE; plus BEGRIFFS-GLOSSAR (bereits in DE seit v1.3) + alle 13 Stage-6-Module (in DE seit v2.0/v2.5).
+
+### Estatísticas v2.5
+
+```
+Arquivos novos:                                 25
+  Track C1 (Recht):                              5 (4 Mod. + Capstone)
+  Track C2 (Medizin):                            4 (3 Mod. + Capstone)
+  Track C3 (Technik):                            4 (3 Mod. + Capstone)
+  Track D:                                       7 (6 Mod. + Capstone)
+  Tradução DE:                                   5 (Module 01-01, 02-01, 03-07, 04-10, 05-04)
+  
+Arquivos modificados:                            6
+  STAGE-6-OUTLINE.md (Status v2.5)
+  DAG.md (Tracks C + D im global)
+  INDEX.md (Stage 6 Sektion erweitert)
+  + 4 meta-docs (CHANGELOG, RELEASE-NOTES, SPRINT-NEXT, ROADMAP)
+
+Cumulativo (após v2.5):
+  Module total:                                  75 (Stage 1-5: 46 + Stage 6: 29)
+  Capstones encadeados:                          11 (Stage 1-5: 5 + Stage 6: 6)
+  Capstone-Exemplares:                            5 (CAPSTONE-1+2+3+4+5 sobre Aufklärung)
+  Anhänge:                                       12 (A-L)
+  Trilhas:                                        7
+  Anki cards Stages 1-5:                         ~2900
+  Self-test Übungen Stages 1-5:                   150
+  Tradução DE:                                    ~25% (3 Meta-Docs + BEGRIFFS-GLOSSAR + 13 Stage-6-Module + 5 Stage-1-5-Module-Adaptationen)
+```
+
+### SN-Items resolvidos
+
+- **SN-016** [P3] Stage 6 Specialization → **DONE** (alle 4 Tracks A+B+C+D vollständig implementiert).
+- **SN-008** [P2] Tradução DE → **Partial enhanced** (~25%; alle Module + Anhänge + Templates v3.0).
+
+### Backlog imediato (cf. SPRINT-NEXT.md)
+
+- **v3.0** (planejado ~2027-12): Tradução DE 100% + Multilingual (EN/ES/FR-Übersetzungen) + Akademie-Kooperationen + AnkiWeb-Deck publiziert + Comunidade-Aufbau (Discord/Matrix) + Peer-Review.
+
+### Migration v2.0 → v2.5
+
+Für Lerner, die Stage 6 Track A oder B mit v2.0-Materialien begonnen haben: keine Migration nötig. v2.5 ist additiv (Tracks C + D neu; 5 Tradução DE neu); Stage 1-5 unverändert.
+
+---
+
 ## v2.0 — MAJOR RELEASE: CAPSTONE-5 exemplar + Stage 6 Tracks A + B vollständig (2026-05-09)
 
 ### Eixos da release

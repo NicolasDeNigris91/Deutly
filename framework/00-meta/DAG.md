@@ -32,6 +32,8 @@ flowchart LR
     S5["Stage 5 — MEISTERSCHAFT<br/>(7 Module)"]:::stage5
     S6A["Stage 6 Track A<br/>ÜBERSETZUNG<br/>(6 Module + Capstone)"]:::stage5
     S6B["Stage 6 Track B<br/>FORSCHUNG<br/>(7 Module + Capstone)"]:::stage5
+    S6C["Stage 6 Track C<br/>FACHSPRACHE<br/>(C1: 4 + C2: 3 + C3: 3 Module<br/>+ 3 Capstones)"]:::stage5
+    S6D["Stage 6 Track D<br/>MENTORING + DaF<br/>(6 Module + Capstone)"]:::stage5
 
     C1[["CAPSTONE-1<br/>Glossar v0"]]:::capstone
     C2[["CAPSTONE-2<br/>Aufsatz 1500 W"]]:::capstone
@@ -40,13 +42,17 @@ flowchart LR
     C5[["CAPSTONE-5<br/>Veröffentlichung"]]:::capstone
     C6A[["CAPSTONE-6-A<br/>Publizierte Buchübersetzung"]]:::capstone
     C6B[["CAPSTONE-6-B<br/>Promotion-Beginn"]]:::capstone
+    C6C[["CAPSTONE-6-C1/2/3<br/>Fachsprache-Praxis<br/>(Recht/Medizin/Technik)"]]:::capstone
+    C6D[["CAPSTONE-6-D<br/>Eigene DaF-Praxis"]]:::capstone
 
     S1 --> C1 --> S2 --> C2 --> S3 --> C3 --> S4 --> C4 --> S5 --> C5
     C5 -.-> S6A --> C6A
     C5 -.-> S6B --> C6B
+    C5 -.-> S6C --> C6C
+    C5 -.-> S6D --> C6D
 ```
 
-> **Spezialisierungs-Tracks** Stage 6 (Track A + Track B) sind optional + parallel post-CAPSTONE-5. Track C (Fachsprache) + Track D (Mentoring) bleiben Blueprint für v2.5+.
+> **Spezialisierungs-Tracks** Stage 6 sind optional + parallel post-CAPSTONE-5. Alle 4 Tracks (A + B + C + D) v2.5 vollständig implementiert.
 
 ---
 

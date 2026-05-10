@@ -4,6 +4,123 @@
 
 ---
 
+## v2.5 — 2026-05-10 — Stage 6 vollständig (Tracks C + D) + Tradução DE Module-Adaptation
+
+### Adicionado
+
+#### Stage 6 Track C — Fachsprache spezialisiert (3 Sub-Tracks; 13 arquivos)
+
+**Sub-Track C1 — Rechtsdeutsch (5 arquivos):**
+- 06-C1-1 BGB + ZPO + StGB-Auszüge (5 BGB-Bücher + 4-Methoden-Auslegung + § 211/212 Mord/Totschlag).
+- 06-C1-2 Urteils-Deutsch (BGH + BVerfG; Konj. I in Tatbestand; Tenor-Formeln).
+- 06-C1-3 Vertragsdeutsch + AGB (§§ 305-310 BGB; Salvatorische Klausel; Schriftform).
+- 06-C1-4 Anwaltliches Schreiben (Klageschrift § 253 ZPO + Erwiderung + Mandanten-Korrespondenz + Gutachten).
+- CAPSTONE-6-C1 Juristische Übersetzung oder Gutachten.
+
+**Sub-Track C2 — Medizinisches Deutsch (4 arquivos):**
+- 06-C2-1 Anatomie + Physiologie (Lat-DE-Lexikon + Patienten-Sprache vs. Fachsprache + Pathologie-Endungen).
+- 06-C2-2 Diagnostik-Berichte + Arztbriefe (Anamnese-Struktur + Befund + ICD-10 + Akronyme klinisch).
+- 06-C2-3 Forschungs-Publikation Medizin (IMRaD + Studien-Designs + Statistische Begriffe + Helsinki-Deklaration + DE-medizinische Zeitschriften).
+- CAPSTONE-6-C2 Approbation oder medizinisch-wissenschaftliche Publikation.
+
+**Sub-Track C3 — Technisches Deutsch (4 arquivos):**
+- 06-C3-1 DIN-Normen-Sprache (DIN-Klassifikation + normative Modal-Verben + Standard-Architektur + FVG-Saturation).
+- 06-C3-2 Patentschriften (DPMA + EPA + WIPO; "dadurch gekennzeichnet, dass" + Bezugszeichen-System).
+- 06-C3-3 Technische Dokumentation (DIN EN 82079 Bedienungsanleitungen + Sicherheitshinweis-Formeln + API-Doku + Sicherheitsdatenblätter 16 Sektionen).
+- CAPSTONE-6-C3 Technische Übersetzung publiziert.
+
+#### Stage 6 Track D — Mentoring + DaF-Lehre (7 arquivos)
+
+- 06-D-1 DaF-Methodik (SLA-Theorien Krashen/Swain/Bjork/Long/Selinker + Erwachsenen-DaF-Spezifika + Curriculum-Design).
+- 06-D-2 Niveaustufen-Differenzierung (CEFR A1-C2 + Can-Do-Statements + Grammatik-Progression + Lehrtechniken pro Niveau).
+- 06-D-3 Phonetik-Lehre (DE-Phonetik-Spezifika + PT-falante-Interferenzen + 5 Korrektur-Methoden + Critical Period).
+- 06-D-4 Materialien + Curriculum (Lehrwerk-Verlage Hueber/Cornelsen/Klett/Schubert + Adoption vs. Eigenentwicklung + OER).
+- 06-D-5 DaF-Diplom (Goethe-DLL + universitärer Master DaF/DaZ + ABRAPA + Berufliche Strukturen).
+- 06-D-6 Mentoring institutionell (Universität + Sprachschule + Online + Privat + Tandem).
+- CAPSTONE-6-D Eigene DaF-Praxis (30+ Lerner mentoriert + DaF-Zertifikat).
+
+#### Tradução DE — 5 Module-Adaptationen (5 arquivos)
+
+Parallel-Adaptationen Schlüsselmodule Stage 1-5:
+- **01-01-de** Syntaktische Analyse — Topologisches Feldermodell (Stage 1).
+- **02-01-de** Subordination — Subjunktoren + Verbletztstellung (Stage 2).
+- **03-07-de** Wissenschaftliches Schreiben (Stage 3).
+- **04-10-de** Hermeneutik klassischer Texte (Stage 4).
+- **05-04-de** Eigene Stimme — Stilbildung (Stage 5).
+
+Format: konzise DE-Adaptationen (~2000-2500W); strukturell parallel zum PT-BR-Original; PT-BR bleibt Referenz bei Inkonsistenzen.
+
+### Modificado
+
+#### STAGE-6-OUTLINE.md aktualisiert
+
+- Status: "Track A + B vollständig in v2.0 implementiert; Track C + D vollständig in v2.5 implementiert. Stage 6 jetzt komplett (4 Tracks + 7 Capstones-6)."
+- Track C + D Sektionen markiert mit ✅ implementiert.
+
+#### DAG.md erweitert
+
+- Globaler cross-Stage-Diagramm: Stage 6 Track C + D als parallele post-CAPSTONE-5-Knoten + 2 neue Capstones (CAPSTONE-6-C1/2/3 zusammenfasst + CAPSTONE-6-D).
+- Stage 6 jetzt **alle 4 Tracks** im DAG sichtbar.
+
+#### INDEX.md aktualisiert
+
+- Stage 6 Sektion erweitert um Track C (3 Sub-Tracks) + Track D mit kompletten Modul-Tabellen.
+- Total-Zeile aktualisiert: **75 Module + 11 Capstones** cumulativo.
+- Tradução DE Sektion neu mit 5 Module-Adaptationen + Hinweise auf bestehende DE-Meta-Docs.
+
+### Resolvido (SN-Items)
+
+| SN | Prio | Tipo | Título | Status |
+|---|---|---|---|---|
+| SN-008 | P2 | experimento | Tradução DE | **Partial enhanced** (3 Meta-Docs + BEGRIFFS-GLOSSAR + 5 Module-Adaptationen ~25%; alle Module v3.0) |
+| SN-016 | P3 | expansão | Stage 6 Specialization | **DONE** (alle 4 Tracks A+B+C+D vollständig implementiert) |
+
+### Estatísticas v2.5
+
+```
+Arquivos novos:                                 25
+  Track C1 (Recht):                              5 (4 Module + CAPSTONE)
+  Track C2 (Medizin):                            4 (3 Module + CAPSTONE)
+  Track C3 (Technik):                            4 (3 Module + CAPSTONE)
+  Track D:                                       7 (6 Module + CAPSTONE)
+  Tradução DE Module-Adaptationen:               5 (Schlüsselmodule Stage 1-5)
+  
+Arquivos modificados:                            6
+  STAGE-6-OUTLINE.md (Status v2.5 + Tracks C/D markiert)
+  DAG.md (Tracks C + D + 2 neue Capstones)
+  INDEX.md (Stage 6 erweitert + Total-Zeile + Tradução DE Sektion)
+  + 4 meta-docs (CHANGELOG, RELEASE-NOTES, SPRINT-NEXT, ROADMAP)
+
+Cumulativo (após v2.5):
+  Module total:                                  75 (Stage 1-5: 46 + Stage 6: 29)
+  Capstones encadeados:                          11 (5 Stage 1-5 + 6 Stage 6: A + B + C1 + C2 + C3 + D)
+  Capstone-Exemplares:                            5 (CAPSTONE-1+2+3+4+5 sobre Aufklärung)
+  Anhänge:                                       12 (A-L)
+  Trilhas:                                        7
+  Anki cards Stages 1-5:                         ~2900
+  Self-test Übungen Stages 1-5:                   150
+  Tradução DE:                                    INDEX + MENTOR + STUDY-PROTOCOL + BEGRIFFS-GLOSSAR + 13 Stage-6-Module + 5 Stage-1-5-Module-Adaptationen (~25%)
+  Mermaid-Diagramme:                              15+ (Stage 6 Tracks C + D in globalem Diagramm)
+```
+
+### Honestidade pedagógica
+
+v2.5 schließt die Stage-6-Implementation ab. Aluno hat agora **4 vollständige Spezialisierungs-Tracks**:
+
+- **Track A** → professionelle Übersetzungs-Karriere (literarisch + philosophisch + juristisch + kulturwissenschaftlich + Lektorat).
+- **Track B** → akademische Promotion in DE-Akademie (Forschungsfrage + Monographie + Konferenz + Netzwerk + Drittmittel + Habilitation).
+- **Track C** → Fachsprach-Spezialisierung (Recht / Medizin / Technik) für Berufs-Praxis in DE/AT/CH.
+- **Track D** → DaF-Lehre + Mentoring (Goethe-Institut + Universität + Privat).
+
+**Wichtigste verbleibende Lücken nach v2.5:**
+- Tradução DE 100% (alle Module + Anhänge + Templates; v3.0 geplant).
+- Comunidade-Aufbau (Discord/Matrix; SN-013).
+- Peer-Review von DE-Linguisten (cf. SN-010).
+- AnkiWeb-Deck publiziert.
+- Multilingual Framework (EN/ES/FR-Übersetzungen; v3.0+).
+
+---
+
 ## v2.0 — 2026-05-09 — Major Release: CAPSTONE-5 exemplar + Stage 6 Tracks A + B vollständig
 
 **Major Version Bump.** v2.0 markiert das Ende des Base-Curriculums (Stages 1-5 + 5 Capstones-Exemplares vollständig) + den Beginn der Spezialisierungs-Tracks (Stage 6 Track A + B operativ implementiert).

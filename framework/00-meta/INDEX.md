@@ -141,7 +141,47 @@
 | 06-B-7 | [Habilitation (optional)](../06-spezialisierung/06-B-7-habilitation.md) | 06-B-6 | Habilitations-Plan + Lehrportfolio + Karriere-Reflexion. |
 | **CAPSTONE-6-B** | **[Promotion-Beginn](../06-spezialisierung/CAPSTONE-6-B.md)** | alle Track B | Doktorat-Vertrag unterschrieben + 1. Jahres-Berichts-Manuskript. |
 
-> **Tracks C (Fachsprache) + D (Mentoring + DaF-Lehre)** bleiben Blueprint in [STAGE-6-OUTLINE.md](STAGE-6-OUTLINE.md); Implementation in v2.5+ geplant.
+### Track C — Fachsprache spezialisiert (3 Sub-Tracks)
+
+#### Sub-Track C1 — Rechtsdeutsch
+
+| ID | Modul | Prereqs | Saída |
+|----|--------|---------|-------|
+| 06-C1-1 | [BGB + ZPO + StGB](../06-spezialisierung/06-C1-1-bgb-zpo-stgb.md) | 05-02, 06-A-4 | Lese-Bericht + Klausur-Format. |
+| 06-C1-2 | [Urteils-Deutsch](../06-spezialisierung/06-C1-2-urteils-deutsch.md) | 06-C1-1 | BGH/BVerfG-Urteils-Analyse. |
+| 06-C1-3 | [Vertragsdeutsch](../06-spezialisierung/06-C1-3-vertragsdeutsch.md) | 06-C1-1 | Vertrags-Analyse + Eigener Vertrag. |
+| 06-C1-4 | [Anwaltliches Schreiben](../06-spezialisierung/06-C1-4-anwaltliches-schreiben.md) | 06-C1-2, 06-C1-3 | Klageschrift + Erwiderung + Mandantenbrief. |
+| **CAPSTONE-6-C1** | **[Juristische Übersetzung oder Gutachten](../06-spezialisierung/CAPSTONE-6-C1.md)** | alle C1 | Publizierte juristische Übersetzung oder Gutachten. |
+
+#### Sub-Track C2 — Medizinisches Deutsch
+
+| ID | Modul | Prereqs | Saída |
+|----|--------|---------|-------|
+| 06-C2-1 | [Anatomie + Physiologie auf Deutsch](../06-spezialisierung/06-C2-1-anatomie-physiologie.md) | 05-02 | Glossar + Patient-Sprache-vs.-Fachsprache. |
+| 06-C2-2 | [Diagnostik-Berichte + Arztbriefe](../06-spezialisierung/06-C2-2-diagnostik-berichte.md) | 06-C2-1 | Anamnese + Befund + Arztbrief. |
+| 06-C2-3 | [Forschungs-Publikation Medizin](../06-spezialisierung/06-C2-3-forschungs-publikation-medizin.md) | 06-C2-2 | IMRaD-Forschungs-Aufsatz-Skizze. |
+| **CAPSTONE-6-C2** | **[Approbation oder med. Publikation](../06-spezialisierung/CAPSTONE-6-C2.md)** | alle C2 | Approbation in DE/AT/CH oder publizierter Forschungs-Aufsatz. |
+
+#### Sub-Track C3 — Technisches Deutsch
+
+| ID | Modul | Prereqs | Saída |
+|----|--------|---------|-------|
+| 06-C3-1 | [DIN-Normen-Sprache](../06-spezialisierung/06-C3-1-din-normen-sprache.md) | 05-02 | Norm-Analyse + Eigene Norm-Skizze. |
+| 06-C3-2 | [Patentschriften](../06-spezialisierung/06-C3-2-patentschriften.md) | 06-C3-1 | Patent-Analyse + Eigene Patentansprüche. |
+| 06-C3-3 | [Technische Dokumentation](../06-spezialisierung/06-C3-3-technische-dokumentation.md) | 06-C3-2 | Bedienungsanleitung + API-Doku + SDB. |
+| **CAPSTONE-6-C3** | **[Technische Übersetzung publiziert](../06-spezialisierung/CAPSTONE-6-C3.md)** | alle C3 | Publizierte technische Übersetzung oder Dokumentation. |
+
+### Track D — Mentoring + DaF-Lehre
+
+| ID | Modul | Prereqs | Saída |
+|----|--------|---------|-------|
+| 06-D-1 | [DaF-Methodik](../06-spezialisierung/06-D-1-daf-methodik.md) | 05-06 | SLA-Theorien + Curriculum-Konzept. |
+| 06-D-2 | [Niveaustufen-Differenzierung](../06-spezialisierung/06-D-2-niveaustufen-differenzierung.md) | 06-D-1 | CEFR A1-C2 Diagnose + Lehreinheit. |
+| 06-D-3 | [Phonetik-Lehre](../06-spezialisierung/06-D-3-phonetik-lehre.md) | 06-D-1 | L1-Interferenz-Diagnose + Lehreinheit Phonetik. |
+| 06-D-4 | [Materialien + Curriculum](../06-spezialisierung/06-D-4-materialien-curriculum.md) | 06-D-2, 06-D-3 | Lehrwerk-Vergleich + eigene Materialien + Curriculum. |
+| 06-D-5 | [DaF-Diplom](../06-spezialisierung/06-D-5-daf-diplom.md) | 06-D-1 | Goethe-DLL-Bericht + Karriere-Plan. |
+| 06-D-6 | [Mentoring institutionell](../06-spezialisierung/06-D-6-mentoring-institutionell.md) | 06-D-4, 06-D-5 | Institutionen-Vergleich + Mentoring-Konzept. |
+| **CAPSTONE-6-D** | **[Eigene DaF-Praxis](../06-spezialisierung/CAPSTONE-6-D.md)** | alle D | 30+ Lerner mentoriert + Lehr-Portfolio + DaF-Zertifikat. |
 
 ---
 
@@ -223,6 +263,8 @@ Detalhes da progressão em [CAPSTONE-EVOLUTION.md](CAPSTONE-EVOLUTION.md).
 
 **Total Stage 1-5**: 5 estágios, **46 módulos** (Stage 1: 10, Stage 2: 9, Stage 3: 10, Stage 4: 10, Stage 5: 7), 5 capstones encadeados.
 
-**Total Stage 6** (Spezialisierungs-Tracks v2.0): **+13 módulos** (Track A: 6 + Track B: 7) + 2 capstones (CAPSTONE-6-A + CAPSTONE-6-B).
+**Total Stage 6** (Spezialisierungs-Tracks komplett v2.5): **29 módulos** (Track A: 6 + Track B: 7 + Track C1: 4 + Track C2: 3 + Track C3: 3 + Track D: 6) + **6 Capstones-6** (A, B, C1, C2, C3, D).
 
-**Cumulativo:** **59 módulos + 7 capstones** após v2.0.
+**Cumulativo após v2.5:** **75 módulos + 11 capstones** (Stage 1-5: 46 Mod. + 5 Caps. + Stage 6: 29 Mod. + 6 Caps.).
+
+**Tradução paralela DE** (5 Module-Adaptationen v2.5): [01-01-de](../01-fundamente/01-01-syntaktische-analyse-de.md) · [02-01-de](../02-struktur/02-01-subordination-de.md) · [03-07-de](../03-stil/03-07-wissenschaftliches-schreiben-de.md) · [04-10-de](../04-system/04-10-hermeneutik-de.md) · [05-04-de](../05-meisterschaft/05-04-eigene-stimme-de.md). Plus: INDEX-DE + MENTOR-DE + STUDY-PROTOCOL-DE + BEGRIFFS-GLOSSAR (bereits in DE).

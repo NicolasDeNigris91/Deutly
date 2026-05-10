@@ -2,7 +2,7 @@
 
 > Outline für Stage 6 — **opcional**, post-CAPSTONE-5. Spezialisierung in 4 Tracks für Lernende, die nach Erreichen von C2+ World Class einen genaueren akademischen / professionellen Fokus suchen.
 >
-> **Status:** Blueprint v1.4 (2026-05-09); **Track A + Track B vollständig implementiert in v2.0** (2026-05-09). Tracks C + D bleiben Blueprint für v2.5+.
+> **Status:** Blueprint v1.4; **Track A + B vollständig implementiert in v2.0** (2026-05-09); **Tracks C + D vollständig implementiert in v2.5** (2026-05-10). Stage 6 jetzt komplett (4 Tracks + 7 Capstones-6).
 >
 > **Voraussetzung:** CAPSTONE-5 abgeschlossen (Veröffentlichung in DE/AT/CH-Zeitschrift).
 >
@@ -145,7 +145,7 @@ Jeder Track besteht aus **5-7 Modulen + 1 Capstone-6**, der spezifisch für den 
 
 ---
 
-## 4. Track C — Fachsprache spezialisiert (3 Sub-Tracks)
+## 4. Track C — Fachsprache spezialisiert (3 Sub-Tracks) — ✅ v2.5 implementiert
 
 ### Vorhandene Anker-Module (Stage 2-3)
 
@@ -204,7 +204,7 @@ Jeder Track besteht aus **5-7 Modulen + 1 Capstone-6**, der spezifisch für den 
 
 ---
 
-## 5. Track D — Mentoring + DaF-Lehre
+## 5. Track D — Mentoring + DaF-Lehre — ✅ v2.5 implementiert
 
 ### Vorhandene Anker-Module (Stage 5)
 
