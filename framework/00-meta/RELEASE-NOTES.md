@@ -4,6 +4,94 @@
 
 ---
 
+## v1.8 — Empirische Erweiterung Stage 4 + Tradução DE meta-docs (2026-05-09)
+
+### Eixos da release
+
+Eleva v1.7 (Stage-3-Apparat + INDEX-DE) para v1.8 (**Stage-4-Apparat + Tradução DE meta-docs procedurais**: 2 dossiês operacionais Stage-4 + 2 traduções paralelas dos meta-docs centrais MENTOR + STUDY-PROTOCOL).
+
+### Motivação
+
+v1.7 entregou Stage-3-Apparat + INDEX-DE. v1.8 estende padrão para Stage 4 (linguística histórica + generativa + semântica + diskursanalyse + korpus + hermenêutica) e completa a tríade meta-doc paralela em DE (INDEX + MENTOR + STUDY-PROTOCOL). Aluno C1+ pode agora operar **modus completamente alemão** no nível meta (Mentoring-Vertrag + Studientechniken + Stage-Navigation), sem auf PT-BR-Original zugreifen zu müssen.
+
+### Conteúdo novo
+
+#### ANKI-STARTER-DECK-STAGE-4 (~600 cards)
+
+10 Modul-Sektionen com cards exemplares por sub-tópico + Cross-Module-Karten + Stage-4-Cloze-Diagnose:
+
+- **04-01 Historische Linguistik** (~70): Sprachperioden Idg.→Ahd.→Mhd.→Frnhd.→Nhd., zweite (hochdt.) Lautverschiebung, Verners Gesetz, Mhd.-Editorial-Konventionen mit Übersetzungs-Drills.
+- **04-02 Etymologie** (~60): Etymon-Identifikation (Wahrheit, Bildung, Geist, Aufklärung, Begriff), Wortgeschichte (Bildung, artig, geil), Pfeifer/Kluge/Grimm-DWB Standardwerke.
+- **04-03 Variationslinguistik** (~60): Plurizentrik DE/AT/CH (Marker), Dialekt-Familien (Niederdt./Mitteldt./Oberdt./Alemannisch), Diglossie (Schwyzerdütsch), Soziolekte (Kiezdeutsch + Beamtendeutsch + Jugendsprache).
+- **04-04 Generative Syntax** (~70): X-bar-Theorie, V→C-Bewegung, CP/IP/VP-Schichten, 3 Phasen (Standard/GB/Minimalismus), Bindungstheorie A/B/C, Anwendung auf DE-Verbalklammer.
+- **04-05 Formale Semantik** (~60): Wahrheitsbedingungen, Frege-Prinzip Kompositionalität, Sinn vs. Bedeutung (Frege), Quantorenlogik, Skopus-Ambiguität, Montague-Grammatik + λ-Abstraktion.
+- **04-06 Diskursanalyse** (~50): Foucault-Begriffe (Diskurs, Dispositiv, Genealogie, Macht-Wissen), KDA Fairclough 3-Ebenen, Anwendung auf Bundestag-Debatten.
+- **04-07 Textlinguistik** (~50): Kohäsion vs. Kohärenz, 5 Kohäsionsmittel, Brinker-Textsorten-Klassifikation, thematische Progression (Daneš).
+- **04-08 Korpuslinguistik** (~50): DWDS + COSMAS II Inventar, Kollokation + Log-Dice, Frequenzverlauf-Analyse, CAPSTONE-4-Anwendung.
+- **04-09 Kontrastive Linguistik** (~70): 4 Hauptkontraste (Wortstellung, Kasus, Verbalstruktur, Komposition), Konj. I/II ohne PT-Entsprechung, Modalverben epistemisch/deontisch, Genus arbiträr.
+- **04-10 Hermeneutik** (~80): Hermeneutik-Geschichte (Schleiermacher → Dilthey → Heidegger → Gadamer → Habermas), hermeneutischer Zirkel, Vorhabe/Vorsicht/Vorgriff, Horizontverschmelzung, Wirkungsgeschichte, Anwendung Kant + Hegel + Heidegger.
+
+Plus Cross-Module-Karten + Stage-Final-Cloze-Diagnose.
+
+#### SELF-TEST-BANK-STAGE-4 (30 Übungen + 1 Skizze-Diagnose)
+
+Para cada Modul: 1 ★ + 1 ★★ + 1 ★★★ Übung mit Erwarteter Lösung + Begründung + Verweis. Plus 2 Cross-Module + 1 Stage-Final-Skizze (~300W) zum Selbst-Diagnostizieren der Stage-4-Reife für CAPSTONE-4.
+
+Schwierigkeit-Beispiele:
+- ★ Modul 04-01: Sprachperioden chronologisch ordnen + Merkmale.
+- ★★ Modul 04-04: X-bar-Baum konstruieren für Standardsatz.
+- ★★★ Modul 04-10: Wirkungsgeschichte Hegel + Horizontverschmelzung anwenden.
+- Stage-Final ★★★: ~300W korpusbasierte Begriffs-Skizze (Bildung) mit Etymologie + Korpus-Plan + Sub-Traditionen + Hermeneutik + Wissenschaftsdeutsch hoch.
+
+#### MENTOR-DE.md (Tradução paralela MENTOR)
+
+- Vollständige Übersetzung von [MENTOR.md](MENTOR.md) ins Deutsche.
+- Bewahrt Struktur (4 Modi + 4-Schicht-Loop der Verfeinerung mit komplettem Beleg-Beispiel + 3 Tore + 7 nicht-verhandelbare Prinzipien + Anti-Burlung-Tabelle).
+- Linguistische Termini bleiben im DE-Original (was im PT-BR ohnehin der Fall war: Vorfeld, Verbalklammer, Konjunktiv, FVG, Modalpartikel).
+- Prinzipien werden treu übersetzt: "ohne Beschönigung", "kein DE-Output entgeht ihm", "Primärquellen".
+- Adaptiert PT-spezifische Wendungen ("kommt schon vor", "passar pano") in idiomatisches DE ohne Bedeutungsverlust.
+
+#### STUDY-PROTOCOL-DE.md (Tradução paralela STUDY-PROTOCOL)
+
+- Vollständige Übersetzung von [STUDY-PROTOCOL.md](STUDY-PROTOCOL.md) ins Deutsche.
+- Bewahrt 12 kognitive Techniken: Active Recall, Spaced Repetition mit Anki, Comprehensible Input+1, Output Hypothesis, Shadowing, Feynman, Deliberate Practice, Spaced Re-Test, Fehler-Journal, Reading Primary Sources, Cohort/Peer, Sustainability checkpoints.
+- Bewahrt tägliches Mindest-Paket-Tabelle (Anki + Shadowing + CI + Aufsatz + Sprachaufnahme + Theorie + Fehlerprotokoll = ~10–15 h/Woche).
+- Anti-Muster bleiben pointiert: "Anki mit isolierten Wörtern → Sie memorieren das Lexikon, können aber nicht produzieren."
+
+### Estatísticas v1.8
+
+```
+Arquivos novos:                                  4
+  ANKI-STARTER-DECK-STAGE-4.md                    1 (~600 cards)
+  SELF-TEST-BANK-STAGE-4.md                       1 (~30 Übungen)
+  MENTOR-DE.md                                    1 (tradução DE paralela)
+  STUDY-PROTOCOL-DE.md                            1 (tradução DE paralela)
+  
+Arquivos modificados:                            5
+  INDEX.md (header)
+  + 4 meta-docs (CHANGELOG, RELEASE-NOTES, SPRINT-NEXT, ROADMAP)
+
+Cumulativo (após v1.8):
+  Anki Stages 1+2+3+4:                           ~2500 cards
+  Self-Test Stages 1+2+3+4:                       120 Übungen
+  Tradução DE:                                     INDEX + MENTOR + STUDY-PROTOCOL (~15% framework)
+  Module total:                                    46 (unverändert)
+  Anhänge:                                         12 (unverändert)
+  Trilhas:                                          7 (unverändert)
+```
+
+### SN-Items resolvidos
+
+- **SN-008** [P2] [experimento] Tradução DE → **Partial enhanced** (INDEX + MENTOR + STUDY-PROTOCOL done; BEGRIFFS-GLOSSAR já em DE; alle Module em v2.5+)
+- **SN-009** [P2] [expansão] Anki Stages 2-5 → **Partial enhanced** (Stages 1+2+3+4 done; Stage 5 em v1.9)
+
+### Backlog imediato (cf. SPRINT-NEXT.md)
+
+- **v1.9** (~próxima sessão): Anki + Self-test Stage 5 (~400 cards + ~30 Übungen) + CAPSTONE-4 exemplar (~30pp Aufklärung-Begriffsanalyse korpusbasiert).
+- **v2.0**: CAPSTONE-5 exemplar (~5000–12000W publizierbarer Aufsatz) + Stage 6 Tracks A + B vollständig.
+
+---
+
 ## v1.7 — Empirische Erweiterung Stage 3 + Tradução DE INDEX (2026-05-09)
 
 ### Eixos da release

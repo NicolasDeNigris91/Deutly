@@ -1,25 +1,25 @@
 # FATHOM-Deutsch — ROADMAP
 
-> Long-term vision document. Strukturierte Aussicht auf die Entwicklung des Frameworks von v1.7 bis v3.0+. Ergänzt [SPRINT-NEXT.md](framework/00-meta/SPRINT-NEXT.md) (taktische Ebene) durch strategische Sicht.
+> Long-term vision document. Strukturierte Aussicht auf die Entwicklung des Frameworks von v1.8 bis v3.0+. Ergänzt [SPRINT-NEXT.md](framework/00-meta/SPRINT-NEXT.md) (taktische Ebene) durch strategische Sicht.
 
 ---
 
-## Status quo (v1.7, 2026-05-09)
+## Status quo (v1.8, 2026-05-09)
 
 ```
 ✅ 5 Stages × 46 Module + 5 Capstones encadeados (Stage 1: 10; Stage 3: 10)
 ✅ 12 Anhänge gramatical-linguistic + konversational (A-L)
-✅ BEGRIFFS-GLOSSAR cumulativo (111 entries cross-Stage)
+✅ BEGRIFFS-GLOSSAR cumulativo (111 entries cross-Stage; bereits in DE)
 ✅ AUDIO-VIDEO-CANON (~30 Quellen mit URLs für Shadowing)
 ✅ 8 Templates output
 ✅ 3 worked examples (CAPSTONE-1, CAPSTONE-2, CAPSTONE-3 sobre Aufklärung)
-✅ Self-test banks Stages 1+2+3 (~90 Übungen cumulativo)
-✅ Anki starter decks Stages 1+2+3 (~1900 cards cumulativo)
-✅ INDEX-DE.md — primeira tradução paralela em DE (SN-008 partial start)
+✅ Self-test banks Stages 1+2+3+4 (~120 Übungen cumulativo)
+✅ Anki starter decks Stages 1+2+3+4 (~2500 cards cumulativo)
+✅ Tradução DE paralela: INDEX + MENTOR + STUDY-PROTOCOL + BEGRIFFS-GLOSSAR (~15% framework)
 ✅ DAG visual Mermaid (13 Diagramme: master + 5 stages + 5 caminhos críticos + Caminho E)
 ✅ 7 Trilhas (A canônica, B Geistes, C Linguistik, D Tradução, E Berufs, F PhD, G Auswandern)
 ✅ Governance: CODE_OF_CONDUCT, .github/, GitHub Actions
-✅ Internationalisierung: README-EN + INDEX-DE.md
+✅ Internationalisierung: README-EN + INDEX/MENTOR/STUDY-PROTOCOL-DE
 ✅ Auditoria sistemática completa (SN-005 cross-refs done; SN-006 ortografia + dash done)
 ✅ Stage 6 outline (Spezialisierungs-Tracks Blueprint)
 ```
@@ -77,20 +77,14 @@
 
 ---
 
-## v1.8 — geplant ~2026-09: Stage-4-Apparat + Tradução DE meta
-
-### Hauptachsen
-
-- ANKI-STARTER-DECK-STAGE-4 (~600 cards): Linguistik histórica, Etymologie, Variation, Generative Syntax, Formale Semantik, Diskursanalyse, Korpus, Kontrastive PT-DE, Hermeneutik.
-- SELF-TEST-BANK-STAGE-4 (~30 Übungen).
-- Tradução DE: MENTOR.md + STUDY-PROTOCOL.md.
-
-### Estatísticas-Ziel v1.8
+## v1.8 — 2026-05-09: Stage-4-Apparat + Tradução DE meta-docs (DONE)
 
 ```
-Anki cumulative:                                ~2500 cards
-Self-test cumulative:                           120 Übungen
-Tradução DE:                                    MENTOR + STUDY-PROTOCOL (~15%)
+✅ ANKI-STARTER-DECK-STAGE-4 (~600 cards: 10 Module + Cross-Module + Stage-Cloze-Diagnose)
+✅ SELF-TEST-BANK-STAGE-4 (~30 Übungen mit Lösungen + 2 Cross-Module + Stage-Final-Skizze ~300W)
+✅ MENTOR-DE.md (Erstübersetzung; SN-008 partial enhanced)
+✅ STUDY-PROTOCOL-DE.md (Erstübersetzung; SN-008 partial enhanced)
+✅ INDEX header atualizado + 4 meta-docs (CHANGELOG, RELEASE-NOTES, SPRINT-NEXT, ROADMAP)
 ```
 
 ---

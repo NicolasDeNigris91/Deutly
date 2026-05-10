@@ -139,9 +139,9 @@ Tipos:
 
 **Estimativa:** 200-400 horas (massivo).
 
-**Status:** **Partial start** (v1.7, 2026-05-09). **INDEX-DE.md done** em [`framework/00-meta/INDEX-DE.md`](INDEX-DE.md) — vollständige paralela Übersetzung des INDEX. Sequenz weiter: v1.8 MENTOR.md + STUDY-PROTOCOL.md em DE; v2.5 alle Module + Anhänge + Templates.
+**Status:** **Partial enhanced** (v1.8, 2026-05-09). **INDEX-DE.md** (v1.7) + **MENTOR-DE.md** + **STUDY-PROTOCOL-DE.md** (v1.8) done — vollständige paralela Übersetzungen der 3 zentralen Meta-Docs. Plus: BEGRIFFS-GLOSSAR.md bereits seit v1.3 vollständig in DE. Sequenz weiter: v2.5 alle Module + Anhänge + Templates.
 
-**Riscos:** Perder acessibilidade para aluno iniciante PT-falante. Mitigação: manter PT-BR como tradução paralela; INDEX-DE.md markiert explizit "PT-BR bleibt Referenz bei Inkonsistenzen".
+**Riscos:** Perder acessibilidade para aluno iniciante PT-falante. Mitigação: manter PT-BR como tradução paralela; alle DE-Übersetzungen markieren explizit "PT-BR bleibt Referenz bei Inkonsistenzen".
 
 ---
 
@@ -160,7 +160,7 @@ Total: ~8000 cards organizados por Stage / módulo / domínio.
 
 **Estimativa:** 100-200 horas + manutenção contínua.
 
-**Status:** **Partial enhanced** (v1.7, 2026-05-09). **Stage 1 done** em v1.4 (~500 cards). **Stage 2 done** em v1.6 (~700 cards) em [`ANKI-STARTER-DECK-STAGE-2.md`](ANKI-STARTER-DECK-STAGE-2.md). **Stage 3 done** em v1.7 (~700 cards) em [`ANKI-STARTER-DECK-STAGE-3.md`](ANKI-STARTER-DECK-STAGE-3.md). Stages 4-5 enfileirados para v1.8-v1.9 (~600 + ~400 cards). Total cumulativo até v2.0: ~2900 cards Stage 2-5 + ~500 Stage 1 = ~3400 cards.
+**Status:** **Partial enhanced** (v1.8, 2026-05-09). **Stage 1 done** em v1.4 (~500 cards). **Stage 2 done** em v1.6 (~700 cards). **Stage 3 done** em v1.7 (~700 cards). **Stage 4 done** em v1.8 (~600 cards) em [`ANKI-STARTER-DECK-STAGE-4.md`](ANKI-STARTER-DECK-STAGE-4.md). Stage 5 enfileirado para v1.9 (~400 cards). Total cumulativo após v2.0: ~2900 cards Stage 2-5 + ~500 Stage 1 = ~3400 cards.
 
 **Riscos:** Cards prontos podem incentivar aluno a NÃO construir cards próprios — perdendo personalisierung. Mitigação: documentar deck como starter, não substituto.
 
@@ -364,9 +364,11 @@ v1.7 — 2026-05-09 — STAGE-3-APPARAT + TRADUÇÃO DE INDEX:    [feito]
                     Stage 3 (~30 Übungen) + INDEX-DE.md
                     + SN-008 partial start
                     + SN-009 partial enhanced (Stages 1+2+3)
-v1.8 — ~2026-09  — Stage-4-Apparat + Tradução DE meta:      [planejado]
+v1.8 — 2026-05-09 — STAGE-4-APPARAT + TRADUÇÃO DE META:     [feito]
                     Anki Stage 4 (~600 cards) + Self-test 
-                    Stage 4 + MENTOR + STUDY-PROTOCOL em DE.
+                    Stage 4 + MENTOR-DE.md + STUDY-PROTOCOL-DE.md
+                    + SN-008 partial enhanced (3 meta-docs em DE)
+                    + SN-009 partial enhanced (Stages 1+2+3+4)
 v1.9 — ~2026-12  — Stage-5-Apparat + CAPSTONE-4 exemplar:   [planejado]
                     Anki Stage 5 (~400 cards) + Self-test 
                     Stage 5 + CAPSTONE-4-AUFKLAERUNG-EXEMPLAR

@@ -4,6 +4,61 @@
 
 ---
 
+## v1.8 — 2026-05-09 — Empirische Erweiterung Stage 4 + Tradução DE meta-docs
+
+### Adicionado
+
+#### Stage-4-Apparat operacional
+
+- **ANKI-STARTER-DECK-STAGE-4.md** (`framework/00-meta/`): ~600 frasal cards organizados pelos 10 módulos do Stage 4 (04-01 Historische Linguistik, 04-02 Etymologie, 04-03 Variationslinguistik, 04-04 Generative Syntax, 04-05 Formale Semantik, 04-06 Diskursanalyse, 04-07 Textlinguistik, 04-08 Korpuslinguistik, 04-09 Kontrastive Linguistik PT-DE, 04-10 Hermeneutik klassischer Texte). Cards por sub-tópico com Belege primários (Grimm, Pfeifer, Frege, Foucault, Heidegger, Gadamer) + Cross-Module-Karten (Generative+Hermeneutik; Korpus+Etymologie+Begriffsanalyse; Kontrastive+Generative) + Stage-4-Cloze-Diagnose. Anki-Tag-Hierarchie + Empfehlung der Karten-Reihenfolge. **Resolve SN-009 partial** (Stages 1+2+3+4 done; Stage 5 in v1.9).
+- **SELF-TEST-BANK-STAGE-4.md** (`framework/00-meta/`): 30 Übungen com Lösungen (3 pro Modul × 10 Module + 2 Cross-Module + 1 Stage-Final-Skizze ~300W). Schwierigkeit ★/★★/★★★. Cada Übung: Frage + Erwartete Lösung + Begründung + Verweis. Vorbereitung explizit für CAPSTONE-4 (korpusbasierte Begriffsanalyse).
+
+#### Tradução DE — Meta-docs paralelas
+
+- **MENTOR-DE.md** (raiz): Erstübersetzung des [MENTOR.md](MENTOR.md) (Mentoring-Protokoll) ins Deutsche. Vollständige Strukturerhaltung (4 Modi + 4-Schicht-Loop der Verfeinerung + 3 Tore + Sprach-/Stilregel + 7 nicht-verhandelbare Prinzipien + Anti-Burlung-Tabelle). Zielgruppe: C1+ Self-Mentoring auf Deutsch oder Tandem mit deutschsprachigem Mentor.
+- **STUDY-PROTOCOL-DE.md** (raiz): Erstübersetzung des [STUDY-PROTOCOL.md](STUDY-PROTOCOL.md) (Kognitive Techniken für L2) ins Deutsche. Vollständige Strukturerhaltung (12 Techniken: Active Recall, Spaced Repetition mit Anki, Comprehensible Input+1, Output Hypothesis, Shadowing, Feynman, Deliberate Practice, Spaced Re-Test, Fehler-Journal, Reading Primary Sources, Cohort/Peer, Sustainability checkpoints + tägliches Mindest-Paket).
+
+### Modificado
+
+#### INDEX.md atualizado
+
+- Header inkludiert Anki Stage 4 + Self-Test Stage 4 + MENTOR-DE + STUDY-PROTOCOL-DE-Verweise.
+
+### Resolvido (SN-Items)
+
+| SN | Prio | Tipo | Título | Status |
+|---|---|---|---|---|
+| SN-008 | P2 | experimento | Tradução do framework para DE | **Partial enhanced** (INDEX + MENTOR + STUDY-PROTOCOL done; BEGRIFFS-GLOSSAR já em DE; alle Module em v2.5+) |
+| SN-009 | P2 | expansão | Anki-Decks pré-construídos | **Partial enhanced** (Stages 1+2+3+4 done; Stage 5 v1.9) |
+
+### Estatísticas v1.8
+
+```
+Arquivos novos:                                  4
+  ANKI-STARTER-DECK-STAGE-4.md                    1 (~600 cards)
+  SELF-TEST-BANK-STAGE-4.md                       1 (~30 Übungen)
+  MENTOR-DE.md                                    1 (tradução DE paralela MENTOR)
+  STUDY-PROTOCOL-DE.md                            1 (tradução DE paralela STUDY-PROTOCOL)
+  
+Arquivos modificados:                            5
+  INDEX.md (header)
+  + 4 meta-docs (CHANGELOG, RELEASE-NOTES, SPRINT-NEXT, ROADMAP)
+
+Conteúdo cumulativo:
+  Anki cards Stages 1+2+3+4:                     ~2500 cards cumulativo
+  Self-test Übungen Stages 1+2+3+4:               120 Übungen cumulativo
+  Tradução DE:                                     INDEX + MENTOR + STUDY-PROTOCOL (~15% framework)
+  Module total (unverändert):                     46
+  Anhänge (unverändert):                          12 (A-L)
+  Trilhas (unverändert):                           7
+```
+
+### Honestidade pedagógica
+
+v1.8 não adiciona novas estruturas conceituais — replica em Stage 4 o padrão operacional v1.6/v1.7 + estende a frente de tradução DE com os 2 dossiês procedurais centrais (MENTOR + STUDY-PROTOCOL). Aluno completando Stages 1-4 com Anki + Self-test entra em CAPSTONE-4 (~30pp korpusbasierte Begriffsanalyse) com Generative-Werkzeug + Hermeneutik-Tradition + Korpus-Praxis + Etymologie-Kompetenz ativos. MENTOR-DE + STUDY-PROTOCOL-DE permitem que aluno C1+ no Modus B (Tandem) ou Modus A (Self-Mentor) operiere komplett auf Deutsch.
+
+---
+
 ## v1.7 — 2026-05-09 — Empirische Erweiterung Stage 3 + Tradução DE INDEX
 
 ### Adicionado
