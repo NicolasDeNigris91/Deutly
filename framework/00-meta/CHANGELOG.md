@@ -4,6 +4,95 @@
 
 ---
 
+## v1.6 — 2026-05-09 — Empirische Erweiterung Stage 2 + Konsistenz-Auditoria
+
+### Adicionado
+
+#### Stage-2-Apparat operacional
+
+- **ANKI-STARTER-DECK-STAGE-2.md** (`framework/00-meta/`): ~700 frasal cards organizados pelos 9 módulos do Stage 2 (02-01 Subordination, 02-02 Konjunktiv I, 02-03 Konjunktiv II, 02-04 Passivkonstruktionen, 02-05 Infinitivsätze, 02-06 FVG, 02-07 Modalverben, 02-08 Topik-Fokus, 02-09 Lexik II). Cards-Cluster por Modul-Sektion + Cross-Module-Karten + Stage-2-Cloze-Diagnose. Anki-Tag-Hierarchie + Empfehlung der Karten-Reihenfolge. **Resolve SN-009 partial** (Stage 2 fertiggestellt; Stages 3-5 in v1.7-v1.9).
+- **SELF-TEST-BANK-STAGE-2.md** (`framework/00-meta/`): 30 Übungen com Lösungen (3 pro Modul × 9 Module + 2 Cross-Module + 1 Stage-Final-Aufsatz ~200W). Schwierigkeit ★/★★/★★★. Cada Übung: Frage + Erwartete Lösung + Begründung + Verweis auf Modul-Sektion. Vorbereitung explizit für CAPSTONE-2.
+
+### Korrigido
+
+#### SN-005 — Cross-Reference-Auditoria sistemática
+
+- Auditoria automatizada via Subagent: 592 links em 112 .md-files verificados.
+- **1 link quebrado real korrigiert**: `STAGE-6-OUTLINE.md:351` referenzierte `ROADMAP.md` mit relativem Pfad statt `../../ROADMAP.md` (root-Position). Fixiert.
+- 1 Placeholder im Template `MODULE-TEMPLATE.md:158` — kein Fix nötig (Template-Eigenschaft).
+
+#### SN-006 — Ortografia + Dash-Auditoria
+
+- Auditoria automatizada via Subagent: 120+ .md-files gescannt.
+- **0 Verstöße** ß/ss em prosa autoral moderna (Categoria A) — confirmação: bereinigung in v1.2 war vollständig; bestand seit Repository-Anfang.
+- **Citações historischer Texte preservaram orthographia originalis** (Categoria B): Brüder Grimm 1857, Kafka 1915, Kant 1787, Luther 1530 — alle Daß/mußte/usw. korrekt erhalten.
+- **66 dash-fixes** in 17 Dateien: hyphen `-` → en-dash `–` in Datums-Ranges (z.B. `1923-29` → `1923–29`, `1927-1998` → `1927–1998`, `1750-1800` → `1750–1800`). Betroffene Dateien:
+  - `framework/00-meta/BEGRIFFS-GLOSSAR.md` (21)
+  - `framework/00-meta/BEGRIFF-INDEX.md` (7)
+  - `framework/00-meta/CAPSTONE-EVOLUTION.md` (2)
+  - `framework/05-meisterschaft/05-04-eigene-stimme.md` (6 + 1 manual)
+  - `framework/05-meisterschaft/05-02-wissenschaftssprache.md` (4 + 1 open-range manual)
+  - `framework/04-system/04-01-historische-linguistik.md` (5)
+  - `framework/03-stil/03-09-lexik-3.md` (5)
+  - `framework/04-system/04-10-hermeneutik.md` (4)
+  - `framework/03-stil/03-08-journalistischer-stil.md` (3)
+  - `framework/02-struktur/02-05-infinitivsaetze.md` (2)
+  - `framework/03-stil/03-03-idiomatik.md` (2)
+  - `framework/04-system/04-02-etymologie.md` · `framework/03-stil/03-06-stilfiguren.md` · `framework/04-system/04-05-formale-semantik.md` · `framework/03-stil/03-10-hoerverstehen.md` · `framework/04-system/04-07-textlinguistik.md` · `framework/04-system/04-06-diskursanalyse.md` (1 cada).
+- ISO-Daten (`2026-05-09`) werden konvenções-gemäß weiter mit hyphen-minus geschrieben (norm).
+
+### Modificado
+
+#### DAG.md erweitert
+
+- Stage 1 Mermaid-Diagramm mit Modul **01-10 Konversation** als parallel-Knoten + Verweis-Konvention.
+- Stage 3 Mermaid-Diagramm mit Modul **03-10 Hörverstehen colloquial** + Cross-Refs zu 03-02/03-04/03-05.
+- Module-counts updated: Stage 1 (9 → 10) + Stage 3 (9 → 10) im globalen cross-Stage-Diagramm.
+- **Caminho E novo** — Konversation → Hörverstehen → Public Output (01-08 → 01-10 → 03-02 → 03-04 → 03-10 → 05-04 → 05-05): caminho crítico für Trilha G (Auswandern). Schließt die explizite Lücke von "Tagesschau-Standard ohne traseira colloquial".
+
+#### INDEX.md atualizado
+
+- Header inclui ANKI-STARTER-DECK-STAGE-2 + SELF-TEST-BANK-STAGE-2.
+
+### Resolvido (SN-Items)
+
+| SN | Prio | Tipo | Título | Status |
+|---|---|---|---|---|
+| SN-005 | P1 | correção | Auditoria consistência cross-module | **Done** (Vollständige sistemática Auditoria; 1 fix) |
+| SN-006 | P1 | melhoria | Edits ortográficos + Dash-Audit | **Done** (Vollständige Auditoria; 66 dash-fixes; 0 ß/ss-Verstöße) |
+| SN-009 | P2 | expansão | Anki-Decks pré-construídos | **Partial enhanced** (Stages 1+2 done; Stages 3-5 in v1.7-v1.9) |
+
+### Estatísticas v1.6
+
+```
+Arquivos novos:                                  2
+  ANKI-STARTER-DECK-STAGE-2.md                    1 (~700 cards)
+  SELF-TEST-BANK-STAGE-2.md                       1 (~30 Übungen)
+  
+Arquivos modificados:                          ~22
+  DAG.md (Stage 1 + Stage 3 Mermaid + Caminho E)
+  INDEX.md (header)
+  STAGE-6-OUTLINE.md (1 link fix)
+  17 Dateien (en-dash sweep)
+  3 meta-docs (CHANGELOG, RELEASE-NOTES, SPRINT-NEXT)
+  ROADMAP.md (status v1.5 → v1.6)
+
+Conteúdo cumulativo:
+  Anki cards Stage 1 + 2:                        ~1200 cumulative
+  Self-test Übungen Stage 1 + 2:                  60 cumulative
+  Module total (unverändert):                     46
+  Anhänge (unverändert):                          12 (A-L)
+  Trilhas (unverändert):                          7
+  Cross-references valid:                          592 (auditiert; 100% gültig)
+  Mermaid-Diagramme cumulativo:                   13 (1 master + 5 stages + 5 caminhos críticos + 2 augmentado)
+```
+
+### Honestidade pedagógica
+
+v1.6 não adiciona conteúdo conceitual novo — adiciona **operacionalidade aprofundada para Stage 2**: o aluno que conclui Stages 1 + 2 com Anki-Stage-2 + Self-test-Stage-2 entra em CAPSTONE-2 com vocabulário argumentativo + drill-Konjunktiv-II/Passiv/FVG ativo, sem necessidade de improvisar próprio Anki-Aufbau apenas com material de Stage 1. Próximas releases (v1.7-v1.9) replicam esta empirische Erweiterung em Stages 3-5.
+
+---
+
 ## v1.5 — 2026-05-09 — Konversations-Lücke geschlossen: 2 Anhänge + 2 Module + Trilha G
 
 ### Adicionado

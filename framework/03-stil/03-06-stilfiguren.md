@@ -437,7 +437,7 @@ Você passa o Konzeptuelles Tor se, **sem consultar**:
 
 ### Texto-âncora
 
-**Martin Heidegger — *Der Ursprung des Kunstwerks*** (1935-36, Vortrag). Heidegger é mestre de Stilfiguren filosóficas — Hyperbaton, Chiasmus, Personifikation, Etymologisierung.
+**Martin Heidegger — *Der Ursprung des Kunstwerks*** (1935–36, Vortrag). Heidegger é mestre de Stilfiguren filosóficas — Hyperbaton, Chiasmus, Personifikation, Etymologisierung.
 
 > "Die Sprache spricht. Aber wer ist es, der spricht? Spricht die Sprache, oder spricht der Mensch? Beide sprechen, doch jeder anders. Indem die Sprache spricht, gibt sie zu denken: nicht nur, was sie sagt, sondern auch, dass sie sagt. Das Sagen versammelt das Erscheinende. Das Erscheinende erscheint im Sagen. Das, was im Sagen erscheint, gehört zum Sein. Das Sein zeigt sich. Und doch verbirgt sich, was sich zeigt. Das Sich-zeigen verbirgt das Sich-verbergen, indem es es zeigt. So gehören Lichtung und Verbergung zusammen wie Tag und Nacht — und doch ist es nicht so, denn die Nacht ist eine andere Lichtung als der Tag, und der Tag eine andere Verbergung als die Nacht."
 

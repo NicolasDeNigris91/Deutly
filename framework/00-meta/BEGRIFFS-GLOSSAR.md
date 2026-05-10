@@ -27,11 +27,11 @@
 
 ### A.2 Bildung ★ (f.)
 
-**Definição:** Auto-formação espiritual-cultural; processo formativo do ser humano integral. **Etymon:** ahd. *bilad-i* "imagem" → mhd. *bilde* "forma" → frnhd. *Bildung* "formação". **Tradição:** humanismo humboldtiano (Wilhelm von Humboldt 1809-10). **Sub-tradições:** neo-humanistisch (Schleiermacher), kritisch (Adorno *Theorie der Halbbildung*), funktional (PISA-Diskurs). **Quellen:** Humboldt *Theorie der Bildung des Menschen* (1793); Adorno *Theorie der Halbbildung* (1959); Gadamer *Wahrheit und Methode* (1960). Cf. → Geist, → Kultur, → Erziehung.
+**Definição:** Auto-formação espiritual-cultural; processo formativo do ser humano integral. **Etymon:** ahd. *bilad-i* "imagem" → mhd. *bilde* "forma" → frnhd. *Bildung* "formação". **Tradição:** humanismo humboldtiano (Wilhelm von Humboldt 1809–10). **Sub-tradições:** neo-humanistisch (Schleiermacher), kritisch (Adorno *Theorie der Halbbildung*), funktional (PISA-Diskurs). **Quellen:** Humboldt *Theorie der Bildung des Menschen* (1793); Adorno *Theorie der Halbbildung* (1959); Gadamer *Wahrheit und Methode* (1960). Cf. → Geist, → Kultur, → Erziehung.
 
 ### A.3 Geist ★ (m.)
 
-**Definição:** Princípio espiritual-intelectual; em Hegel: Selbstbewusste Substanz, dialektisch entfaltet. **Etymon:** ahd. *geist* "Atem, Hauch, Geist" (idg. *gheis-* "erschüttern"). **Tradição:** Idealismo alemão (Hegel, Schelling). **Sub-tradições:** lebensphilosophisch (Dilthey, Bergson), kulturphilosophisch (Cassirer), kritisch (Geistige Vatergestalten in Adorno). **Quellen:** Hegel *Phänomenologie des Geistes* (1807); Dilthey *Einleitung in die Geisteswissenschaften* (1883); Cassirer *Philosophie der symbolischen Formen* (1923-29). Cf. → Vernunft, → Bewusstsein, → Kultur.
+**Definição:** Princípio espiritual-intelectual; em Hegel: Selbstbewusste Substanz, dialektisch entfaltet. **Etymon:** ahd. *geist* "Atem, Hauch, Geist" (idg. *gheis-* "erschüttern"). **Tradição:** Idealismo alemão (Hegel, Schelling). **Sub-tradições:** lebensphilosophisch (Dilthey, Bergson), kulturphilosophisch (Cassirer), kritisch (Geistige Vatergestalten in Adorno). **Quellen:** Hegel *Phänomenologie des Geistes* (1807); Dilthey *Einleitung in die Geisteswissenschaften* (1883); Cassirer *Philosophie der symbolischen Formen* (1923–29). Cf. → Vernunft, → Bewusstsein, → Kultur.
 
 ### A.4 Wahrheit ★ (f.)
 
@@ -59,7 +59,7 @@
 
 ### A.10 Erkenntnis (f., -se)
 
-**Definição:** Begründetes Wissen; Resultat der Verbindung von Anschauung + Begriff (Kantianisch). **Etymon:** ahd. *ar-kennannussî* "das Erkennen". **Tradição:** Erkenntnistheorie (Kant, Hegel, Husserl). **Sub-tradições:** kritisch-transzendental (Kant), phänomenologisch (Husserl), pragmatisch (Peirce), naturalisch (Quine). **Quellen:** Kant *KrV*; Husserl *Logische Untersuchungen* (1900-01); Hegel *Phänomenologie*; Frege *Über Sinn und Bedeutung* (1892). Cf. → Wahrheit, → Begriff, → Anschauung.
+**Definição:** Begründetes Wissen; Resultat der Verbindung von Anschauung + Begriff (Kantianisch). **Etymon:** ahd. *ar-kennannussî* "das Erkennen". **Tradição:** Erkenntnistheorie (Kant, Hegel, Husserl). **Sub-tradições:** kritisch-transzendental (Kant), phänomenologisch (Husserl), pragmatisch (Peirce), naturalisch (Quine). **Quellen:** Kant *KrV*; Husserl *Logische Untersuchungen* (1900–01); Hegel *Phänomenologie*; Frege *Über Sinn und Bedeutung* (1892). Cf. → Wahrheit, → Begriff, → Anschauung.
 
 ### A.11 Erfahrung (f., -en)
 
@@ -91,7 +91,7 @@
 
 ### A.18 Zivilisation (f., -en)
 
-**Definição:** Stufe der materiell-technischen Entwicklung einer Gesellschaft; in DE-Tradition oft pejorativ-Negativ-Folie zu *Kultur* (Spengler, Adorno). **Etymon:** lat. *civilis* "bürgerlich, staatlich", über frz. *civilisation* (18. Jh.). **Tradição:** Aufklärungsphilosophie (Voltaire). **Sub-tradições:** Kulturkritik DE (Spengler *Untergang des Abendlandes* 1918, Adorno), Zivilisationskritik (Elias *Über den Prozeß der Zivilisation* 1939, ambivalent). **Quellen:** Spengler *Untergang des Abendlandes* (1918-22); Elias *Über den Prozeß der Zivilisation* (1939); Adorno *Minima Moralia* (1951). Cf. → Kultur, → Moderne.
+**Definição:** Stufe der materiell-technischen Entwicklung einer Gesellschaft; in DE-Tradition oft pejorativ-Negativ-Folie zu *Kultur* (Spengler, Adorno). **Etymon:** lat. *civilis* "bürgerlich, staatlich", über frz. *civilisation* (18. Jh.). **Tradição:** Aufklärungsphilosophie (Voltaire). **Sub-tradições:** Kulturkritik DE (Spengler *Untergang des Abendlandes* 1918, Adorno), Zivilisationskritik (Elias *Über den Prozeß der Zivilisation* 1939, ambivalent). **Quellen:** Spengler *Untergang des Abendlandes* (1918–22); Elias *Über den Prozeß der Zivilisation* (1939); Adorno *Minima Moralia* (1951). Cf. → Kultur, → Moderne.
 
 ### A.19 Geschichte (f., -n)
 
@@ -155,7 +155,7 @@
 
 ### C.1 Dialektik (f.)
 
-**Definição:** Bewegung des Gegensätzlichen zur Versöhnung; bei Hegel Methode + ontologische Struktur des Geistes. **Etymon:** gr. *dialektikḗ téchnē* "Kunst des Disputierens". **Tradição:** Sokratisch (Platon) → Aristoteles → Hegel. **Sub-tradições:** materialistisch (Marx, Engels), negativ (Adorno *Negative Dialektik*), kritisch-pragmatisch (Habermas), kontrastiv (Sloterdijk). **Quellen:** Hegel *Wissenschaft der Logik* (1812-16); Marx *Das Kapital* I (1867); Adorno *Negative Dialektik* (1966). Cf. → Aufhebung, → Negation, → Geist.
+**Definição:** Bewegung des Gegensätzlichen zur Versöhnung; bei Hegel Methode + ontologische Struktur des Geistes. **Etymon:** gr. *dialektikḗ téchnē* "Kunst des Disputierens". **Tradição:** Sokratisch (Platon) → Aristoteles → Hegel. **Sub-tradições:** materialistisch (Marx, Engels), negativ (Adorno *Negative Dialektik*), kritisch-pragmatisch (Habermas), kontrastiv (Sloterdijk). **Quellen:** Hegel *Wissenschaft der Logik* (1812–16); Marx *Das Kapital* I (1867); Adorno *Negative Dialektik* (1966). Cf. → Aufhebung, → Negation, → Geist.
 
 ### C.2 Aufhebung (f., -en)
 
@@ -227,11 +227,11 @@
 
 ### D.11 Volk (n., Völker)
 
-**Definição:** Gesamtheit der Bürger eines Staates; in Aufklärungstradition: Subjekt der Souveränität. **Etymon:** ahd. *folk* "Schar, Volk". **Tradição:** Aufklärung (Rousseau: peuple). **Sub-tradições:** Romantisch-nationalistisch (Herder: Volksgeist), kritisch (Marx: Klassen statt Volk), populistisch (rechts/links). **Quellen:** Rousseau *Contrat social*; Herder *Ideen zur Philosophie der Geschichte der Menschheit* (1784-91). Cf. → Nation, → Souveränität.
+**Definição:** Gesamtheit der Bürger eines Staates; in Aufklärungstradition: Subjekt der Souveränität. **Etymon:** ahd. *folk* "Schar, Volk". **Tradição:** Aufklärung (Rousseau: peuple). **Sub-tradições:** Romantisch-nationalistisch (Herder: Volksgeist), kritisch (Marx: Klassen statt Volk), populistisch (rechts/links). **Quellen:** Rousseau *Contrat social*; Herder *Ideen zur Philosophie der Geschichte der Menschheit* (1784–91). Cf. → Nation, → Souveränität.
 
 ### D.12 Nation (f., -en)
 
-**Definição:** Politisch-kulturelle Gemeinschaft, oft definiert durch Sprache + Geschichte + Territorium. **Etymon:** lat. *natio* "Geburt, Stamm". **Tradição:** Romantik (Herder, Fichte). **Sub-tradições:** "imagined communities" (Anderson), kritisch (Habermas: Verfassungspatriotismus statt Nation), postnational. **Quellen:** Fichte *Reden an die deutsche Nation* (1807-08); Anderson *Imagined Communities* (1983, dt. 1988); Habermas *Verfassungspatriotismus*. Cf. → Volk, → Souveränität, → Staat.
+**Definição:** Politisch-kulturelle Gemeinschaft, oft definiert durch Sprache + Geschichte + Territorium. **Etymon:** lat. *natio* "Geburt, Stamm". **Tradição:** Romantik (Herder, Fichte). **Sub-tradições:** "imagined communities" (Anderson), kritisch (Habermas: Verfassungspatriotismus statt Nation), postnational. **Quellen:** Fichte *Reden an die deutsche Nation* (1807–08); Anderson *Imagined Communities* (1983, dt. 1988); Habermas *Verfassungspatriotismus*. Cf. → Volk, → Souveränität, → Staat.
 
 ### D.13 Souveränität (f.)
 
@@ -239,7 +239,7 @@
 
 ### D.14 Hegemonie (f.)
 
-**Definição:** Indirekte / kulturelle Vorherrschaft über andere; bei Gramsci: Klassenherrschaft via Konsens (vs. nur Zwang). **Etymon:** gr. *hēgemonía* "Führerschaft". **Tradição:** Marxistisch (Gramsci 1929-37). **Sub-tradições:** Cultural Studies (Williams, Hall), poststrukturalistisch (Laclau/Mouffe). **Quellen:** Gramsci *Quaderni del carcere* (1929-37, dt. *Gefängnishefte* 1991-2002); Laclau/Mouffe *Hegemonie und radikale Demokratie* (1985). Cf. → Macht, → Klasse, → Diskurs.
+**Definição:** Indirekte / kulturelle Vorherrschaft über andere; bei Gramsci: Klassenherrschaft via Konsens (vs. nur Zwang). **Etymon:** gr. *hēgemonía* "Führerschaft". **Tradição:** Marxistisch (Gramsci 1929–37). **Sub-tradições:** Cultural Studies (Williams, Hall), poststrukturalistisch (Laclau/Mouffe). **Quellen:** Gramsci *Quaderni del carcere* (1929–37, dt. *Gefängnishefte* 1991–2002); Laclau/Mouffe *Hegemonie und radikale Demokratie* (1985). Cf. → Macht, → Klasse, → Diskurs.
 
 ---
 
@@ -287,7 +287,7 @@
 
 ### F.1 Schönheit (f., -en)
 
-**Definição:** Ästhetische Qualität; bei Kant: interesseloses Wohlgefallen. **Etymon:** ahd. *scônî*. **Tradição:** Kant *Kritik der Urteilskraft* (1790). **Sub-tradições:** Hegel (Schönheit als sinnliches Scheinen der Idee), Adorno (Schönheit nach Auschwitz unmöglich/notwendig). **Quellen:** Kant *KU* §§1-22; Hegel *Vorlesungen über die Ästhetik* (1835-38); Adorno *Ästhetische Theorie* (1970). Cf. → Erhabenheit, → Kunst.
+**Definição:** Ästhetische Qualität; bei Kant: interesseloses Wohlgefallen. **Etymon:** ahd. *scônî*. **Tradição:** Kant *Kritik der Urteilskraft* (1790). **Sub-tradições:** Hegel (Schönheit als sinnliches Scheinen der Idee), Adorno (Schönheit nach Auschwitz unmöglich/notwendig). **Quellen:** Kant *KU* §§1-22; Hegel *Vorlesungen über die Ästhetik* (1835–38); Adorno *Ästhetische Theorie* (1970). Cf. → Erhabenheit, → Kunst.
 
 ### F.2 Erhabenheit (f.)
 
@@ -295,11 +295,11 @@
 
 ### F.3 Kunst (f., Künste)
 
-**Definição:** Bereich der ästhetischen Hervorbringung. (Heidegger): "Ins-Werk-Setzen der Wahrheit". **Etymon:** ahd. *kunst* "Wissen, Können". **Tradição:** Aristoteles → Hegel (Ende der Kunst) → Adorno. **Sub-tradições:** institutionell (Dickie: art-world), kritisch (Adorno *Ästhetische Theorie*), Hermeneutik (Gadamer), poststrukturell (Derrida). **Quellen:** Hegel *Ästhetik*; Heidegger *Der Ursprung des Kunstwerks* (1935-36, in *Holzwege* 1950); Adorno *Ästhetische Theorie*. Cf. → Werk, → Schönheit.
+**Definição:** Bereich der ästhetischen Hervorbringung. (Heidegger): "Ins-Werk-Setzen der Wahrheit". **Etymon:** ahd. *kunst* "Wissen, Können". **Tradição:** Aristoteles → Hegel (Ende der Kunst) → Adorno. **Sub-tradições:** institutionell (Dickie: art-world), kritisch (Adorno *Ästhetische Theorie*), Hermeneutik (Gadamer), poststrukturell (Derrida). **Quellen:** Hegel *Ästhetik*; Heidegger *Der Ursprung des Kunstwerks* (1935–36, in *Holzwege* 1950); Adorno *Ästhetische Theorie*. Cf. → Werk, → Schönheit.
 
 ### F.4 Werk (n., -e)
 
-**Definição:** Bei Heidegger zentral: das Kunstwerk als Ort der Streitigkeit von Erde + Welt; "Wahrheit setzt sich ins Werk". **Etymon:** ahd. *werk* "Werk, Tat". **Tradição:** Heidegger 1935-36. **Quellen:** Heidegger *Der Ursprung des Kunstwerks*. Cf. → Kunst, → Wahrheit.
+**Definição:** Bei Heidegger zentral: das Kunstwerk als Ort der Streitigkeit von Erde + Welt; "Wahrheit setzt sich ins Werk". **Etymon:** ahd. *werk* "Werk, Tat". **Tradição:** Heidegger 1935–36. **Quellen:** Heidegger *Der Ursprung des Kunstwerks*. Cf. → Kunst, → Wahrheit.
 
 ### F.5 Genie (n., -s)
 
@@ -323,7 +323,7 @@
 
 ### G.3 Begriff (m., -e)
 
-**Definição:** Allgemeine Vorstellung; in Hegel: höchste Stufe der Logik (nach Sein + Wesen). **Etymon:** ahd. *bigrīfan* "umfassen, ergreifen". **Tradição:** Aristoteles → Kant → Hegel → Begriffsgeschichte (Koselleck). **Sub-tradições:** kritisch (Wittgenstein: Familienähnlichkeit statt B.), historisch (Begriffsgeschichte). **Quellen:** Hegel *Wissenschaft der Logik* III; Brunner/Conze/Koselleck *Geschichtliche Grundbegriffe* (1972-97). Cf. → Bedeutung, → Allgemeinheit.
+**Definição:** Allgemeine Vorstellung; in Hegel: höchste Stufe der Logik (nach Sein + Wesen). **Etymon:** ahd. *bigrīfan* "umfassen, ergreifen". **Tradição:** Aristoteles → Kant → Hegel → Begriffsgeschichte (Koselleck). **Sub-tradições:** kritisch (Wittgenstein: Familienähnlichkeit statt B.), historisch (Begriffsgeschichte). **Quellen:** Hegel *Wissenschaft der Logik* III; Brunner/Conze/Koselleck *Geschichtliche Grundbegriffe* (1972–97). Cf. → Bedeutung, → Allgemeinheit.
 
 ### G.4 Zeichen (n., -)
 
@@ -331,7 +331,7 @@
 
 ### G.5 Symbol (n., -e)
 
-**Definição:** Zeichen mit nicht-arbitrarer Beziehung zum Bezeichneten (vs. Saussure-Zeichen). (Cassirer): Mensch als animal symbolicum. **Etymon:** gr. *sýmbolon*. **Tradição:** Cassirer *Philosophie der symbolischen Formen* (1923-29). **Sub-tradições:** psychoanalytisch (Lacan, Jung), strukturalistisch, hermeneutisch (Ricœur). **Quellen:** Cassirer *Philosophie der symbolischen Formen*; Ricœur *Die Interpretation* (1965, dt. 1969). Cf. → Zeichen.
+**Definição:** Zeichen mit nicht-arbitrarer Beziehung zum Bezeichneten (vs. Saussure-Zeichen). (Cassirer): Mensch als animal symbolicum. **Etymon:** gr. *sýmbolon*. **Tradição:** Cassirer *Philosophie der symbolischen Formen* (1923–29). **Sub-tradições:** psychoanalytisch (Lacan, Jung), strukturalistisch, hermeneutisch (Ricœur). **Quellen:** Cassirer *Philosophie der symbolischen Formen*; Ricœur *Die Interpretation* (1965, dt. 1969). Cf. → Zeichen.
 
 ### G.6 Diskurs (m., -e)
 
@@ -379,7 +379,7 @@
 
 ### H.4 Empirie (f.)
 
-**Definição:** Erfahrungs-basiertes Wissen; das Sinnliche / Beobachtbare. **Etymon:** gr. *empeiría* "Erfahrung". **Tradição:** Empirismus (Locke, Hume) vs. Rationalismus (Descartes, Leibniz). **Quellen:** Locke *Essay concerning Human Understanding* (1689); Hume *Treatise* (1739-40). Cf. → Erfahrung, → Theorie.
+**Definição:** Erfahrungs-basiertes Wissen; das Sinnliche / Beobachtbare. **Etymon:** gr. *empeiría* "Erfahrung". **Tradição:** Empirismus (Locke, Hume) vs. Rationalismus (Descartes, Leibniz). **Quellen:** Locke *Essay concerning Human Understanding* (1689); Hume *Treatise* (1739–40). Cf. → Erfahrung, → Theorie.
 
 ### H.5 Hypothese (f., -n)
 
@@ -407,7 +407,7 @@
 
 ### I.2 Offenbarung (f., -en)
 
-**Definição:** Sich-Zeigen Gottes; in Hegel auch säkular (Erscheinung des Geistes). **Etymon:** Subst. von *offenbar* "sichtbar, manifest". **Tradição:** christlich-theologisch → Hegel-Säkularisierung. **Quellen:** Hegel *Philosophie der Religion*; Barth *Kirchliche Dogmatik* (1932-67). Cf. → Glaube.
+**Definição:** Sich-Zeigen Gottes; in Hegel auch säkular (Erscheinung des Geistes). **Etymon:** Subst. von *offenbar* "sichtbar, manifest". **Tradição:** christlich-theologisch → Hegel-Säkularisierung. **Quellen:** Hegel *Philosophie der Religion*; Barth *Kirchliche Dogmatik* (1932–67). Cf. → Glaube.
 
 ### I.3 Säkularisierung (f.)
 
@@ -451,7 +451,7 @@
 
 ### J.8 Lebenswelt (f.)
 
-**Definição:** (Husserl): vorwissenschaftliche, alltägliche Welt der Erfahrung. (Habermas): Hintergrund kommunikativen Handelns. **Etymon:** *Leben* + *Welt*. **Tradição:** Husserl *Krisis* (1936) → Schütz → Habermas. **Sub-tradições:** alltagssoziologisch (Schütz), Habermas (System vs. L.). **Quellen:** Husserl *Die Krisis der europäischen Wissenschaften* (1936); Schütz *Strukturen der Lebenswelt* (1973-84); Habermas *TkH*. Cf. → Welt, → Erfahrung.
+**Definição:** (Husserl): vorwissenschaftliche, alltägliche Welt der Erfahrung. (Habermas): Hintergrund kommunikativen Handelns. **Etymon:** *Leben* + *Welt*. **Tradição:** Husserl *Krisis* (1936) → Schütz → Habermas. **Sub-tradições:** alltagssoziologisch (Schütz), Habermas (System vs. L.). **Quellen:** Husserl *Die Krisis der europäischen Wissenschaften* (1936); Schütz *Strukturen der Lebenswelt* (1973–84); Habermas *TkH*. Cf. → Welt, → Erfahrung.
 
 ### J.9 System (n., -e)
 
@@ -559,11 +559,11 @@ Cobre o nuclear filológico-filosófico para Stages 3-5 + Capstones 2-5 em qualq
 
 ## Quellen primárias para tratamento sistemático
 
-- **Brunner, Otto / Conze, Werner / Koselleck, Reinhart (Hgg.)** — *Geschichtliche Grundbegriffe*. 8 Bde., Stuttgart: Klett-Cotta, 1972-97. **Padrão de Begriffsgeschichte.**
-- **Ritter, Joachim / Gründer, Karlfried / Gabriel, Gottfried (Hgg.)** — *Historisches Wörterbuch der Philosophie*. 13 Bde., Basel: Schwabe, 1971-2007. **Tratado canônico HWPh.**
+- **Brunner, Otto / Conze, Werner / Koselleck, Reinhart (Hgg.)** — *Geschichtliche Grundbegriffe*. 8 Bde., Stuttgart: Klett-Cotta, 1972–97. **Padrão de Begriffsgeschichte.**
+- **Ritter, Joachim / Gründer, Karlfried / Gabriel, Gottfried (Hgg.)** — *Historisches Wörterbuch der Philosophie*. 13 Bde., Basel: Schwabe, 1971–2007. **Tratado canônico HWPh.**
 - **Mittelstraß, Jürgen (Hg.)** — *Enzyklopädie Philosophie und Wissenschaftstheorie*. 8 Bde., 2. Aufl., Stuttgart: Metzler, 2005-18.
 - **Pfeifer, Wolfgang et al.** — *Etymologisches Wörterbuch des Deutschen*. Online via DWDS: https://www.dwds.de/wb/etymwb. **Etymon-Quelle.**
-- **Krings, Hermann / Baumgartner, Hans Michael / Wild, Christoph (Hgg.)** — *Handbuch philosophischer Grundbegriffe*. 3 Bde., München: Kösel, 1973-74.
+- **Krings, Hermann / Baumgartner, Hans Michael / Wild, Christoph (Hgg.)** — *Handbuch philosophischer Grundbegriffe*. 3 Bde., München: Kösel, 1973–74.
 - **Sandkühler, Hans Jörg (Hg.)** — *Enzyklopädie Philosophie*. 3 Bde., 2. Aufl., Hamburg: Meiner, 2010.
 
 ---

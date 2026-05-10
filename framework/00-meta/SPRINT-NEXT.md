@@ -97,7 +97,7 @@ Tipos:
 
 **Estimativa:** 20-30 horas.
 
-**Status:** Partial (v1.2, 2026-05-09). Auditoria pragmática realizada: 55 cross-references entre módulos verificados (todos válidos), inserção de back-links em módulos que tinham anhaenge novos (01-02, 01-04, 02-01, 02-06, 03-06, 04-09). Auditoria sistemática complete deferida para v1.3 (~2026-09).
+**Status:** **Done** (v1.6, 2026-05-09). Auditoria sistemática completa: **592 cross-references em 112 .md-files** auditadas via Subagent automatizado. **1 link quebrado real corrigido** (`STAGE-6-OUTLINE.md:351` → `ROADMAP.md` path-fix para `../../ROADMAP.md`). 1 placeholder em MODULE-TEMPLATE (não-fix necessário; é template). Validade cumulativa: 100%.
 
 ---
 
@@ -113,7 +113,7 @@ Tipos:
 
 **Estimativa:** 15-20 horas.
 
-**Status:** Partial (v1.2, 2026-05-09). 5 fixes ß→ss em paradigmas modernos do Modalverben/wissen (01-03 §2.2, §2.9, Aufgabe; 01-08 §3 IPA-list; FEHLERPROTOKOLL-TEMPLATE Bernhard-Stil). Citações de Kafka 1915, Goethe 1808, Grimm 1857, Kant 1781/87, Luther 1530 preservaram orthographia histórica. Auditoria completa hyphen/dash deferida para v1.3.
+**Status:** **Done** (v1.6, 2026-05-09). Auditoria sistemática completa via Subagent automatizado: **120+ .md-files scanned**. **0 violações ß/ss em prosa autoral moderna** (Categoria A) — confirma que bereinigung em v1.2 foi exaustiva. **Citações historischer Texte** (Brüder Grimm 1857, Kafka 1915, Kant 1787, Luther 1530) preservadas corretamente em orthographia originalis (Categoria B). **66 dash-fixes**: hyphen `-` → en-dash `–` em ranges de datas (1923-29 → 1923–29, 1927-1998 → 1927–1998, 1750-1800 → 1750–1800, etc.) em 17 arquivos. ISO-Daten preservadas com hyphen-minus convencional.
 
 ---
 
@@ -160,7 +160,7 @@ Total: ~8000 cards organizados por Stage / módulo / domínio.
 
 **Estimativa:** 100-200 horas + manutenção contínua.
 
-**Status:** Backlog.
+**Status:** **Partial enhanced** (v1.6, 2026-05-09). **Stage 1 done** em v1.4 (~500 cards). **Stage 2 done** em v1.6 (~700 cards) em [`framework/00-meta/ANKI-STARTER-DECK-STAGE-2.md`](ANKI-STARTER-DECK-STAGE-2.md). Stages 3-5 enfileirados para v1.7-v1.9 (~700 + ~600 + ~400 cards). Total cumulativo após v2.0: ~2900 cards Stage 2-5 + ~500 Stage 1 = ~3400 cards.
 
 **Riscos:** Cards prontos podem incentivar aluno a NÃO construir cards próprios — perdendo personalisierung. Mitigação: documentar deck como starter, não substituto.
 
@@ -353,9 +353,22 @@ v1.5 — 2026-05-09 — KONVERSATIONS-LÜCKE GESCHLOSSEN:         [feito]
                     + Modul 01-10 (Konversation Stage 1)
                     + Modul 03-10 (Hörverstehen colloquial)
                     + Trilha G (Auswandern em LEARNING-PATHWAYS)
-v1.6 — ~2027-06  — Anki decks Stages 2-5 + Self-test banks  [planejado]
-                    Stages 2-5 + Tradução DE parcial
-                    + Peer-review (3-5 Linguisten)
+v1.6 — 2026-05-09 — STAGE-2-APPARAT + KONSISTENZ-AUDITORIA: [feito]
+                    Anki Stage 2 (~700 cards) + Self-test 
+                    Stage 2 (~30 Übungen) + DAG.md atualizado 
+                    com 01-10 + 03-10 + Caminho E
+                    + SN-005 sistemático done (cross-refs, 1 fix)
+                    + SN-006 sistemático done (66 dash-fixes)
+v1.7 — ~2026-06  — Stage-3-Apparat + Tradução DE INDEX:     [planejado]
+                    Anki Stage 3 (~700 cards) + Self-test 
+                    Stage 3 (~30 Übungen) + INDEX em DE.
+v1.8 — ~2026-09  — Stage-4-Apparat + Tradução DE meta:      [planejado]
+                    Anki Stage 4 (~600 cards) + Self-test 
+                    Stage 4 + MENTOR + STUDY-PROTOCOL em DE.
+v1.9 — ~2026-12  — Stage-5-Apparat + CAPSTONE-4 exemplar:   [planejado]
+                    Anki Stage 5 (~400 cards) + Self-test 
+                    Stage 5 + CAPSTONE-4-AUFKLAERUNG-EXEMPLAR
+                    (Begriffsanalyse korpusbasiert, ~30pp).
 v2.0 — ~2028-12  — Comunidade + CAPSTONE-4/5 exemplares     [planejado]
                     + Stage 6 vollständig (4 Tracks)
 v2.5 — ~2029-12  — Feedback-Loop + Tradução DE 100%          [planejado]

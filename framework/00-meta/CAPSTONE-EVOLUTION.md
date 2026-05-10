@@ -147,8 +147,8 @@ Saída concreta:
    zwischen 1750 und 2020 verschoben?"
 
 2. Methode (1 página)
-   - Korpus: DWDS-Kernkorpus 18-21 (Disco-Korpus).
-   - Anfrage: $l = Aufklärung; Zeitbänder: 1750-1800, 1800-1850, ...
+   - Korpus: DWDS-Kernkorpus 18.–21. Jh. (Disco-Korpus).
+   - Anfrage: $l = Aufklärung; Zeitbänder: 1750–1800, 1800–1850, ...
    - Tools: DWDS-Wortprofil, Kollokationsanalyse via Log-Dice.
 
 3. Ergebnisse (5–7 páginas)

@@ -341,7 +341,7 @@ Você passa o Konzeptuelles Tor se, **sem consultar**:
 
 ### Texto-âncora
 
-**Robert Musil — *Der Mann ohne Eigenschaften*** (1930-43), capítulo 1. Musil é mestre de Inf-Sätze encadeados em prosa filosófico-narrativa.
+**Robert Musil — *Der Mann ohne Eigenschaften*** (1930–43), capítulo 1. Musil é mestre de Inf-Sätze encadeados em prosa filosófico-narrativa.
 
 > "Es ist nicht leicht, in einer Welt, die so viele Möglichkeiten zu bieten scheint und doch keine zu erfüllen vermag, sich daran zu gewöhnen, jeden Morgen aufzustehen, ohne genau zu wissen, wozu, und sich abends wieder zur Ruhe zu legen, ohne die Gewissheit zu haben, etwas vollbracht zu haben. Mancher glaubt, dass es ihm gelinge, einfach zu existieren, ohne darüber nachzudenken; andere ringen damit, einen Sinn zu finden, statt sich mit dem Vorhandenen zufriedenzugeben. Ulrich gehörte zu denen, die sich entschlossen hatten, das Problem zu durchdenken, anstatt es nur zu erleiden — wobei er allerdings zugeben musste, dass auch das Durchdenken am Ende nichts ändern würde."
 
@@ -392,7 +392,7 @@ Após terminar, peça o **Praktisches Tor**.
 
 ### Texto primário
 
-- **Musil, Robert** — *Der Mann ohne Eigenschaften* (1930-43). Rowohlt KA.
+- **Musil, Robert** — *Der Mann ohne Eigenschaften* (1930–43). Rowohlt KA.
 
 ---
 

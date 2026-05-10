@@ -72,7 +72,7 @@ Sem este módulo, **CAPSTONE-4** carece de aparelho hermenêutico; Stage 5 invi�
 
 ### 2.1 Tradição hermenêutica DE — quatro figuras centrais
 
-#### Friedrich Schleiermacher (1768-1834)
+#### Friedrich Schleiermacher (1768–1834)
 
 Pai da hermeneutik moderna. *Hermeneutik und Kritik* (póstumo). Estabelece:
 - **Hermeneutischer Zirkel**: compreensão circular todo-parte.
@@ -81,7 +81,7 @@ Pai da hermeneutik moderna. *Hermeneutik und Kritik* (póstumo). Estabelece:
 
 Princípio: "die Rede zuerst ebenso gut und dann besser zu verstehen als ihr Urheber" (compreender o discurso primeiro tão bem, e depois melhor que seu autor).
 
-#### Wilhelm Dilthey (1833-1911)
+#### Wilhelm Dilthey (1833–1911)
 
 Aplicou hermeneutik às Geisteswissenschaft. *Aufbau der geschichtlichen Welt in den Geisteswissenschaften* (1910). Distingue:
 - **Erklären** (explicar): método das Naturwissenschaft (causal).
@@ -89,14 +89,14 @@ Aplicou hermeneutik às Geisteswissenschaft. *Aufbau der geschichtlichen Welt in
 
 Hermeneutik = método rigoroso das Geisteswissenschaft.
 
-#### Martin Heidegger (1889-1976)
+#### Martin Heidegger (1889–1976)
 
 Radicaliza hermeneutik em ontologia. *Sein und Zeit* (1927) §§29-33: Verstehen é estrutura existencial do Dasein, não método científico.
 - **Vorverständnis**: toda compreensão pressupõe pré-compreensão.
 - **Hermeneutischer Zirkel**: estrutural, não vicioso.
 - **Re-etymologisierung**: Begriffe filosóficos requerem retorno a etymons originários.
 
-#### Hans-Georg Gadamer (1900-2002)
+#### Hans-Georg Gadamer (1900–2002)
 
 Aluno de Heidegger; sintetiza tradição em *Wahrheit und Methode* (1960):
 - **Vorurteil** (pré-julgamento): condição produtiva (não negativa) da compreensão.

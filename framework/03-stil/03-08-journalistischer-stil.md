@@ -24,7 +24,7 @@ quiz:
       - "Bürokratendeutsch."
       - "Coloquial puro."
     correct: 1
-    explanation: "Feuilleton-Stil é o sub-registro mais elevado do jornalismo DE: nominal acadêmico + Stilfiguren + vocabulário literário-filosófico + intertextualidade. Habitat canônico: FAZ-Kultur (https://www.faz.net/aktuell/feuilleton/), NZZ-Feuilleton (https://www.nzz.ch/feuilleton), Die Zeit-Feuilleton, Süddeutsche-Kultur. Tradição: Kraus *Die Fackel* (1899-1936), Hofmannsthal, Benjamin (jornalista pré-Frankfurt), Walser. Aprender Feuilleton = aprender prosa ensaística DE de elite."
+    explanation: "Feuilleton-Stil é o sub-registro mais elevado do jornalismo DE: nominal acadêmico + Stilfiguren + vocabulário literário-filosófico + intertextualidade. Habitat canônico: FAZ-Kultur (https://www.faz.net/aktuell/feuilleton/), NZZ-Feuilleton (https://www.nzz.ch/feuilleton), Die Zeit-Feuilleton, Süddeutsche-Kultur. Tradição: Kraus *Die Fackel* (1899–1936), Hofmannsthal, Benjamin (jornalista pré-Frankfurt), Walser. Aprender Feuilleton = aprender prosa ensaística DE de elite."
   - q: "Diferença entre **Glosse** (TAZ-Stil) e **Leitartikel** (FAZ-Stil)?"
     options:
       - "Equivalentes."
@@ -101,7 +101,7 @@ Características:
 - Detalhe descritivo (Stilfiguren moderadas).
 - Citações longas com Konj. I.
 - Imersão / observação participante (em Reportagem-Stil clássico de Egon Erwin Kisch).
-- Volume: 1500-5000 palavras.
+- Volume: 1500–5000 palavras.
 
 Habitat: SZ-Magazin, Zeit-Dossier, Spiegel-Reportage.
 
@@ -167,7 +167,7 @@ Características:
 - Mínima edição interna.
 - Konj. I no enquadramento (introdução do entrevistado).
 - Indikativ em fala direta.
-- Volume: 1500-4000 palavras.
+- Volume: 1500–4000 palavras.
 
 ### 2.2 Marcadores estilísticos por veículo
 

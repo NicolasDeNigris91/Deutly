@@ -1,32 +1,33 @@
 # FATHOM-Deutsch — ROADMAP
 
-> Long-term vision document. Strukturierte Aussicht auf die Entwicklung des Frameworks von v1.4 bis v3.0+. Ergänzt [SPRINT-NEXT.md](framework/00-meta/SPRINT-NEXT.md) (taktische Ebene) durch strategische Sicht.
+> Long-term vision document. Strukturierte Aussicht auf die Entwicklung des Frameworks von v1.6 bis v3.0+. Ergänzt [SPRINT-NEXT.md](framework/00-meta/SPRINT-NEXT.md) (taktische Ebene) durch strategische Sicht.
 
 ---
 
-## Status quo (v1.4, 2026-05-09)
+## Status quo (v1.6, 2026-05-09)
 
 ```
-✅ 5 Stages × 44 Module + 5 Capstones encadeados
-✅ 10 Anhänge gramatical-linguistic (A-J)
+✅ 5 Stages × 46 Module + 5 Capstones encadeados (Stage 1: 10; Stage 3: 10)
+✅ 12 Anhänge gramatical-linguistic + konversational (A-L)
 ✅ BEGRIFFS-GLOSSAR cumulativo (111 entries cross-Stage)
 ✅ AUDIO-VIDEO-CANON (~30 Quellen mit URLs für Shadowing)
 ✅ 8 Templates output
 ✅ 3 worked examples (CAPSTONE-1, CAPSTONE-2, CAPSTONE-3 sobre Aufklärung)
-✅ Self-test bank Stage 1
-✅ Anki starter deck Stage 1 (~500 cards)
-✅ DAG visual Mermaid (12 Diagramme)
+✅ Self-test bank Stage 1 + Stage 2 (~60 Übungen cumulativo)
+✅ Anki starter decks Stage 1 + Stage 2 (~1200 cards cumulativo)
+✅ DAG visual Mermaid (13 Diagramme: master + 5 stages + 5 caminhos críticos + Caminho E novo)
+✅ 7 Trilhas (A canônica, B Geistes, C Linguistik, D Tradução, E Berufs, F PhD, G Auswandern)
 ✅ Governance: CODE_OF_CONDUCT, .github/, GitHub Actions
 ✅ Internationalisierung: README-EN
-✅ Auditoria pragmática (cross-refs verified)
+✅ Auditoria sistemática completa (SN-005 cross-refs done; SN-006 ortografia + dash done)
 ✅ Stage 6 outline (Spezialisierungs-Tracks Blueprint)
 ```
 
-**Status:** **operational world-class genuíno** für PT-falante adulto reaching C2+ in germanística filosófica.
+**Status:** **operational world-class genuíno** für PT-falante adulto reaching C2+ in germanística filosófica + alltagssprachlich-Auswanderer-Szenarien.
 
 ---
 
-## v1.4 — 2026-05-09 (parcial v2.0): Aprofundamento operacional
+## v1.4 — 2026-05-09: Aprofundamento operacional
 
 ```
 ✅ 3 Templates novos (GLOSSE, UEBERSETZUNGSANALYSE, VEROEFFENTLICHUNG)
@@ -39,49 +40,93 @@
 
 ---
 
-## v1.5 — geplant ~2027-06-12: Empirische Erweiterung
-
-### Hauptachsen
-
-#### Anki-Decks vollständig (Stage 2-5)
-
-- ANKI-STARTER-DECK-STAGE-2 (~700 cards): Subordination, Konjunktiv, Passiv, FVG, Modalverben, Topik-Fokus, operationaler Wortschatz.
-- ANKI-STARTER-DECK-STAGE-3 (~700 cards): Stilistik, Pragmatik, Idiomatik, Modalpartikeln, Stilfiguren, Wissenschaftsdeutsch, Lexik III.
-- ANKI-STARTER-DECK-STAGE-4 (~600 cards): Historische Linguistik, Etymologie, Variation, Generative Syntax, Formale Semantik, Diskursanalyse, Korpus, Kontrastive PT-DE, Hermeneutik.
-- ANKI-STARTER-DECK-STAGE-5 (~400 cards): Politische Sprache, Wissenschaftssprache, Übersetzung, Eigene Stimme, Public Output.
-
-Total: ~2900 cards Stage 2-5 + ~500 Stage 1 = **~3400 cumulative**.
-
-#### Self-test banks Stage 2-5
-
-- Analog zur Stage-1-Bank: ~30 Übungen pro Stage mit Lösungen.
-
-#### Tradução parcial DE (SN-008)
-
-- INDEX.md, MENTOR.md, STUDY-PROTOCOL.md, BEGRIFFS-GLOSSAR.md komplett ins DE.
-- 5-10 Schlüsselmodule (z.B. 01-01, 02-01, 03-07, 04-10, 05-04) ins DE.
-- Ziel: aluno C2+ kann Framework selbst in DE konsultieren.
-- Volume: ~50 Stunden.
-
-#### Peer-Review (SN-010 partial)
-
-- Submission an 3-5 DE-Linguisten / Germanisten.
-- Feedback gesammelt + dokumentiert.
-- Korrekturen implementiert.
-
-### Estatísticas-Ziel v1.5
+## v1.5 — 2026-05-09: Konversations-Lücke geschlossen
 
 ```
-Anki-Decks:                          ~3400 cumulative cards
-Self-test banks:                      5 (alle Stages)
-Tradução DE:                          ~10-15 Module + alle Meta-Docs (~30%)
-Peer-Reviewer:                        3-5
-Cross-references valid:               unverändert ~55+
+✅ ANHANG K (Alltagskommunikation) + ANHANG L (Dialekte + Soziolekte)
+✅ Modul 01-10 (Konversation Stage 1 — Tandem-vorbereitend)
+✅ Modul 03-10 (Hörverstehen colloquial)
+✅ Trilha G (Auswandern)
+✅ Stage 1 erweitert auf 10 Module; Stage 3 erweitert auf 10 Module; Total 46 Module
 ```
 
 ---
 
-## v2.0 — geplant ~2028-12: Comunidade + Capstones-2/3/4/5 exemplares
+## v1.6 — 2026-05-09: Stage-2-Apparat + Konsistenz-Auditoria
+
+```
+✅ ANKI-STARTER-DECK-STAGE-2 (~700 cards: 9 Module × cards-Cluster + Cross-Module + Cloze-Diagnose)
+✅ SELF-TEST-BANK-STAGE-2 (~30 Übungen mit Lösungen + Cross-Module + Stage-Final-Aufsatz)
+✅ DAG.md atualizado (Stage 1 + Stage 3 com 01-10 + 03-10; Caminho E novo Konversation→Public Output)
+✅ SN-005 [P1] cross-refs sistemático done (592 links/112 files; 1 fix)
+✅ SN-006 [P1] ortografia + dash sistemático done (66 dash-fixes; 0 ß/ss-Verstöße)
+✅ INDEX header + STAGE-6-OUTLINE link fix + 3 meta-docs atualizados
+```
+
+---
+
+## v1.7 — geplant ~2026-06: Stage-3-Apparat + Tradução DE INDEX
+
+### Hauptachsen
+
+#### Anki + Self-test Stage 3
+
+- ANKI-STARTER-DECK-STAGE-3 (~700 cards): Stilistik, Pragmatik, Idiomatik, Modalpartikeln (saturation), Stilfiguren, Wissenschaftsdeutsch hoch, Lexik III geisteswissenschaftlich.
+- SELF-TEST-BANK-STAGE-3 (~30 Übungen) com Lösungen.
+
+#### Tradução DE parcial (SN-008 partial start)
+
+- INDEX.md em DE.
+
+### Estatísticas-Ziel v1.7
+
+```
+Anki cumulative:                                ~1900 cards (Stages 1+2+3)
+Self-test cumulative:                            90 Übungen
+Tradução DE:                                     INDEX.md (~5%)
+```
+
+---
+
+## v1.8 — geplant ~2026-09: Stage-4-Apparat + Tradução DE meta
+
+### Hauptachsen
+
+- ANKI-STARTER-DECK-STAGE-4 (~600 cards): Linguistik histórica, Etymologie, Variation, Generative Syntax, Formale Semantik, Diskursanalyse, Korpus, Kontrastive PT-DE, Hermeneutik.
+- SELF-TEST-BANK-STAGE-4 (~30 Übungen).
+- Tradução DE: MENTOR.md + STUDY-PROTOCOL.md.
+
+### Estatísticas-Ziel v1.8
+
+```
+Anki cumulative:                                ~2500 cards
+Self-test cumulative:                           120 Übungen
+Tradução DE:                                    MENTOR + STUDY-PROTOCOL (~15%)
+```
+
+---
+
+## v1.9 — geplant ~2026-12: Stage-5-Apparat + CAPSTONE-4 exemplar
+
+### Hauptachsen
+
+- ANKI-STARTER-DECK-STAGE-5 (~400 cards): Politische Sprache, Wissenschaftssprache, Übersetzung, Eigene Stimme, Public Output.
+- SELF-TEST-BANK-STAGE-5 (~30 Übungen).
+- **CAPSTONE-4-AUFKLAERUNG-EXEMPLAR.md** — Begriffsanalyse korpusbasiert (~30pp.) com DWDS-Frequenzen + Kollokationen + 30+ Belege.
+
+### Estatísticas-Ziel v1.9
+
+```
+Anki cumulative:                                ~2900 cards (Stage 1-5 alle)
+Self-test cumulative:                           150 Übungen
+Capstone-Exemplares:                              4 (CAPSTONE-1 bis -4)
+```
+
+---
+
+## v2.0 — geplant ~2027-06: Comunidade + CAPSTONE-5 exemplar + Stage 6 Tracks A+B
+
+> **Hinweis:** v1.5 (in der ursprünglichen Roadmap als 2027-06 geplant — Anki Stages 2-5 + Self-test 2-5 + Tradução DE) ist via v1.5/v1.6/v1.7/v1.8/v1.9 vorgezogen worden, in Cadência ~3 Monate pro Stage-Apparat. v2.0 verschiebt sich entsprechend nach vorne.
 
 ### Hauptachsen
 
@@ -96,7 +141,7 @@ Cross-references valid:               unverändert ~55+
 #### Capstones exemplares vollständig (SN-014)
 
 - CAPSTONE-4 — *Aufklärung* korpusbasierte Begriffsanalyse (~30 pp.).
-- CAPSTONE-5 — *Aufklärung* publizierter Aufsatz (5000-12000 W).
+- CAPSTONE-5 — *Aufklärung* publizierter Aufsatz (5000–12000 W).
 - (Alternativ andere Begriffe: Bildung, Geist, Wahrheit, Macht, Sein, Sprache.)
 
 #### Stage 6 vollständig (SN-016)
@@ -117,7 +162,7 @@ Comunidade:                     Discord/Matrix mit ~50-200 Lernenden
 Capstones exemplares:           5 (Capstone-1 bis -5 cumulative)
 Stage 6 Module:                 ~30 (alle 4 Tracks)
 Cross-references:               ~80+ (mit Stage 6)
-Module total:                    44 + 30 = ~74
+Module total:                    46 + 30 = ~76
 ```
 
 ---

@@ -4,6 +4,112 @@
 
 ---
 
+## v1.6 — Empirische Erweiterung Stage 2 + Konsistenz-Auditoria (2026-05-09)
+
+### Eixos da release
+
+Eleva v1.5 (Konversations-Lücke geschlossen) para v1.6 (**operacionalidade aprofundada Stage 2**: 2 dossiês operacionais novos para o aluno em Stage 2 + 1 auditoria sistemática de consistência cross-module que fecha SN-005 + SN-006 do P1-backlog).
+
+### Motivação
+
+v1.4 entregou Stage-1-Apparat (Anki ~500 cards + Self-test ~30 Übungen). v1.6 estende o mesmo padrão para Stage 2: aluno entra em CAPSTONE-2 com vocabulário argumentativo ativo + drills de Konjunktiv-II/Passiv/FVG/Topik-Fokus + Übungen com Lösungen. Em paralelo, encerra dois P1-Items pendentes desde v1.2: cross-reference-auditoria (SN-005) e ortografia/dash-auditoria (SN-006).
+
+### Conteúdo novo
+
+#### ANKI-STARTER-DECK-STAGE-2 (~700 cards)
+
+9 Modul-Sektionen com cards exemplares por sub-tópico + Cross-Module-Karten + Stage-2-Cloze-Diagnose:
+
+- **02-01 Subordination** (~80): Subjunktor-Identifikation, Verbstellung, indirekte Frage, Komma-Regel, Klassen syntaktisch (Konjunktor / Subjunktor / Konjunktionaladverb).
+- **02-02 Konjunktiv I** (~70): Bildung, indirekte Rede, Konj.-I/Indikativ-Synkretismen-Lösung über Konj. II, Tempora.
+- **02-03 Konjunktiv II** (~80): starke vs. schwache Verben, Irrealis Gegenwart + Vergangenheit, Höflichkeit, würde-Periphrase Anwendung.
+- **02-04 Passivkonstruktionen** (~80): werden- vs. sein- vs. bekommen-Passiv, Modalverb + Passiv, Passiv-Ersatzformen.
+- **02-05 Infinitivsätze** (~70): zu-Regel, um zu / damit / anstatt zu / ohne zu, AcI-Konstruktionen kausativ + permissiv + Wahrnehmung.
+- **02-06 FVG** (~90): Funktionsverb-Inventar, Vollverb-Äquivalenz, Domänen-Marker (Wissenschaft / Jurisprudenz / Bürokratie / Politik / Gehoben / Neutro). Cf. ANHANG G.
+- **02-07 Modalverben** (~80): deontisch vs. epistemisch, Modal-Skala epistemisch, Modal + Inf. Perfekt für Vergangenheits-Vermutung. Cf. ANHANG B.
+- **02-08 Topik-Fokus** (~60): Vorfeldwahl, expletives es, Mittelfeld-Reihenfolge, Akzent + Fokus.
+- **02-09 Lexik II** (~90): Konnektoren akademisch, Argumentations-Verben gradiert, Begriff-Synonymie, abstufende Adverbien, Kollokationen wissenschaftlich.
+
+Plus Cross-Module-Karten (Konj.II + Modal + Passiv; Subordination + Konj. I; FVG + Passiv) + Stage-Final-Cloze-Diagnose.
+
+#### SELF-TEST-BANK-STAGE-2 (30 Übungen + 1 Aufsatz-Diagnose)
+
+Para cada Modul: 1 ★ (einfach) + 1 ★★ (mittel) + 1 ★★★ (schwierig) Übung mit Erwarteter Lösung + Begründung + Modul-Verweis. Plus 2 Cross-Module-Übungen + 1 Stage-Final-Aufsatz (~200W) zum Selbst-Diagnostizieren der Stage-2-Reife für CAPSTONE-2. Schwierigkeit gradiert; Modul-Reihenfolge nicht fest, parallele Bearbeitung möglich.
+
+### Auditoria sistemática (P1-backlog gschlossen)
+
+#### SN-005 — Cross-References
+
+- **592 Links über 112 .md-files** automatisiert auditiert via Subagent.
+- **1 broken link real korrigiert**: STAGE-6-OUTLINE.md → ROADMAP.md (path `ROADMAP.md` → `../../ROADMAP.md`).
+- 1 Placeholder im MODULE-TEMPLATE (kein Fix nötig — Template-Eigenschaft).
+- **Validität-Quote: 100% nach Fix**.
+
+#### SN-006 — Ortografia + Dash
+
+- **120+ .md-files automatisiert auditiert**.
+- **0 Verstöße ß/ss in autoral-modernen Texten** — Bestätigung: bereinigung in v1.2 war vollständig.
+- **Citações historischer Texte** (Brüder Grimm 1857 + Kafka 1915 + Kant 1787 + Luther 1530) **bestehen orthographia originalis korrekt** (Categoria B preserved).
+- **66 dash-fixes**: hyphen → en-dash in Datums-Ranges (`1923-29` → `1923–29`, `1927-1998` → `1927–1998`, `1750-1800` → `1750–1800`, etc.) in 17 Dateien (BEGRIFFS-GLOSSAR + BEGRIFF-INDEX + 15 weitere).
+- **Method**: PowerShell + .NET API (UTF-8 ohne BOM) für korrekte Encoding. Erste Versuch mit Default-PowerShell-Encoding (cp1252 → UTF-8 doppel-Encoding) ergab Korrupierung; rückgängig gemacht via git checkout; korrekt re-applied.
+
+### Conteúdo modifikado
+
+#### DAG.md
+
+- Stage-1-Mermaid + Stage-3-Mermaid integrieren neue Module 01-10 + 03-10 als parallel-Knoten.
+- **Caminho E novo** im DAG: Konversation → Hörverstehen → Public Output (für Trilha G Auswandern).
+- Module-counts updated im globalen cross-Stage-Diagramm: Stage 1 (10) + Stage 3 (10).
+
+#### INDEX.md
+
+- Header inkludiert Anki-Stage-2 + Self-Test-Stage-2-Verweise.
+
+### Wartung + Iteration
+
+- Encoding-Lehre: bei automatischen Schreiboperationen in Windows PowerShell IMMER `[System.IO.File]::WriteAllText` mit `UTF8Encoding $false` (no BOM); niemals `Set-Content -Encoding UTF8` (5.1 schreibt BOM).
+- En-dash sweep ist idempotent — re-Anwendung ändert nichts.
+
+### Estatísticas v1.6
+
+```
+Arquivos novos:                                  2
+  ANKI-STARTER-DECK-STAGE-2.md                    1 (~700 cards)
+  SELF-TEST-BANK-STAGE-2.md                       1 (~30 Übungen)
+  
+Arquivos modificados:                          ~22
+  DAG (Mermaid + Caminho E)
+  INDEX (header)
+  STAGE-6-OUTLINE (link fix)
+  17 Dateien (en-dash sweep)
+  CHANGELOG + RELEASE-NOTES + SPRINT-NEXT (release-docs)
+  ROADMAP (status update)
+
+Cumulativo (após v1.6):
+  Anki Stage 1+2:                                ~1200 cards
+  Self-Test Stage 1+2:                            60 Übungen
+  Module total:                                   46 (unverändert)
+  Anhänge:                                        12 (unverändert)
+  Trilhas:                                         7 (unverändert)
+  Cross-references valid (100%):                  592
+  Mermaid-Diagramme:                             13
+```
+
+### SN-Items resolvidos / encerrados
+
+- **SN-005** [P1] [correção] Auditoria consistência cross-module → **Done**
+- **SN-006** [P1] [melhoria] Edits ortográficos cross-module + Dash → **Done**
+- **SN-009** [P2] [expansão] Anki-Decks pré-construídos → **Partial enhanced** (Stages 1+2 done; Stages 3-5 v1.7-v1.9)
+
+### O que está em backlog imediato (cf. SPRINT-NEXT.md atualizado)
+
+- v1.7 (~próxima sessão): Anki + Self-test Stage 3 (~700 cards + ~30 Übungen) + Tradução DE INDEX.
+- v1.8: Anki + Self-test Stage 4 + Tradução DE MENTOR + STUDY-PROTOCOL.
+- v1.9: Anki + Self-test Stage 5 + CAPSTONE-4 exemplar.
+- v2.0: CAPSTONE-5 exemplar + Stage 6 Tracks A + B vollständig.
+
+---
+
 ## v1.5 — Konversations-Lücke geschlossen (2026-05-09)
 
 ### Eixos da release

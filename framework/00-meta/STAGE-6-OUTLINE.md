@@ -348,7 +348,7 @@ Möglich, aber nicht parallel: Stage 6 ist anstrengend. Empfehlung: einen Track 
   - [05-03 Übersetzungstheorie](../05-meisterschaft/05-03-uebersetzungstheorie.md) — Anker für Track A.
   - [05-06 Mentoring](../05-meisterschaft/05-06-mentoring.md) — Anker für Track D.
 - [CAPSTONE-EVOLUTION.md](CAPSTONE-EVOLUTION.md) — Erkenntnisprojekt v0-v4 (vor Stage 6 abgeschlossen).
-- [ROADMAP.md](ROADMAP.md) — long-term Vision für FATHOM-Deutsch.
+- [ROADMAP.md](../../ROADMAP.md) — long-term Vision für FATHOM-Deutsch.
 
 ---
 

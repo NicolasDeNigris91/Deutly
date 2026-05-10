@@ -420,7 +420,7 @@ Após terminar, peça o **Praktisches Tor**.
 
 1. **Pfeifer, Wolfgang (Hg.)** — *Etymologisches Wörterbuch des Deutschen*. dtv, 2005. **Definitivo.**
 2. **Kluge, Friedrich** — *Etymologisches Wörterbuch der deutschen Sprache*. 25. Aufl. De Gruyter, 2011.
-3. **Grimm, Jacob/Wilhelm** — *Deutsches Wörterbuch* (DWB). 1854-1961. **Léxico histórico-etimológico exhaustivo.**
+3. **Grimm, Jacob/Wilhelm** — *Deutsches Wörterbuch* (DWB). 1854–1961. **Léxico histórico-etimológico exhaustivo.**
 
 ### Manuais
 

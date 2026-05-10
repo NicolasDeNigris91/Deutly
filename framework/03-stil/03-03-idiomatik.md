@@ -394,8 +394,8 @@ Após terminar, peça o **Praktisches Tor**.
 ### Léxicos / Coleções
 
 - **Duden, Bd. 11: Redewendungen**. 4. Aufl. 2013. **Léxico canônico de Idiomas.**
-- **Röhrich, Lutz** — *Lexikon der sprichwörtlichen Redensarten*. 5 Bde. Herder, 1991-1992.
-- **Wander, Karl Friedrich Wilhelm** — *Deutsches Sprichwörter-Lexikon*. 5 Bde. 1867-1880. **Coleção histórica de Sprichwörter.**
+- **Röhrich, Lutz** — *Lexikon der sprichwörtlichen Redensarten*. 5 Bde. Herder, 1991–1992.
+- **Wander, Karl Friedrich Wilhelm** — *Deutsches Sprichwörter-Lexikon*. 5 Bde. 1867–1880. **Coleção histórica de Sprichwörter.**
 - **Büchmann, Georg** — *Geflügelte Worte: Der klassische Zitatenschatz*. 1864 (com revisões posteriores). **Geflügelte Worte canônicos.**
 
 ### Recursos online

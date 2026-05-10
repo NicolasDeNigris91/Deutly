@@ -233,7 +233,7 @@ Shadowing aktiviert **simultan** Hörverstehen + Aussprache + Phrase-Memorierung
 
 #### D) Goodbye, Lenin! (Wolfgang Becker, 2003)
 
-**Beschreibung:** Komödie-Drama um die Wende 1989-90. Standard-DE + DDR-Lexik (Trabbi, Jugend-Pioniere, etc.).
+**Beschreibung:** Komödie-Drama um die Wende 1989–90. Standard-DE + DDR-Lexik (Trabbi, Jugend-Pioniere, etc.).
 
 **Niveau:** B2 zentral.
 

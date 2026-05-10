@@ -236,7 +236,7 @@ Modalverben (cf. 02-07) também envolvem quantificação sobre mundos possíveis
 
 ### 2.5 Funktionale Semantik — λ-Kalkül
 
-Aplicação funcional via λ-abstração (Church 1932-41; aplicado a Sprache: Montague 1973).
+Aplicação funcional via λ-abstração (Church 1932–41; aplicado a Sprache: Montague 1973).
 
 #### Exemplos
 

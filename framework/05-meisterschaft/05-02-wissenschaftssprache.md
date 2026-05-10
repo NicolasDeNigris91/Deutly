@@ -16,7 +16,7 @@ quiz:
       - "Variação dialetal."
       - "Apenas filosóficos."
     correct: 1
-    explanation: "Os três pilares da prosa filosófico-sociológica DE pós-1950 operam estratégias distintas. Habermas (1929-) constrói sistema rekonstruktiv com terminologia precisa (kommunikative Vernunft, Geltungsanspruch, Lebenswelt). Luhmann (1927-1998) constrói sistema funktional fechado com vocabulário próprio (Operation, autopoiesis, funktionale Differenzierung). Adorno (1903-1969) opera kritische Theorie aforística, recusando sistemas, via Stilfiguren (Hyperbaton, Antithese, Konstellation). Cada um define sub-tradição em germanística filosófica."
+    explanation: "Os três pilares da prosa filosófico-sociológica DE pós-1950 operam estratégias distintas. Habermas (1929-) constrói sistema rekonstruktiv com terminologia precisa (kommunikative Vernunft, Geltungsanspruch, Lebenswelt). Luhmann (1927–1998) constrói sistema funktional fechado com vocabulário próprio (Operation, autopoiesis, funktionale Differenzierung). Adorno (1903–1969) opera kritische Theorie aforística, recusando sistemas, via Stilfiguren (Hyperbaton, Antithese, Konstellation). Cada um define sub-tradição em germanística filosófica."
   - q: "Em **Habermas Theorie des kommunikativen Handelns** (1981), qual o **Begriff zentral** organizador?"
     options:
       - "Apenas Sprache."
@@ -56,9 +56,9 @@ quiz:
 ## 1. Sprachliches Problem
 
 Habermas, Luhmann, Adorno são **três figuras canônicas** da Wissenschaftssprache DE pós-1945. Cada um operou uma estratégia distinta de Wissenschaftsdeutsch hoch:
-- **Habermas (1929-)**: systematisch-konstruktiv.
-- **Luhmann (1927-1998)**: systematisch-funktional autopoietisch.
-- **Adorno (1903-1969)**: aphoristisch-kritisch.
+- **Habermas (1929–)**: systematisch-konstruktiv.
+- **Luhmann (1927–1998)**: systematisch-funktional autopoietisch.
+- **Adorno (1903–1969)**: aphoristisch-kritisch.
 
 Sem dominar leitura desses três autores em DE original, **Stage 5 não opera**: Capstone-5 (publicação em revista DE/AT/CH) exige interlocução com tradição filosófica viva.
 

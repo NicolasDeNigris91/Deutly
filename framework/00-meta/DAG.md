@@ -25,9 +25,9 @@ flowchart LR
     classDef stage5 fill:#f5f0ff,stroke:#3a0a8c,color:#1a0040
     classDef capstone fill:#fffacd,stroke:#806000,color:#332400,stroke-width:3px
 
-    S1["Stage 1 — FUNDAMENTE<br/>(9 Module)"]:::stage1
+    S1["Stage 1 — FUNDAMENTE<br/>(10 Module)"]:::stage1
     S2["Stage 2 — STRUKTUR<br/>(9 Module)"]:::stage2
-    S3["Stage 3 — STIL<br/>(9 Module)"]:::stage3
+    S3["Stage 3 — STIL<br/>(10 Module)"]:::stage3
     S4["Stage 4 — SYSTEM<br/>(10 Module)"]:::stage4
     S5["Stage 5 — MEISTERSCHAFT<br/>(7 Module)"]:::stage5
 
@@ -59,6 +59,7 @@ flowchart LR
     M0107["01-07<br/>Negation + MP"]:::base
     M0108["01-08<br/>Phonetik"]:::parallel
     M0109["01-09<br/>Grundwortschatz"]:::base
+    M0110["01-10<br/>Konversation"]:::parallel
     C1[["CAPSTONE-1<br/>Glossar v0"]]:::capstone
 
     M0101 --> M0102
@@ -70,6 +71,7 @@ flowchart LR
     M0104 --> M0109
     M0101 --> M0107
     M0103 --> M0107
+    M0108 -.-> M0110
 
     M0102 --> C1
     M0103 --> C1
@@ -79,7 +81,10 @@ flowchart LR
     M0107 --> C1
     M0108 --> C1
     M0109 --> C1
+    M0110 --> C1
 ```
+
+> **Konvention:** 01-10 (Konversation) ist parallel und erfordert Tandem-Praxis (Modus B); 01-08 (Phonetik) ist Voraussetzung lautlich (gepunktet), aber kein hartes Prereq.
 
 ---
 
@@ -152,6 +157,7 @@ flowchart LR
     M0307["03-07<br/>Wissenschaftl. Schreiben"]:::base
     M0308["03-08<br/>Journalistischer Stil"]:::base
     M0309["03-09<br/>Lexik III"]:::base
+    M0310["03-10<br/>Hörverstehen colloquial"]:::base
     C3[["CAPSTONE-3<br/>Aufsatz 5000 W"]]:::capstone
 
     S2_0206 -.-> M0301
@@ -164,6 +170,9 @@ flowchart LR
     M0301 --> M0306
     M0301 --> M0307
     M0302 --> M0308
+    M0302 --> M0310
+    M0304 --> M0310
+    M0305 --> M0310
 
     M0301 --> C3
     M0302 --> C3
@@ -174,7 +183,10 @@ flowchart LR
     M0307 --> C3
     M0308 --> C3
     M0309 --> C3
+    M0310 --> C3
 ```
+
+> **Konvention:** 03-10 (Hörverstehen colloquial) konsolidiert Register (03-02), Pragmatik (03-04) und Modalpartikeln (03-05) in der Rezeption; cross-link an 01-08 Phonetik + 01-10 Konversation für Aussprache-Internalisierung.
 
 ---
 
@@ -350,6 +362,25 @@ flowchart LR
 ```
 
 Sem este caminho, CAPSTONE-4 não tem método empírico — vira ensaio impressionista.
+
+### Caminho E — Konversation → Hörverstehen → Public Output (Trilha G Auswandern)
+
+```mermaid
+flowchart LR
+    classDef path fill:#fffacd,stroke:#806000,color:#332400,stroke-width:2px
+
+    E1["01-08<br/>Phonetik"]:::path
+    E2["01-10<br/>Konversation Stage 1"]:::path
+    E3["03-02<br/>Register"]:::path
+    E4["03-04<br/>Pragmatik"]:::path
+    E5["03-10<br/>Hörverstehen colloquial"]:::path
+    E6["05-04<br/>Eigene Stimme"]:::path
+    E7["05-05<br/>Public Output"]:::path
+
+    E1 --> E2 --> E3 --> E4 --> E5 --> E6 --> E7
+```
+
+Sem este caminho, fluência conversacional cotidiana fica em **Tagesschau-Standard sem traseira colloquial** — ouvinte profissional entende, mas no Späti em Berlin trava. Caminho crítico para Trilha G (Auswandern, cf. LEARNING-PATHWAYS §7.5).
 
 ---
 

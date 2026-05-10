@@ -105,7 +105,7 @@ Conceito intraduzível em PT (≠ educação, formação, cultura).
 2. Schiller, Über die ästhetische Erziehung des Menschen (1794)
    — Bildung como processo ético-estético
 
-3. Goethe, Wilhelm Meisters Lehrjahre (1795-96)
+3. Goethe, Wilhelm Meisters Lehrjahre (1795–96)
    — Bildungsroman canônico
 
 4. Schleiermacher, Über die Religion (1799)
@@ -169,19 +169,19 @@ Bedeutungsverschiebung dramática:
 1. Hegel, Phänomenologie des Geistes (1807)
    — Geist como auto-desenvolvimento dialético da autoconsciência histórica
 
-2. Hegel, Vorlesungen über die Philosophie der Weltgeschichte (1822-31)
+2. Hegel, Vorlesungen über die Philosophie der Weltgeschichte (1822–31)
    — Weltgeist como sujeito da história
 
 3. Dilthey, Aufbau der geschichtlichen Welt in den Geisteswissenschaften (1910)
    — Geist como objeto das Geisteswissenschaft
 
-4. Cassirer, Philosophie der symbolischen Formen (1923-29)
+4. Cassirer, Philosophie der symbolischen Formen (1923–29)
    — Geist como faculdade simbólica humana
 
 5. Heidegger, Sein und Zeit (1927) §72-77
    — crítica do Geist hegeliano via Sein-Frage
 
-6. Klages, Der Geist als Widersacher der Seele (1929-32)
+6. Klages, Der Geist als Widersacher der Seele (1929–32)
    — crítica anti-Geist (controversa, por Lebensphilosophie)
 ```
 
@@ -236,7 +236,7 @@ Kontroverse filológica: etymon DE wahr ≠ etymon GR ἀλήθεια.
 3. Kant, Kritik der reinen Vernunft (1781/1787)
    — Wahrheit como acordo-com-objeto via categorias
 
-4. Hegel, Wissenschaft der Logik (1812-16)
+4. Hegel, Wissenschaft der Logik (1812–16)
    — Wahrheit como auto-desenvolvimento dialético
 
 5. Frege, Über Sinn und Bedeutung (1892)
@@ -361,13 +361,13 @@ Substantivierung filosófica do Inf.: das Sein.
 3. Kant, KrV (1781) — capítulo "Vom Sein"
    — Sein não é predicado real
 
-4. Hegel, Wissenschaft der Logik (1812-16) — Sein-Logik
+4. Hegel, Wissenschaft der Logik (1812–16) — Sein-Logik
    — Sein como categoria inicial do sistema
 
 5. Heidegger, Sein und Zeit (1927) — texto-fundador
    — Sein-Frage; Differenz Sein/Seiende
 
-6. Heidegger, Vom Wesen des Grundes (1929), Beiträge zur Philosophie (1936-38, póstumo)
+6. Heidegger, Vom Wesen des Grundes (1929), Beiträge zur Philosophie (1936–38, póstumo)
    — Sein-Geschichte
 ```
 

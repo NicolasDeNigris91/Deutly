@@ -32,8 +32,8 @@ quiz:
       - "Variação dialetal moderna."
       - "Erro de cópia."
     correct: 1
-    explanation: "Mhd. ortografia editorial moderna (Karl Lachmann 1820-1850, depois) usa **circunflexo** para Vokallänge: â/ê/î/ô/û = vogal longa. Distintivo de Nhd. (que usa duplo vogal: aa/ee, ou silent-h: ah/eh). 'dâ' (Mhd.) = 'da' (Nhd.). Outros: 'sîn' = 'sein'; 'lîp' = 'Leib' (corpo, vida); 'wîp' = 'Weib' (mulher); 'hôch' = 'hoch'. Reconhecimento ortográfico = primeiro passo na leitura Mhd."
-  - q: "Lutherbibel (1522-1534) é Frnhd. canônico. Por que sua influência sobre Nhd.?"
+    explanation: "Mhd. ortografia editorial moderna (Karl Lachmann 1820–1850, depois) usa **circunflexo** para Vokallänge: â/ê/î/ô/û = vogal longa. Distintivo de Nhd. (que usa duplo vogal: aa/ee, ou silent-h: ah/eh). 'dâ' (Mhd.) = 'da' (Nhd.). Outros: 'sîn' = 'sein'; 'lîp' = 'Leib' (corpo, vida); 'wîp' = 'Weib' (mulher); 'hôch' = 'hoch'. Reconhecimento ortográfico = primeiro passo na leitura Mhd."
+  - q: "Lutherbibel (1522–1534) é Frnhd. canônico. Por que sua influência sobre Nhd.?"
     options:
       - "Coincidência."
       - "**Lutherbibel padronizou o ostmitteldeutsch como base do Hochdeutsch escrito moderno**: a tradução luterana foi adotada amplamente, fixou ortografia + morfologia + lexikon de modo durável. Influência sobre Nhd. é massiva: cunhagem de Phraseologismen ('Perlen vor die Säue werfen', 'auf Sand bauen'), termos teológicos ('Gnade, Erbarmen, Versöhnung'), sintaxe de oração subordinada germanizada. Junto com a Reformation, criou a base do alemão moderno padrão."
@@ -127,7 +127,7 @@ A **Benrather Linie** (linha geográfica norte-sul) marca a fronteira maken/mach
 
 ### 2.3 Mittelhochdeutsch — convenções editoriais e leitura
 
-#### Ortografia editorial moderna (Lachmann, ~1820-1850)
+#### Ortografia editorial moderna (Lachmann, ~1820–1850)
 
 **Vokallänge marcada por circunflexo** ^:
 
@@ -325,13 +325,13 @@ Após terminar, peça o **Praktisches Tor**.
 
 1. **Schmidt, Wilhelm** — *Geschichte der deutschen Sprache*. 11. Aufl. Hirzel, 2013. **Manual canônico.**
 2. **Wolff, Gerhart** — *Deutsche Sprachgeschichte*. UTB, 2009.
-3. **Polenz, Peter von** — *Deutsche Sprachgeschichte vom Spätmittelalter bis zur Gegenwart*. 3 Bde. De Gruyter, 1991-2000.
+3. **Polenz, Peter von** — *Deutsche Sprachgeschichte vom Spätmittelalter bis zur Gegenwart*. 3 Bde. De Gruyter, 1991–2000.
 4. **König, Werner** — *dtv-Atlas Deutsche Sprache*. 19. Aufl. dtv, 2019. **Atlas dialectológico-histórico essencial.**
 
 ### Lexikographie histórica
 
 - **Lexer, Matthias** — *Mittelhochdeutsches Handwörterbuch*. (online: https://woerterbuchnetz.de/Lexer)
-- **Grimm, Jacob/Wilhelm** — *Deutsches Wörterbuch* (DWB). 1854-1961. **Léxico histórico canônico.** (online: https://www.dwds.de/d/wb-1dwb1)
+- **Grimm, Jacob/Wilhelm** — *Deutsches Wörterbuch* (DWB). 1854–1961. **Léxico histórico canônico.** (online: https://www.dwds.de/d/wb-1dwb1)
 - **Pfeifer, Wolfgang (Hg.)** — *Etymologisches Wörterbuch des Deutschen*. dtv, 2005.
 - **Kluge, Friedrich** — *Etymologisches Wörterbuch der deutschen Sprache*. 25. Aufl. De Gruyter, 2011.
 

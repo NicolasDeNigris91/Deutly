@@ -28,11 +28,11 @@ quiz:
   - q: "Em **Tagebuch / Schreibjournal** como instrumento de Stilbildung, qual o objetivo?"
     options:
       - "Apenas registrar eventos."
-      - "**Auto-observação estilística sustentada**: escrever regularmente (diário, journal) permite observar evolução de Stilfeatures próprios; identificar redundâncias, plebeísmos, marcas autorais emergentes. Kafka *Tagebücher* (1910-1923), Benjamin notebooks, Barthes *Journal de deuil* — todos modelos. Em DE-Lernende: Tagebuch em DE = exercício de auto-observação + Stilbildung simultâneo."
+      - "**Auto-observação estilística sustentada**: escrever regularmente (diário, journal) permite observar evolução de Stilfeatures próprios; identificar redundâncias, plebeísmos, marcas autorais emergentes. Kafka *Tagebücher* (1910–1923), Benjamin notebooks, Barthes *Journal de deuil* — todos modelos. Em DE-Lernende: Tagebuch em DE = exercício de auto-observação + Stilbildung simultâneo."
       - "Variação dialetal."
       - "Apenas factual."
     correct: 1
-    explanation: "Tagebuch como exercício de Stilbildung tem tradição rica: Kafka *Tagebücher 1910-1923* (Suhrkamp); Walter Benjamin notebooks; Brecht *Arbeitsjournal*; Bernhard *Auslöschung* (autobiograficamente moldado). Em prática: escrever 15-30 min/dia em DE; observar quais Stilfeatures emergem espontaneamente; identificar próprias preferências; refinar conscientemente. Combinação Anki (lexikon ativo) + Tagebuch (Stilbildung ativa) = Stage 5 produtivo."
+    explanation: "Tagebuch como exercício de Stilbildung tem tradição rica: Kafka *Tagebücher 1910–1923* (Suhrkamp); Walter Benjamin notebooks; Brecht *Arbeitsjournal*; Bernhard *Auslöschung* (autobiograficamente moldado). Em prática: escrever 15-30 min/dia em DE; observar quais Stilfeatures emergem espontaneamente; identificar próprias preferências; refinar conscientemente. Combinação Anki (lexikon ativo) + Tagebuch (Stilbildung ativa) = Stage 5 produtivo."
   - q: "**Auto-retrospectiva estilística** (Mann, Bernhard, Kafka) é gênero específico onde autores fazem o quê?"
     options:
       - "Apenas autobiográfico."
@@ -201,7 +201,7 @@ Fase 4 (~contínuo): Refinamento iterativo via Public Output (CAPSTONE-5).
 
 | Autor | Tagebuch / Schreibjournal | Funktion |
 |---|---|---|
-| Kafka | *Tagebücher 1910-1923* | auto-análise estilística; experiment de prosa |
+| Kafka | *Tagebücher 1910–1923* | auto-análise estilística; experiment de prosa |
 | Brecht | *Arbeitsjournal* | reflexão sobre práxis literária + política |
 | Mann | *Tagebücher* (5 Bde., S. Fischer) | auto-observação biográfico-estilística |
 | Walter Benjamin | notebooks (Suhrkamp) | montagem de citações + reflexões |
@@ -251,7 +251,7 @@ Auto-análise psicológico-estilística. Rico em:
 - Relação entre vida e prosa.
 - Voz emergente da angústia paterna.
 
-#### Goethe *Dichtung und Wahrheit* (1811-1833)
+#### Goethe *Dichtung und Wahrheit* (1811–1833)
 
 Autobiografia estilística clássica. Modelo de Bildung-tradição: cada fase da vida produz fase do Stil.
 
@@ -351,11 +351,11 @@ Após terminar, peça o **Praktisches Tor**.
 2. **Bernhard, Thomas** — *Wittgensteins Neffe: Eine Freundschaft* (1982). Suhrkamp.
 3. **Bernhard** — *Auslöschung. Ein Zerfall* (1986). Suhrkamp.
 4. **Kafka, Franz** — *Brief an den Vater* (1919, póstumo). Reclam UB.
-5. **Kafka** — *Tagebücher 1910-1923*. Suhrkamp.
+5. **Kafka** — *Tagebücher 1910–1923*. Suhrkamp.
 6. **Goethe** — *Dichtung und Wahrheit*. Hamburger Ausgabe.
 7. **Brecht, Bertolt** — *Arbeitsjournal*. Suhrkamp, 1973.
 8. **Walter Benjamin** — notebooks. Suhrkamp.
-9. **Arendt, Hannah** — *Denktagebuch* (1950-1973). Piper, 2002.
+9. **Arendt, Hannah** — *Denktagebuch* (1950–1973). Piper, 2002.
 
 ### Manuais / sobre Stilbildung
 

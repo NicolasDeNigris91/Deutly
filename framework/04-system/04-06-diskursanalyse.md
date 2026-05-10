@@ -32,7 +32,7 @@ quiz:
       - "Variação dialetal."
       - "Apenas teórica."
     correct: 1
-    explanation: "Kritische Diskursanalyse (KDA) é tradição investigativa engajada politicamente, surgida nos anos 1980-90 (Norman Fairclough em inglês; Ruth Wodak em alemão; Siegfried Jäger em alemão). Objetivos: (1) descrever estrutura discursiva em texto; (2) identificar como ideologias e poder são codificados linguisticamente; (3) crítica + intervenção. Aplicada a discurso político (Bundestagsdebatten, propaganda), midiático (jornalismo populista, BILD), institucional (escola, médico, jurídico). Tradição forte em DE-germanística + Soziolinguistik."
+    explanation: "Kritische Diskursanalyse (KDA) é tradição investigativa engajada politicamente, surgida nos anos 1980–90 (Norman Fairclough em inglês; Ruth Wodak em alemão; Siegfried Jäger em alemão). Objetivos: (1) descrever estrutura discursiva em texto; (2) identificar como ideologias e poder são codificados linguisticamente; (3) crítica + intervenção. Aplicada a discurso político (Bundestagsdebatten, propaganda), midiático (jornalismo populista, BILD), institucional (escola, médico, jurídico). Tradição forte em DE-germanística + Soziolinguistik."
   - q: "Em corpus de Bundestagsdebatten, qual marcador discursivo central de **face-protection in-group**?"
     options:
       - "Sem marcadores."

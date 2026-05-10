@@ -264,7 +264,7 @@ Cada Textsorte tem convenções de **estrutura, registro, Kohäsion-Mechanismen,
 
 ### 2.5 Sebald — caso paradigmático de Kohärenz literária
 
-W.G. Sebald (1944-2001) constrói prosa onde Kohärenz **não emerge de trama linear** mas de **associação meditativa**. Características:
+W.G. Sebald (1944–2001) constrói prosa onde Kohärenz **não emerge de trama linear** mas de **associação meditativa**. Características:
 
 #### Parataxe associativa em frases longas
 
